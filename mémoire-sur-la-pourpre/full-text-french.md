@@ -12,7 +12,7 @@ Dès longtemps la question de savoir comment les anciens se procuraient la belle
 
 Tantôt, en effet, on rencontre dans les traités de malacologie les expressions _poche à poupre_, la _veine à matière pourprée_, le _réservoir_, etc. ; on va même jusqu'à dire que c'est la _bile de l'animal_* ou _suc pris de l'estomac_ ; la coquille elle-même a été considérée comme fournissant la couleur.
 
-*) Voyez Mémoire de M. Sacc, _Bulletin de la Société industrielle de Mulhouse, n° 130, 1856, p. 306. « Il est positif qu'à Tyr en préparait la laine en l'imprégnant d'abord du suc verdâtre d'un coquillage, et qui semble en avoir été la bile. »
+*) Voyez Mémoire de M. Sacc, _Bulletin de la Société industrielle de Mulhouse_, n° 130, 1856, p. 306. « Il est positif qu'à Tyr en préparait la laine en l'imprégnant d'abord du suc verdâtre d'un coquillage, et qui semble en avoir été la bile. »
 
 Quand on s'occupe sérieusement de l'anatomie d'un groupe, on se contente moins facilement de renseignements aussi vagues ; et, il faut le dire, ce ne serait pas être difficile que d'être satisfait par cette série d'indications aussi peu précises que variées.
 
