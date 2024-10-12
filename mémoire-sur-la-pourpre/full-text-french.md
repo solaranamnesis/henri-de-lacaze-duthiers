@@ -38,4 +38,168 @@ Son histoire doit donc être et se trouve en effet dans les ouvrages anciens. On
 
 *) V. Athénée : [GREEK]. (Athen. _Deipnos._, 12, c. 31, édit. Bipont., vol. 4, p. 455). --- Voyez aussi plus loin la note accompagnant un passage de Pline, où les prix sont indiqués en valeur de notre monnaie.
 
+Mais, de nos jours, les progrès de l'industrie ont fait perdre presque entièrement la valeur à cette matière tinctoriale. Aujourd'hui, dans de rares pays, tout au plus est-elle restée le secret de quelques personnes qui s'en servent pour marquer le linge, car elle est à peu près indélébile. Les choses sont donc bien changées depuis les temps anciens ; aussi ne trouvons-nous relativement à elle que des recherches de pure curiosité dans les temps modernes.
+
+Dans les temps anciens, Aristote et Pline s'en occupent, comme on le pense bien ; l'un et l'autre font connaître comment on préparait la couleur. Il y aura lieu de revenir sur les faits que rapporte Pline, car on sait que cet auteur semble faire recueil des particularités les plus étranges : on croirait parfois qu'il s'impose de rapporter toutes les traditions, quelle qu'en soit la valeur ; il semble les accumuler a plaisir.
+
+Il paraît préférable de juger les opinions diverses au fur et à mesure que les faits se présenteront. Pline et Aristote nous serviront beaucoup pour résoudre certaines questions ; on peut donc laisser de côté, pour le moment, leur texte et leurs opinions, dont l'interprétation se trouvera singulièrement simplifiée par l'exposé des faits que fournit l'expérience.
+
+Les mémoires relatifs à la pourpre sont extrêmement nombreux, et l'on en trouve à peu près dans toutes les langues.
+
+C'est surtout la recherche de l'espèce de coquillage employé par les anciens, et des procédés mis en usage par eux, qui sert de thème. Sans examiner tous ces travaux comme dans une revue critique, j'indiquerai cependant les principaux, et je choisirai surtout les points douteux qu'ils ne résolvent pas.
+
+Bernard de Jussieu et Réaumur s'occupèrent de la Pourpre, et firent quelques expériences curieuses.
+
+Il est assez intéressant d'étudier le mémoire de Réaumur ; on y trouve un enseignement qu'il est sans aucun doute utile de mettre en lumière.
+
+Réaumur avait été sur les côtes du Poitou pour se livrer à différentes recherches, ainsi qu'il le raconte. On trouve son travail dans les _Mémoires de l'Académie royale des sciences_.* Il avait, dans ses excursions au bord de la mer, exprimé sur ses manchettes le liquide de la Pourpre (qu'il désigne sous le nom de Buccin). Comme cela lui est habituel, il nous fait participer à l'étonnement que lui fait éprouver la découverte du développement de la couleur pourpre ; il porta surtout son attention sur les capsules que produisent les Pourpres, et où elles enferment leurs œufs : il reconnaît très bien que ces grains, ainsi qu'il les appelle, n'étaient autre chose que les œufs de son _Buccinum_. Le liquide contenu dans ces capsules jouissait de la propriété de devenir pourpre comme une partie du tissu de l'animal.
+
+*) Année 1711, p. 168.
+
+Mais voici le fait qu'il semble utile de faire ressortir : il montrera combien, dans les sciences, quand le point de départ n'est pas juste, on dévie facilement ; combien surtout on arrive à des conclusions exactes en apparence, mais d'autant plus erronées, que les prémices ont été plus fausses et le raisonnement conduit par un homme plus habile.
+
+Répétant chez lui les expériences qu'il avait faites sur ses manchettes en parcourant les grèves, Réaumur fut frappé de ne point voir se développer la couleur pourpre. Il s'approcha de la fenêtre, et bientôt il vit le violet qui s'était produit à la mer se représenter. D'où venait que dans le fond de la chambre la couleur n'apparaissait pas ? D'où venait qu'elle se montrait près de la croisée ?
+
+« Je savais bien qu'il n'y a pas de moyen plus propre pour faire prendre promptement la couleur pourpre à la liqueur des _Bucci num_, que d'exposer cette liqueur à un grand feu ou à un soleil ardent ; mais je savais aussi que le soleil n'avait point paru pendant tout le temps que j'avais été au bord de la mer. La chaleur n'avait donc point eu de part au succès de l'expérience que j'avais faite alors. »
+
+Voilà certainement le point de départ de ses interprétations, qui sont complètement opposées à la vérité. Réaumur cependant était habile observateur, scrutateur consciencieux, prudent par-dessus tout. Qui n'a admiré ses belles observations sur les insectes ! observations où tant de faits se trouvent réunis ; malheureusement trop souvent presque inutiles, si ce n'est même perdues pour la science, par cette imperfection si regrettable de la nomenclature zoologique à l'époque où il écrivait et observait.
+
+Il cherche partout la cause du développement de la couleur violette. Tantôt il croit que ce peut être la chaux, et cela parce qu'il remarque que la couleur arrive quand il place la liqueur sur la muraille près de la croisée de son appartement ; mais il est obligé de renoncer à cette explication. Tantôt il considère le soleil agissant seulement comme agent de calorique, et il ajoute même* qu'en concentrant la lumière à l'aide d'une loupe, la teinte pourpre se développe très-vite dans le point ainsi soumis aux rayons concentrés, et cependant, quand il était sur la grève, le soleil était caché.
+
+*) _Loc. cit._, p. 166.
+
+La conclusion qui lui paraît forcée d'après cela est celle qu'il indique dans les termes suivants :
+
+« La cause d'un changement si prompt était alors aisée à apercevoir et tout le monde tire sans doute la même conséquence que je tirai, savoir que, puisque mes linges avaient toujours conservé la couleur blanchâtre de la liqueur dont ils étaient imbibés, lorsque je les avais laissés au milieu de ma chambre, et qu'au contraire, au lieu, de cette couleur, ils en avaient une pourpre lorsque je les avais mis sur ma fenêtre, on ne pouvait attribuer ce dernier effet qu'à la différente manière dont l'air agissait sur eux dans l'une et l'autre circonstance ; qu'il était dans un plus grand mouvement dans celle où ils rougissaient que dans l'autre où ils gardaient la première couleur de la liqueur. Qui eût jamais pu deviner qu'un peu plus ou un peu moins de circulation d'air eût pu produire si vite un pareil effet ? car les fenêtres mêmes de ma chambre, au milieu de laquelle je laissais les linges, étaient ouvertes. »
+
+Ainsi, parce que le jour où il fit les taches sur ses manchettes en étant à la plage, il vit la couleur, bien que le soleil fût caché, il arrive à admettre que c'est le mouvement de l'air, et il est si convaincu de cette influence, qu'il ajoute :
+
+« Il arrivait même, lorsque j'exposais les linges au grand air dans le milieu de la cour, et que, pour empêcher le vent de les emporter, je posais quelques petites pierres sur les coins, que tous les coins sur lesquels ces pierres portaient ne changeaient point dutout de couleur, quoique le reste prît une fort belle couleur pourpre.* »
+
+*) _Loc. cit._, p. 176.
+
+Et plus loin :
+
+« C'est donc à l'air seul qu'il faut attribuer ce changement de couleur.* »
+
+*) _Loc. cit._, p. 177.
+
+Dans ce fait qui le frappe, à savoir, que les parties de ses linges qui étaient couvertes par les pierres ne se coloraient point, il y a toutes les propriétés photogéniques nettement indiquées, mais inaperçues ; tant il est vrai qu'un esprit souvent le plus supérieur peut faire erreur, par cela seul qu'il n'interprète pas, ainsi que cela doit être, une condition même des plus insignifiantes en apparence.
+
+Réaumur, en faisant erreur et en attribuant au courant d'air ce qui devait simplement être rapporté à la lumière, a manqué, lui aussi grand physicien que naturaliste, la découverte (chose facile à reconnaître aujourd'hui) de la photographie. Cette manifestation si belle de la science moderne se traduisait à ses yeux par le fait de la couleur venue seulement dans les points non couverts par les petites pierres qui fixaient les pièces d'étoffes sur le sol de la cour ; mais il ne voit que le courant d'air, et l'action de la lumière ne lui apparaît pas. En remontant plus haut, bien avant lui indubitablement, on avait connaissance du fait ; car la couleur pourpre ne se développant que sous les rayons lumineux, il est impossible de pouvoir nier que les anciens avaient connu cette propriété. Seulement il fallait l'initiative ; il fallait cette idée qui s'applique à atteindre un but spécial ; il fallait cette simple pensée qui ouvre une nouvelle voie ; il fallait, en un mot, ce quelque chose qui, souvent bien longtemps attendu par les siècles, révèle toute une voie inexplorée, lorsqu'il est trouvé, crée une branche nouvelle que l'on dit ou croit être l'ouvrage d'un seul, alors que les générations ont accumulé les faits, et fourni les matériaux à celui qui a eu le bonheur de couronner l'édifice par un trait de génie qui paraîtra bientôt aussi simple que naturel.
+
+Avant Réaumur, William Cole avait fait des essais tout à fait semblables.
+
+On ne trouvera, du reste, dans les traités qui en font mention, rien qui puisse apporter une clarté quelconque relativement au sujet qui doit nous occuper.
+
+De Jussieu avait opéré en 1709, Réaumur en 1711. Duhamel fit ses expériences en 1736. A bien des égards, il est le contradicteur de Réaumur. Lui aussi il s'occupe du changement de couleur ; il en décrit très-exactement les phases, il en indique la cause ; mais il finit par une explication peu conforme, sans doute, aux connaissances modernes.
+
+Ayant montré comment Réaumur avait été conduit à une conclusion fausse, il est utile de rappeler les résultats du travail de Duhamel.*
+
+*) Voyez volume de 1736 des _Mémoires de l'Académie des sciences_, p. 49.
+
+Si l'on voulait passer en revue tous les mémoires et écrits qui ont été publiés sur la Pourpre, on n'en finirait pas. Aussi, en appelant l'attention encore sur celui de Duhamel, le but est de montrer qu'il a fait des expériences qui auraient dû encore plus directement que celles de Réaumur le conduire à la photographie.
+
+Duhamel fait remarquer que les changements de couleur sont très-connus ; il ne pouvait en être en effet autrement. Pline lui-même, dit-il avec raison, en fait mention. Le point qui fixe l'attention du savant est que l'action du soleil seule détermine la couleur. On a vu que Réaumur l'attribuait au renouvellement de l'air. « Ayant donc bien vérifié, par plusieurs expériences, que toutes les fois que je mettais le suc colorant de mes Pourpre sur du linge exposé au soleil, il devenait rouge en quelques minutes, après avoir passé par les couleurs dont j'ai parlé, je voulus m'assurer s'il ne prendrait pas cette couleur à l'ombre : pour cela je frottai un morceau de linge, que je laissai passer la nuit sur ma cheminée, mais il devint seulement vert, et ne rougit pas. J'essayai encore si le grand air ne réussirait pas mieux : pour cela, je mis de ce suc colorant sur un morceau de linge, que je posai sur ma fenêtre au nord, et sur laquelle la lune ne donnait pas, afin d'éviter toute lumière, et je le retirai le lendemain avant le soleil, il n'avait pas changé de couleur le jour suivant. Cette expérience prouve que le soleil agit d'une façon très singulière et très efficace sur le suc colorant dont il s'agit.* »
+
+*) _Loc. cit._, p. 53.
+
+Puis il recherche si le soleil a une action par la chaleur ou la lumière, en déterminant dans le premier cas une évaporation de quelque chose : « Je posai sur un appui de fenêtre bien échauffé par les rayons du soleil un morceau de linge mouillé du suc colorant, et que j'avais couvert en partie d'un écu ; dans ce moment, la partie du linge qui était exposée au soleil se colora, mais celle qui était sous l'écu resta seulement de couleur verte.* »
+
+*) _Loc. cit._, p. 54.
+
+Puis essayant la chaleur du feu, les résultats furent négatifs.
+
+Voulant s'assurer que les corps couvrant les tissus imbibés n'agissaient qu'en interceptant les rayons lumineux, et non en empêchant une évaporation, il fit l'observation que, sous un verre épais de plusieurs pouces, la couleur venait aussi belle et très foncée.
+
+Des papiers transparents de différentes couleurs, employés successivement, lui donnèrent des résultats curieux. On remarquera que sous un papier bleu, la teinte pourpre se développa bien. On sait que la couleur bleue est très-photogénique. « Mais ce qui me surprit le plus, dit-il, c'est que, quoique le papier bleu parût assez opaque, les échantillons qui étaient dessous étaient assez bien colorés.* »
+
+*) _Loc. cit._, p. 53.
+
+Ainsi se trouve démontrée l'action de la lumière aussi clairement que possible, et par cela même la fausseté de l'explication donnée par Réaumur. Mais Duhamel, lui aussi, avait fait des expériences démontrant les propriétés photogéniques ; il avait sous la main les phénomènes, base de cette science toute nouvelle, mais il n'avait pas trouvé l'explication. Celle qu'il donne n'est certainement pas à l'abri de tout reproche :
+
+« Il me paraît que cette action du soleil sur cette liqueur est assez singulière, et mérite d'être examinée avec plus d'attention et de loisir que je ne l'ai pu faire, quoiqu'il paraisse qu'elle tienne assez à l'effet que cet astre produit sur les pêches, les pommes d'api, et quantité d'autres fruits qui ne prennent une belle couleur rouge que dans les endroits qui y sont exposés.* »
+
+(2) Voy. _loc. cit._, p. 59.
+
+On trouve ici comparées deux choses qui ne sont guère comparables : dans un cas, c'est l'action des rayons solaires sur la matière soumise à la vie : dans l'autre, c'est cette même action sur des produits qui ont cessé d'être sous l'influence de la force vitale. Jamais le manteau des Pourpres ne se colore pendant la vie de l'animal : les mucosités seules prennent la teinte rouge violacé.
+
+Par ordre de date, le mémoire que je citerai ensuite est de 1779 ; il est d'un Espagnol, et ne manque pas d'avoir assez d'intérêt. On y remarque aussi relatées les observations, comme les opinions des auteurs français et des autres naturalistes. L'auteur, don Juan Pablo Canals y Marti, inspecteur général pour S. M. _del Ramo de la Rubia o Granza_, directeur général des teintures du royaume, est plein d'érudition et y traite à peu près de la plupart des questions relatives au changement de couleur de la matière, etc. Il y établit que beaucoup d'espèces peuvent servir à teindre ; que dans les Indes, comme dans l'Amérique, beaucoup de _Caracols_ (coquillages, limaçons) sont mis à profit par les teinturiers, et que les changements de couleur y sont connus.
+
+Enfin il cherche à préciser d'une manière exacte la position de la partie de l'animal qui donne le produit propre à la teinture. Mais il n'est point anatomiste, et bien que, de tous les auteurs, ce soit celui qui donne une description des plus exactes, il ne traite nullement de la question qui doit surtout nous occuper ici.
+
+Il ne m'est possible de citer quelques mémoires venus un peu plus tard que par des extraits que je trouve heureusement dans un auteur fort sérieux ; on verra plus loin les citations empruntées à l'auteur allemand auquel je laisse toute la responsabilité des faits qu'il avance.* Quelle que soit la valeur de ces travaux, on peut prévoir cependant qu'ils n'ont pas dû traiter les questions de photographie et de structure, ainsi que la détermination de la partie productrice, en raison même de l'état de la science à leur époque, comme cela a pu l'être dans le présent travail. Du reste, il suffira de se reporter aux passages qui seront cités plus loin, pour reconnaître que Pline a servi largement, quand il s'est agi, soit de désigner les espèces, soit de faire connaître le prétendu réservoir de la Pourpre.
+
+*) Voy. plus loin _Ann. des sciences nat._, Zool. 4e série, t. 12, citations de Heeren.
+
+Aussi, Amati dans son travail _De restitutione purpurarum_,* Capelli dans celui qu'il intitule _De antiqua et nupera purpura_,* et don Michael Rosa dans sa _Dissertazione delle porpore e delle materie vestiarie presso gli antichi_* ne doivent-ils pas s'être occupés de la question au même point de vue que nous. Tout en indiquant leurs travaux, je le répète, j'ai le regret de ne pouvoir en parler que d'après Heeren.
+
+*) Amati, _De restitutione purpurarum_, 3e édit. Cesena, 1784.
+
+*) Capelli, _De antiqua et nupera purpura_.
+
+*) Don Michael Rosa, _Dissertazione delle porpore e delle materie vestiarie presso gli antichi_, 1786.
+
+On lira avec le plus grand intérêt, et surtout avec beaucoup d'utilité, l'article **Pourpre** du _Dictionnaire d'histoire naturelle_ (1826), de M. Defrance ; on y trouvera, en effet, des traductions et des analyses, des extraits, pour les anciens, d'Aristote, de Pline, de Vitruve, d'Opien, d'Élien, de Pollux ; pour les modernes, de Belon, de Rondelet, de Gesner et d'Aldrovande, de Fabius Columna, de Guill. Cole, de Lister, de Réaumur, de Duhamel du Monceau, etc., etc.
+
+Nous aurons à revenir sur quelques-unes des conclusions de cet article.
+
+En se rapprochant beaucoup plus de ces derniers temps, on ne voit que deux travaux sur la Pourpre, l'un de M. Bartolomeo Bizio, l'autre de M. Sacc. On trouve bien aussi des dissertations critiques sur les interprétations des textes des anciens, des traductions d'Aristote et de Pline, et je puis en particulier citer celle que M. de Saulcy a fournie à M. Sacc, et qui a été publiée dans le même recueil que le mémoire du savant chimiste de Mulhouse.
+
+Le travail de Bartolomeo Bizio a pour objet _Investigazione chimiche sopra il Murex brandaris_ Linn., et a été publié dans les _Annali delle scienze del regno Lombardo-Veneto_ (Padova, 1835).
+
+Il y est question aussi du _Murex trunculus_. Le travail est étendu, et la substance colorante semble avoir été traitée de toutes manières ; il y a des analyses fort nombreuses, ou plutôt des essais par les différents agents, eau, alcool, etc., des parties antérieures et postérieures du corps ou du corps tout entier ; il y a de nombreuses expériences sur la solubilité de la matière, sur l'action de l'ammoniaque, des alcalis, etc. Les analyses organiques laissent beaucoup à désirer, bien qu'il y soit parlé d'oxydation.
+
+Je ne puis reconnaître s'il y a eu un principe immédiat isolé, et si cette question, fort intéressante, est résolue : _La matière, avant l'action de la lumière, est jaune et non odorante ; après, elle est violette et d'une odeur des plus prononcées. Y a-t-il eu une transformation ?_ Quelle est donc au juste la nature de l'action du soleil ? Quel changement a-t-il produit ? Quelle modification a-t-il imprimée à l'état moléculaire ou à la composition chimique de cette substance organique ?
+
+Il était impossible que l'on travaillât, comme l'a fait Bizio, sur une pareille matière, sans reconnaître les changements de couleur sous l'influence des rayons solaires. Aussi ces changements sont-ils indiqués, de même qu'ils l'avaient été bien avant par Réaumur, Duhamel.
+
+Bizio a extrait de la matière colorante un acide et un oxyde.
+
+M. Sacc a publié dans le _Bulletin de la Société industrielle de Mulhouse_, n° 130, année 1854, une esquisse de l'histoire de la Pourpre. Dans ce résumé assez succinct des travaux qui ont précédé son mémoire, M. Sacc s'occupe peu de la question anatomique ; il semblerait même qu'il n'a fait qu'une revue purement bibliographique, avec quelques rapprochements inspirés par les découvertes modernes relatives à l'alloxane et à la murexide. Il ne paraît pas, d'après ce travail, que M. Sacc ait fait d'expériences par lui-même. Son mémoire, du reste, lu à la Société industrielle, n'est pas long, et, comme tout ce qui est destiné à la lecture, est agréablement écrit, les faits y sont présentés d'une manière aussi claire que concise, et avec ce cachet apprécié par tous ceux qui connaissent l'éminent chimiste. Il y a cependant quelques-unes des conclusions qu'il n'est pas possible d'admettre, l'anatomie démontrant, par exemple, clairement que la partie productrice de la Pourpre n'est pas le rein, bien que cela soit affirmé, sinon d'après des expériences directes, du moins indiqué comme probable d'après l'analogie des couleurs que fournissent la matière à Pourpre et l'acide urique ou ses dérivés.
+
+Dans leurs recherches historiques sur Rome et l'antiquité, il est rare que les auteurs ne parlent pas de la pourpre ; elle tenait un rang trop distingué parmi les couleurs des vêtements et les dignités, pour qu'un article ne lui soit pas toujours consacré. Or, le plus souvent, dans les citations bibliographiques, les auteurs se copient les uns les autres, en modifiant les expressions de leurs prédécesseurs suivant leur goût pour le style ; de là souvent des erreurs nouvelles faisant suite ou venant s'ajouter aux erreurs des textes que l'on prend pour guide.
+
+On peut trouver, en histoire naturelle, bien des exemples de ces citations faites sans remonter à l'auteur original, et de ces citations tout à fait fautives qui se perpétuent de la sorte.
+
+Parmi tant d'autres ouvrages où il est question de la couleur qui nous occupe, voici M. Desobry, dans ses _Lettres_, du reste fort instructives et très-intéressantes, _sur Rome au siècle d'Auguste, ou Voyage d'un Gaulois à Rome à l'époque du règne d'Auguste et pendant une partie du règne de Tibère_, qui donne aussi un extrait des auteurs, pour la faire connaître.
+
+On trouve à chaque instant, dans les auteurs latins, _tincta murice lana_* ; les mots _murex_, _conchylium_, _concha_,* reviennent bien fréquemment. C'est donc d'un coquillage qu'il est question dans Pline comme dans les autres auteurs, et, pour personne, un Limaçon de mer n'a été un Poisson. Et qu'on le remarque, ce n'est pas ici une distinction sévère, exacte et subtile d'histoire naturelle que je veux établir : non. Il n'est possible à personne de reconnaître un coquillage sous cette expression : « _Un poisson de mer appelé Pourpre fournit cette riche teinture._ » Or cette expression, pour des personnes qui lisent simplement les ouvrages sans remonter aux sources, désignera bien ce qu'elle indique. Il est vrai de dire que si l'on ouvre un _Gradus ad Parnassum_,* on y trouvera, après le mot **Murex** : « _Poisson dont on tire la pourpre_ ; » après le mot **Pourpre** : « _Couleur fournie par un coquillage que trouvèrent les bergers._ » Quel embarras pour celui qui n'est pas naturaliste, qui connaît seulement, comme tout le monde, que le Poisson n'est pas un coquillage, et réciproquement. Comment fixer son idée sur l'animal qui produisait cette belle couleur ?
+
+*) Horace.
+
+*) Voyez les dictionnaires classiques latins donnant des synonymies au mot _Pourpre_. L'idée de coquillage y est bien établie ;  
+« Quæ de Tyrio murice lana rubet. --- O. »  
+« Purpura Thessalico concharum tincta colòre. --- Lr. »
+
+*) _Gradus ad Parnassum_, Quicherat, ouvrage classique.
+
+C'est avec de telles traductions que, dans le tome 1er, lettre 14, M. Desobry reproduit tout ce que dit Pline, avec des renvois en note indiquant le livre et le paragraphe. Mais pourquoi changer les expressions d'une manière aussi malheureuse : « _Un poisson de mer appelé Pourpre fournil cette riche teinture_.* »
+
+*) Desobry, _loc. cit._, p. 353, lett. 14 du tome 1.
+
+Jamais Pline, au paragraphe 52, n'a parlé d'un poisson ; il a déjà fait assez d'erreurs pour ne point lui en faire commettre d'autres. Après avoir traité, dans le livre 9, des Crustacés, qu'il désigne par le nom de _Cancer_,* et des Oursins,* il arrive aux Coquillages, et il dit en toutes lettres : « Viennent à présent les _Murex_, dont les tests sont plus durs, et les divers genres de coquillages.* » D'ailleurs le mot _couleur conchylienne_ revient à chaque instant dans son ouvrage. Les erreurs se transmettent et se perpétuent par des citations incomplètes ou des changements de mots : c'est le cas ici. M. Desobry rapporte toutes les erreurs avancées par Pline, et ajoute celle qui vient d'être indiquée plus haut. Le Buccin lui-même y est désigné comme un « autre poisson de mer. » Déjà le texte est difficile à interpréter, quand on veut se rendre compte de l'espèce désignée par le naturaliste latin ; que devient-il pour celui qui prend l'expression _poisson de mer_ au sérieux ?
+
+*) Voy. Pline, édition Panckoucke, t. 7, p. 78, 80, liv. 9, §§ 50, 51.
+
+*) _Ibid._, p. 80, liv. 9, § 51.
+
+*) _Ibid._, p. 82, traduction de la collection Panckoucke, liv. 9, § 52, « Firmioris jam testæ Murices, et concharum genera. »
+
+Dans tous les travaux, la propriété particulière à cette matière devait se trouver relatée. Il eût été curieux de faire des analyses organiques, et de voir, ainsi qu'il a été dit précédemment, ce qu'est cette matière. J'espère que mon excellent ami et collaborateur pour d'autres recherches de chimie physiologique, M. Alfred Riche, pourra m'aider à combler cette lacune, et que plus tard des notions exactes sur la substance trouveront leur place dans la science.
+
+Ce qui est surtout l'objet du travail actuel, c'est la détermination exacte de la partie qui produit la matière colorante. Nulle part on ne trouve des données claires et nettes relatives à la question, et, après bien des recherches bibliographiques, il est encore possible de répéter l'une des conclusions que l'on trouve à l'article **Pourpre** du grand _Dictionnaire d'histoire naturelle_.* M. Defrance s'exprime ainsi :
+
+« 5° Nous ne savons pas davantage au juste dans quelle partie de l'animal se trouve cette matière : est-ce dans l'organe dépurateur ? est-ce dans l'appareil-générateur lui-même ? Ce qui pourrait porter à le croire, c'est que les œufs du _P. lapillus_ contiennent la même liqueur en abondance, comme l'a observé Réaumur. Et alors on pourrait penser qu'il ne s'en trouve que dans les femelles, ce qui expliquerait l'observation de Duhamel, qui dit avoir vu des individus de la même espèce en avoir, et d'autres n'en avoir pas. »
+
+*) Voy. _Dict. d'hist. nat._, t. 43, p. 235, art. **Pourpre**.
+
+Ces conclusions démontraient la nécessité de nouvelles observations, aussi est-il possible de présenter les faits qui suivent comme nouveaux et positifs.
+
+Ayant eu à faire des recherches sur la matière pourprée, j'ai dû observer naturellement ses propriétés particulières : bien des auteurs en ont déjà parlé ; j'arrive un peu plus tard, alors qu'une nouvelle branche des arts, tirée de la science, est née, je veux dire la photographie, et j'ai pu mettre à profit cette découverte. Dans ces deux voies on ne rencontre rien, et c'est sur elle que j'appelle l'attention d'une manière plus spéciale.
+
+En tout cas, on trouvera ici des notions précises qui permettront de voir nettement où est le lieu qui fournit la matière, et qui pourront conduire peut-être d'autres plus favorisés à pousser plus loin l'étude de cette partie de l'histoire des sécrétions dans les Mollusques. Ainsi se fait la science ; chacun apporte, suivant ses forces, ce qu'il peut, et le faisceau se constitue lentement et peu à peu, mais aussi sûrement ; mieux vaut dire moins, mais dire sûrement sans hypothèse. La bibliographie y gagne des notions précises, au lieu de ces opinions vagues, souvent contradictoires, qu'il faut contrôler, et qui nuisent sans aucun doute au progrès ; car le travail pénible rebute, et rien n'est aujourd'hui rebutant comme cette série de noms à citer, auxquels se rapportent trop fréquemment des opinions qu'on doit combattre.
+
+# 3\. Des propriétés de la matière.
+
 ...
