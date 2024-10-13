@@ -432,6 +432,8 @@ Ainsi, il résulte déjà de cet examen que l'on trouve au côté gauche de l'an
 
 Ainsi donc on peut fixer la position de la partie purpurigène de la manière suivante : C'est une bandelette de teinte blanchâtre, souvent d'un jaune très léger, et placée à la face inférieure du manteau, entre l'intestin et la branchie, plus près de celui-là que de celle-ci, et ne dépassant guère en avant l'anus, atteignant tout au plus en arrière le point où le manteau arrive au contact du corps de Bojanus.*
 
+*) _Ann. des sc. nat._, Zool., 4e série, t. 12, pl. 1, fig. 2, 4, _r_ corps de Bojanus.
+
 C'est en cherchant à délimiter nettement cette partie, que j'ai trouvé la glande anale dont, à ce que je crois du moins, il n'est pas question dans les ouvrages.
 
 # 6\. Quelle est la structure intime de la partie purpurigène.
