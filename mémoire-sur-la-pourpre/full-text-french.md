@@ -346,4 +346,92 @@ Il serait à propos, après avoir parlé des propriétés de la matière et de s
 
 # 5\. Position de la glande ou partie produisant la matière à pourpre.
 
+Ainsi qu'il a été dit en commençant, le but principal de ce travail est la détermination anatomique exacte de la partie du corps des Gastéropodes fournissant la matière colorante.
+
+--- Qu'est-ce donc que cette partie ? où est-elle placée ?
+
+--- Est-elle particulièrement spéciale aux espèces donnant la matière colorante ?
+
+--- La retrouve-t-on dans tous les Mollusques gastéropodes ?
+
+Voilà tout autant de questions qu'il faut résoudre, et dont la solution permettra seule d'arriver à une détermination anatomique générale satisfaisante.
+
+Où est située la partie fournissant la matière pourprée ?
+
+Il me paraît à peu près inutile de citer les auteurs dont les indications sont les plus vagues et les plus entachées d'erreur. Les mots _veine_, _poche_, _sac à pourpre_, doivent également et tout d'abord être rayés, leur emploi étant fautif.
+
+Un des auteurs qui ont cherché à donner le mieux l'idée du lieu où il faut puiser la matière tinctoriale est Juan Pablo Canals y Marti, dont le mémoire a été déjà indiqué.* Il compare la coquille de la Pourpre à celle d'un limaçon de jardin, puis il fixé le point où se trouverait dans celui-ci les vases, les vaisseaux qui préparent la matière. La comparaison n'est peut-être pas très heureusement choisie, cependant elle sert à indiquer la position, ce qui est très important. Mais l'auteur fait erreur en indiquant un réceptacle de la liqueur, il n'y a pas de réceptacle. Je citerai textuellement ce qui a trait à ce point ; on verra que la question anatomique proprement dite y est complétement laissée de côté.*
+
+*) Voyez, à la fin de notre mémoire, la note relative au travail de MM. Grimaud et Gruby.
+
+*) _Loc cit._ : page 75, description de l'animal ; page 76, portion de la partie qui colore.  
+Paragraphe 6 de l'appendice. --- « Rompiendo la concha a poca distancia de sua abertura, o de la cabeza, y arrojando los pedazos rotos, se descubre el receptaculo lleno del licor proprio para la tintura de purpura. »  
+§ 7. « Se puede facilmente comprehender la posicion de este receptaculo, que no es siempre de la misma capacitad, si le concidera como un Caracol de jardin. Y asi supongale denudo de una parte de su concha, y descubierto le collar, o la masa de carne que circuye su cuello. Se vera colocado en el paraje que corresponde al pescuezo el precioso receptaculo referido. Su origenesta a la distancia de algunas lineas del bordo de su collar, y se extiende en direccion conforme al cuerpo del animal, esto es desde la cabeza hasta la cola, es o en linea recta, sin o culebreando. »
+
+Cherchons à donner une description en rapport avec les connaissances actuelles de l'anatomie des Mollusques.
+
+Il faut de toute nécessité concasser la coquille et débarrasser l'animal de tous les débris. Quand on est arrivé à séparer le muscle rétracteur attaché a la columelle, sans rien déchirer, on a l'animal intact et l'on peut faire la préparation suivante. D'abord qu'on examine l'animal dénudé,* et l'on verra le bord de son manteau entourant la base de la tête et du pied ; son prolongement tubuleux paraîtra à gauche, puis, à droite sur le côté, le muscle de la columelle en avant des tours de spire du corps.
+
+*) Voy. _Ann. des sc. nat._, Zool., 4e série, t. 12, pl. 1, fig. 1, animal de la _Pourpre lapillienne_ vu par le dos.
+
+Par transparence, dans l'épaisseur du manteau, on distinguera la branchie,* dont on reconnaîtra même les feuillets à des stries correspondantes ; à droite de celle-ci paraîtront successivement une bandelette jaunâtre,* puis, tout contre cette dernière, une arborisation longitudinale brun-chocolat* : sur la Pourpre lapillienne rien n'est facile à distinguer comme ces parties, sans autre préparation que l'enlèvement de la coquille.
+
+*) Voy. _Ann. des sc. nat._, Zool., 4e série, t. 12, pl. 1, fig. 1 animal de la _Pourpre lapillienne_ vu par le dos _b_.
+
+*) _Ibid._, _p_.
+
+*) _Ibid._, _c_.
+
+Si maintenant on fend d'avant en arrière le manteau, un peu à droite du canal, eu longeant le bord gauche de la branchie* ; si l'on rabat les lambeaux du manteau, on a la préparation suivante* :
+
+*) _Ibid._, _b_.
+
+*) _Ibid._, fig. 2.
+
+Le corps de l'animal paraît faisant suite à la tête : c'est sans aucun doute ce que les auteurs ont appelé le col de la Pourpre.* A droite de cette partie, on voit le lambeau droit du manteau rejeté en dehors et montrant maintenant sa face interne, celle qui auparavant était la voûte de la cavité. En partant du bord de la fente, on rencontre, en allant vers le corps de l'animal, les parties suivantes : un petit corps allongé feuilleté et ayant l'apparence d'une branchie* ; la branchie* ; la bandelette jaunâtre* cachant en partie les arborisations brunâtres* : l'anus,* et le rectum qui lui fait suite ; enfin l'orifice de la reproduction.*
+
+*) _Ibid._
+
+*) Voy. _Ann. des sc. nat._, Zool., 4e série, t. 12, pl. 1, fig. 2 _b'_.
+
+*) _Ibid._, _b_.
+
+*) _Ibid._, _p_.
+
+*) _Ibid._, _c_.
+
+*) _Ibid._, _a_.
+
+*) _Ibid._, _g_.
+
+Dans la Pourpre hémastome, la même chose se rencontre. La préparation se fait de même. La figure qui accompagne ce travail n'est que peu différente. La section du manteau a été faite dans un autre point, en sorte que les deux lambeaux* portent, l'un, à gauche, la branchie,* et le corps d'apparence branchiale* ; l'autre à droite, l'orifice génital presque caché et au contact du corps,* et puis l'anus et l'intestin,* enfin la bandelette jaune blanchâtre.*
+
+*) Voy. _Ann. des sc. nat._, Zool., 4e série, t. 12, pl. 1, fig. 8.
+
+*) _Ibid._, _b_.
+
+*) _Ibid._, _b'_.
+
+*) _Ibid._, _g_.
+
+*) _Ibid._, _a_.
+
+*) _Ibid._, _p_.
+
+Les _Murex_ présentent une analogie des plus grandes, dans la disposition, avec ce qu'on vient de voir dans les Pourpres ; la _glande anale_, c'est ainsi désormais que seront désignées ces arborisations brunâtres, est surtout extrêmement marquée, et sa couleur tranche vivement sur celle de la partie voisine.
+
+La figure du _Murex brandaris_,* comparée aux précédentes, montrera l'analogie tout de suite mieux que ne pourrait faire une description détaillée.
+
+*) _Ibid._, fig. 4. --- Les lettres indiquent les mêmes choses que dans les figures précédentes.
+
+Ainsi, il résulte déjà de cet examen que l'on trouve au côté gauche de l'anus et de l'intestin, parallèle à ce dernier, entre lui exactement et la véritable branchie, une glande brunâtre et une bandelette blanc jaunâtre. La glande est dans l'épaisseur des tissus, accolée à l'intestin ; la bandelette est à la surface interne du manteau, elle tapisse une partie de la voûte qu'il forme. Quand on a fait l'une des préparations indiquées,* et elles sont absolument nécessaires pour obtenir la matière pourprée, on n'a qu'à brosser la surface rabattue du manteau, et le pinceau se charge de la matière de la bandelette jaunâtre : celle-ci disparaît entièrement, et la glande anale se montre alors à découvert. C'est la bandelette jaunâtre qui fournit à elle seule toute la matière qui doit donner la couleur.
+
+*) _Ann. des sc. nat._, Zool., 4e série, t. 12, pl. 1, fig. 2, 3, 4.
+
+Ainsi donc on peut fixer la position de la partie purpurigène de la manière suivante : C'est une bandelette de teinte blanchâtre, souvent d'un jaune très léger, et placée à la face inférieure du manteau, entre l'intestin et la branchie, plus près de celui-là que de celle-ci, et ne dépassant guère en avant l'anus, atteignant tout au plus en arrière le point où le manteau arrive au contact du corps de Bojanus.*
+
+C'est en cherchant à délimiter nettement cette partie, que j'ai trouvé la glande anale dont, à ce que je crois du moins, il n'est pas question dans les ouvrages.
+
+# 6\. Quelle est la structure intime de la partie purpurigène.
+
 ...
