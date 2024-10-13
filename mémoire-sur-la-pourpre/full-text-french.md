@@ -270,6 +270,78 @@ La soie, d'ailleurs, conserve ce brillant et ces reflets qu'on lui connaît, et 
 
 Lés étoffes sont d'ailleurs fortement imprégnées de la matière colorante, et le dessin apparaît toujours également net et vif, quelle que soit la face du tissu que l'on examine. On a vu que la pourpre ne devait pas se faner ; on sait aussi que si elle perd d'abord un peu de son teint vif par le lavage, ensuite elle persiste ; on aurait donc des conditions de conservation très-bonnes, et qui donneraient peut-être plus d'importance qu'on ne le pense à cette branche de la photographie.
 
-# 4. Que se passe-t-il pendant l'action du soleil, et dans le changement de couleur ?
+# 4\. Que se passe-t-il pendant l'action du soleil, et dans le changement de couleur ?
+
+C'est là une question qu'il est assez difficile, de résoudre sans des recherches de la plus grande délicatesse et des analyses organiques probablement fort difficiles, sinon fort minutieuses.
+
+La première chose qui frappe est celle-ci : développement, conjointement et parallèlement à la production de la teinte violette, d'une odeur vive et très pénétrante, que bien des personnes, à qui je demandais inopinément, sans qu'elles fussent prévenues, --- quelle est cette odeur ? --- comparaient soit à l'odeur de la pierre à fusil, soit à l'odeur de la poudre brûlée, soit enfin à l'odeur de l'ail, de l'assafœtida. Les chimistes à qui j'ai fait la même question donnaient tous et toujours cette odeur comme étant celle de l'essence d'ail.
+
+L'odeur est extrêmement pénétrante au moment où la couleur vient à se produire ; elle persiste encore pendant fort longtemps ; elle ne se reproduit toutefois que lorsque l'on humecte le tissu coloré. Cependant, après un certain temps, elle semble disparaître ; mais quand on la connaît bien, on la retrouve sur les tissus que l'on imbibe. Une petite pièce de batiste teinte en violet à Mahon, en 1858, au mois d'août, exhalait l'odeur d'une manière très forte en la lavant un an après.
+
+Il se forme donc un produit, une matière nouvelle ; cela semble être une conclusion forcée, puisque les caractères physiques ont si complètement changé.
+
+La matière non influencée par la lumière est certainement soluble dans l'eau et dans l'alcool. Les preuves de ce fait sont nombreuses. D'abord quand on laisse mourir un animal, non-seulement la partie renfermant la matière devient pourpre, mais les tissus environnants se colorent eux-mêmes : cela tient à ce qu'ils se sont imprégnés du liquide évidemment par imbibition, et ils deviennent également pourpres. Les bords du manteau sont sans aucun doute complètement dépourvus de matière influençable, et cependant, sur les animaux morts, on les trouve souvent d'un beau violet.
+
+De plus, les animaux qu'on plonge dans les liquides conservateurs colorent la liqueur. J'ai placé dans des tubes avec de l'alcool des portions du manteau de la Pourpre hémastome, à Mahon ; l'alcool était devenu d'un beau violet.
+
+Au Jardin des Plantes des Pourpres conservés dans les liquides, ont une partie du manteau d'un beau violet.
+
+Cet effet s'est présenté constamment dans les flacons que j'ai.
+
+Enfin, quand on ajoute des gouttes d'eau sur les linges imprégnés de la matière, l'eau qui s'écoule va teindre les parties environnantes d'une teinte légère. Evidemment il y a eu dans ce cas solution de la matière.
+
+Plus tard, quand la matière est devenue violette, elle est parfaitement insoluble, et sa stabilité sur les tissus en est la preuve. Avant d'aborder de nouvelles questions, il est important de dire quelques mots sur la persistance de la teinte.
+
+J'ai fait des marques et des dessins sur du linge ; en particulier, j'avais fait mes initiales sur le coin de l'un des mouchoirs qui me servaient dans mon voyage ; et encore, bien que ce mouchoir ait servi avec intention très-fréquemment, et que le tissu en soit rompu, les lettres de la marque sont encore d'un très-joli violet un peu pâle, mais cependant d'une teinte extrêmement agréable.
+
+Du reste, l'habitude qu'ont les matelots de marquer leur linge avec le _Cor de fel_, à Mahon ; leur opinion, qui est la même pour tous, savoir, que les marques resteront inaltérables, prouvent que la matière, une fois colorée ou transformée, reste toujours inattaquable.
+
+Dans quelques essais que je faisais pour enlever la matière non attaquée, le chlorure de fer l'a détruite, mais le chlorure de chaux a agi beaucoup moins efficacement.
+
+La potasse, l'acide acétique, l'ammoniaque, l'acide chlorhydrique, ne m'ont pas paru altérer ou même modifier la teinte.
+
+La matière doit évidemment imprégner les tissus, et se modifier dans leur intérieur pour y rester ensuite indéfiniment. C'est ainsi qu'en enlevant la matière à pourpre avec une brosse, pour fournir un point d'appui au manteau, je le renversais sur mon pouce pour que les tissus pussent être brossés et dépouillés de leur matière. L'ongle était recouvert naturellement de matière ; il s'imprégnait tout à fait comme un tissu ordinaire, et conservait cette belle couleur pourpre plus de cinq semaines. L'ongle continuant à croître, la partie de nouvelle formation tranchait, après un certain temps, par sa couleur blanche sur la partie rouge antérieure. Évidemment, surtout quand on se livre à des recherches, quand on va à la mer presque tous les jours, voilà des conditions de lavage qui devraient faire disparaître vite cette teinte, si elle n'était fort tenace et fixée d'une manière presque indélébile : mais incorporée aux tissus et précipitée dans leur intérieur à l'état moléculaire, elle y reste fixée.
+
+Ainsi voilà des propriétés remarquables : insolubilité, inaltérabilité, à la suite de l'action de la lumière.
+
+La valeur qu'avait auprès des anciens la pourpre peut certainement trouver une raison dans ce fait : que, sous les climats brûlants et le ciel toujours si lumineux de l'Italie, de la Grèce et de l'Orient, la pourpre ne devait pas se faner comme les autres couleurs rouges, surtout comme celles tirées du règne végétal ou animal. La Cochenille, dont parle Pline,* et qui fournissait l'écarlate, ne devait point résister à l'action solaire. La pourpre, au contraire, qui a eu pour cause directe cette lumière même, ne peut s'altérer comme les autres couleurs. Évidemment tout ce qu'aurait pu faire le soleil, et les anciens étaient souvent exposés dans leurs cérémonies publiques à ses rayons, c'eût été de renforcer le ton des étoffes ; et l'on doit voir là certainement une des raisons de cette estime de la pourpre entre toutes les autres couleurs.
+
+*) Voy. Pline, t. 7, édit. Panckoucke, p. 115 et 114, liv. 9, § 65, traduction, etc. : « Quin et terrena miscere, coccoque tinctum tyrio tingere, ut fieret hysginum. Coccum Galatiæ rubens granum, ut dicemus in terrestribus, aut circa emeritam Lusitaniæ, in maxima laude est. »
+
+Quand on connaît ces faits, on ne peut se refuser d'admettre qu'il a dû se former un composé nouveau.
+
+M. Sacc a dit dans son rapport : « Il est évident que la matière à pourpre est accompagnée par une autre matière qui joue le rôle de mordant, et c'est à ce mordant qu'est due la fixation de la couleur. »
+
+Est-il absolument nécessaire, pour qu'une matière se fixe, qu'elle soit accompagnée d'un mordant ? Il y a bien des cas en teinture où l'on n'a pas besoin de mordancer les étoffes ; et ici je crois, sans m'être livré pour cela à des recherches particulières, qu'il y a pas de mordant. La substance est soluble, elle imprégne les tissus ; elle devient insoluble, se précipite, et reste par cela même fixée.
+
+Il faut dire cependant que les parties environnantes du manteau sécrètent une mucosité assez épaisse qui se mêle toujours, et quoi qu'on fasse, avec la matière à pourpre. Ce mucus aide beaucoup à rendre la couche de matière parfaitement égale dans le cas où l'on veut faire des photographies. Mais il faut aussi savoir que, si l'on a une trop grande quantité de mucus, celui-ci forme une sorte de vernis, de couche superficielle, qui se colore d'abord, et qui forme écran à la surface de la matière imprégnée dans le tissu. Si donc on a fait une photographie en laissant un trop grande quantité de mucus, on a l'image à la surface, en dehors dés tissus, ce qui fait que, pour peu qu'on humecte l'étoffe et qu'on la fasse adhérer à un autre tissu, on perd une grande partie de l'image.
+
+Maintenant quelle est l'action de la lumière sur cette matière ? Et d'abord c'est une action de la lumière, et non autre chose.
+
+On a vu quelle interprétation avait donnée Réaumur. Pour lui, c'était une action de l'air ; un renouvellement de ce fluide était absolument nécessaire pour produire la modification de la matière. Or non-seulement les expériences de Réaumur prouvent que c'est bien la lumière qui agit ; mais il suffit d'avoir fait une épreuve photographique quelconque pour se convaincre de la parfaite inutilité de ce renouvellement. Placée entre deux plaques de verre, il est difficile de trouver là pour la matière les conditions que disait nécessaires le grand observateur. Il n'est donc pas possible d'admettre l'action de l'air, au moins ainsi que l'entendait Réaumur.
+
+C'est bien une action de la lumière, car les Pourpres placées dans des liquides conservateurs ne manquent pas de se colorer dans les points voisins de la place qui produit la pourpre : dans ce cas, il est difficile de voir une action de l'air ; sous l'eau, dans un flacon bouché, il n'y a pas de courant et de renouvellement. Ce qui ne prouverait encore rien relativement à un autre mode d'interprétation, car l'eau tient en dissolution une assez grande quantité d'air. Mais on a vu que déjà Duhamel avait combattu par des expériences décisives cette opinion.
+
+Afin que les liquides imprègnent les animaux que l'on veut conserver, il est bon d'en briser la coquille. Dans un voyage, mon but étant d'obtenir simplement des animaux conservés pour servir au besoin, je jetais dans un flacon indistinctement les individus après en avoir concassé le test. Or, toujours les animaux dont la coquille était intacte restaient incolores, et les animaux dont la coquille était en partie brisée restaient blancs sous les fragments et s'empourpraient dans les parties qui voyaient la lumière.
+
+Si donc l'action de l'air dissous dans l'eau alcoolisée était invoquée pour expliquer ce changement, il faut bien le dire, cette action ne pourrait être, sans aucun doute, accomplie que sous et par l'influence de la lumière.
+
+Et il ne faut pas croire que ce soit seulement des rayons lumineux directs du soleil qui cause ce changement : la lumière diffuse le produit également ; mais l'action est beaucoup plus lente que lorsque les rayons du soleil agissent directement. Les flacons qui renfermaient les Pourpres concassées n'étaient certes pas exposés à la lumière directe, et cependant la couleur s'était développée.
+
+Mais en quoi consiste cette action, et comment l'expliquer ? Des circonstances ayant porté obstacle aux recherches que nous devions faire avec M. Riche, j'avouerai que je ne poserai ici, pour ainsi dire, que des questions.
+
+La première idée qui se présente est celle-ci. La matière subit sous l'influence du soleil une oxydation. Cette opinion n'est pas nouvelle ; il en est déjà question dans quelques-uns des travaux cités.
+
+Ce qu'il y a de positif, c'est qu'il serait nécessaire de bien savoir ce qu'est la matière avant l'action de la lumière, et ce qu'elle est après. Sans aucun doute, il y a un produit nouveau de formé ; mais ce produit est-il le résultat d'une simple modification dans l'arrangement moléculaire, sous l'influence de cet agent profondément modificateur ? Sans analyse, il n'est guère possible d'en décider. Réaumur croyait déjà que la modification était toute moléculaire.
+
+S'il y a oxydation, ce qui pourrait bien être, le produit nouveau est-il plus complexe ? Quel est-il, comparé ce qu'il était avant. Voilà certainement des recherches intéressantes, et qui, je l'espère, conduiront à des données exactes.
+
+Quoi qu'il en soit, l'odeur qui se développe est parfaitement caractéristique, et, chose curieuse, elle se développe dans toutes, les espèces qui fournissent la couleur, que ce soit les _Purpura hæmastoma_ ou _lapillus_, les _Murex trunculus_, _brandaris_ ou _erinaceus_, toujours l'identité d'odeur est absolue. Les personnes qui n'ont pas senti l'essence d'ail la comparent peut-être avec quelque raison à l'odeur du reste de la poudre qui a brûlé ; d'autres à celle un peu sulfhydrique que dégage du silex frappé ; on pourrait lui trouver de l'analogie avec celle que l'on sent quand une voiture marche avec un sabot à l'une de ses roues. Il y a aussi une très grande analogie avec l'odeur de l'ail et de l'oignon brûlés. C'est dans la constance de cette odeur qu'il faut surtout chercher une preuve de la formation d'un corps nouveau, soit qu'il y ait un changement de l'état moléculaire, soit qu'il y ait absorption de l'oxygène, et par conséquent production d'une combinaison nouvelle avec un plus grand nombre d'éléments.
+
+Cette question sera, je l'espère, résolue plus tard, quand les analyses et les recherches que je ne puis entreprendre seul pourront être conduites par mon très habile ami et collaborateur.
+
+Il serait à propos, après avoir parlé des propriétés de la matière et de sa ténacité, de dire un mot de sa teinte ; mieux vaut, pour éviter des répétitions, s'occuper de cette question quand il s'agira des espèces fournissant la couleur.
+
+# 5\. Position de la glande ou partie produisant la matière à pourpre.
 
 ...
