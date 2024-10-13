@@ -202,4 +202,62 @@ En tout cas, on trouvera ici des notions précises qui permettront de voir nette
 
 # 3\. Des propriétés de la matière.
 
+Quand on enlève la matière qui doit devenir pourpre du lieu où elle se trouve, et dont la place sera plus tard assignée exactement, elle est blanche ou légèrement jaune. Dans le _Purpura lapillus_, elle varie entre le blanc mat et le jaune. Dans la Pourpre hémastome, de même dans les _Murex_, la teinte est parfois un peu grisâtre. Soumise à l'action des rayons solaires, ainsi que les anciens le savaient déjà très bien, ainsi que Réaumur l'a dit, et, après lui Bozio, etc., ainsi que les pêcheurs des côtes de la Méditerranée le savent par tradition, elle devient d'une teinte d'abord jaune-citron, puis jaune verdâtre ; elle passe au vert ; enfin elle vire au violet, qui se fonce de plus en plus, à mesure que l'action se prolonge davantage. On trouvera plus loin, lorsqu'il s'agira de déterminer exactement de quelle couleur devait être la pourpre des anciens, plus de détails et d'explications relativement à ce changement de couleur.
+
+En étendant sur un tissu cette substance en couches de diverses épaisseurs, on peut avoir un violet foncé qui offre les tous les plus vifs, les plus riches, et parfois arriver au sombre le plus intense, ou bien enfin à la nuance la plus délicate.
+
+En variant la quantité de matière et la durée de l'exposition au soleil, on peut arriver à faire des dessins qui ne manquent pas, avec une grande vigueur de ton, des teintes dégradées les plus douces.
+
+Une matière qui se comporte de la sorte mérite aujourd'hui, à coup sûr, le nom de _matière photogénique_, et il était donc tout naturel de faire des essais dans cette nouvelle voie.
+
+Quand se trouveront exposées, ainsi que cela aura lieu bientôt, les propriétés des tissus, les connexions de la glande ou de la partie productrice, il sera plus facile de juger du parti que peut-être on pourrait tirer, au point de vue de la science et même de la pratique, des propriétés de la pourpre. Mais voyons d'abord quels résultats on peut obtenir.
+
+En recueillant la matière purpurigène à l'aide d'un pinceau un peu rude, que les peintres nomment _brosse plate_, dont on coupe et raccourcit les crins, on arrive très bien à se procurer toute la quantité produite par un animal. Il suffit pour cela de brosser tout doucement plusieurs fois, sans se lasser, la partie qui sécrète. Bientôt la brosse se trouve chargée d'une substance visqueuse et filante qui reste adhérente. Alors on n'a qu'à barbouiller les tissus que l'on veut imprégner, en répétant fréquemment sur eux un mouvement de moulinet ou de va-et-vient. On arrive ainsi à étendre en couche uniforme la mucosité recueillie, qui fait d'abord un peu de bave ou de mousse, mais qui bientôt ne forme plus qu'un liquide, quoique épais, où toutes les bulles d'air disparaissent progressivement. Pour que le tissu se trouve imprégné à peu près uniformément, on charge le pinceau une seconde, une troisième, une quatrième fois, en ayant soin de bien fondre les limites des différents points sur lesquels on apporte successivement de la nouvelle matière.
+
+Pour réussir à avoir une couche de matière uniforme sur l'étoffe, on doit employer d'abord la brosse ; puis, passant le doigt en différents sens, on doit chercher à faire cheminer, des points plus imbibés vers les creux qui le sont moins, l'excès de matière.
+
+Tantôt j'ai opéré presque au grand jour, tantôt dans l'obscurité ; je dois dire que dans ce dernier cas j'avais peut-être plus de détails. Cependant j'ajoute que la matière n'étant point encore modifiée donnait, quand je la préparais au jour, des résultats encore très satisfaisants.
+
+Je laisse de côté toutes les minutieuses précautions qui sont bien connues de tous les photographes, et qui n'ont rien de spécial, quelle que soit la matière photogénique employée. Bien faire adhérer le tissu chargé de la couche photogénique au cliché qui doit être reproduit ; éviter les bulles d'air, etc., etc., tout cela étant connu, et n'ayant rien de particulier, peut être laissé de côté.
+
+Il faut un certain temps au soleil, même avec un cliché négatif, pour obtenir une épreuve positive ; par conséquent, il serait infiniment plus long d'avoir une épreuve dans la chambre obscure par l'action simplement de la lumière réfléchie. Je n'ai pris qu'une image d'un objet, sur lequel, à l'aide d'une glace, tombait la lumière directe du soleil. Le tissu exposé dans la chambre obscure a présenté l'image, ainsi qu'il était facile de le prévoir.
+
+Le temps nécessaire au développement de l'image positive varie avec la vivacité des rayons lumineux du soleil. On observe surtout très-bien le passage des tons divers, quand on soumet la matière à la lumière solaire, masquée de temps en temps par des nuages, la durée de l'expérience étant alors beaucoup plus longue. Une image était reproduite à Pornic (Vendée), à la Rochelle (Charente-Inférieure), à Agen (Lot-et-Garonne), en quatre ou cinq minutes, par un beau soleil, et cela vers la mi-août, fin du même mois et le commencement de septembre. Dans cette dernière localité, un portrait n'était fini qu'après trois quarts d'heure par un ciel nuageux, mais laissant encore entrevoir de temps en temps de très-pâles rayons de soleil.
+
+Je n'ai point calculé le temps nécessaire au développement de la couleur à Mahon, mais il me paraissait infiniment plus court : deux minutes, une minute même, ont quelquefois paru suffire, autant que je puis comparer par souvenir un temps non calculé à un temps dont la durée a été bien appréciée. Mais le ciel dans les îles Baléares est si lumineux, la lumière y est si vive et le soleil si pénétrant, que cela doit être et ne peut étonner.
+
+Avec des clichés négatifs, on obtient des portraits pleins de vigueur et de netteté, qui présentent les caractères dus aux changements successifs de couleur de la matière.
+
+Pour que la matière passe successivement aux teintes indiquées, il faut qu'elle soit constamment mêlée à une certaine quantité d'eau. Après avoir étendu la pièce de tissu sur la plaque portant le négatif, il est bon de l'humecter avec quelques gouttes d'eau de mer, puis d'appliquer une étoffe, également humide, ployée en plusieurs doubles ; on recouvre le tout avec une seconde plaque, et l'on expose au soleil. Il faut aussi, quand la chaleur est grande, avoir soin d'ajouter de temps en temps quelques gouttes d'eau, afin que le contact de la pièce chargée de matière reste constant et parfait ; sans cela, le tissu s'isole un peu de la plaque négative, des bulles d'air se forment et nuisent à la pureté de l'image.
+
+En ajoutant ainsi de l'eau, on observe le derrière du tissu, et l'on juge de l'état de développement des couleurs et des tons.
+
+Pour arriver à avoir des ombres bien accusées, ordinairement on doit suspendre l'insolation quand les parties qui doivent être blanches dans les images obtenues par les matières photogéniques ordinaires présentent ici une belle teinte jaune verdâtre. Si le vert est trop accusé, les violets envahissent tout, et les jaunes ne font plus assez de contraste avec les violets représentant les noirs qui ne sont pas foncés en proportion.
+
+Dans les images ainsi obtenues, on trouve donc les noirs remplacés par une teinte violette d'autant plus foncée que la lumière solaire a pu mieux traverser la photographie négative. Cette teinte violette se dégrade successivement, et passe au jaune d'autant moins intense et moins verdâtre surtout, que les noirs sont plus accusés dans le négatif. C'est aussi ce qui m'a fait choisir, pour faire des épreuves positives, des clichés fort accentués et présentant des contrastes de noir et de blanc très-tranchés.
+
+La teinte et les reflets que présentent ces photographies sont fort agréables, et sur une reproduction de la tête d'une vieille femme, la nuance du jaune pâle formant les blancs de la figure imitait assez la teinte de la carnation de la vieillesse. D'ailleurs, il y a, comme on peut le remarquer, harmonie de couleur, le jaune et le violet étant complémentaires l'un de l'autre.
+
+Sans aucun doute, avec des espèces donnant une grande quantité de matière purpurigène, on obtiendrait plus facilement une couche égale et uniforme ; car les temps d'arrêt, qui sont la conséquence de la recherche de la matière sur plusieurs petits individus, comme le sont ceux du _Purpura lapillus_, se font souvent plus ou moins remarquer par quelque inégalité de la couche impressionnable. Il est en effet, assez difficile de reprendre juste dans le point où l'on a cessé d'étendre, et alors les traits ou les décroissances de teinte se trouvent plus ou moins accusées, suivant qu'il y a plus ou moins de matière.
+
+Sur papier, on aurait des épreuves ayant infiniment plus de détails et de vigueur ; mais la difficulté se trouve dans l'impossibilité où l'on est de pouvoir agir avec une brosse ou un pinceau dur pour étendre la matière impressionnable. Quelques essais n'ont pu être faits qu'à la condition d'étendre la substance avec le doigt sans trop frotter afin de ne point enlever le poli de la feuille de papier.
+
+Je ne doute pas que l'on n'obtienne de très-bons résultats sur papier ; mais n'ayant, dans mon dernier voyage au bord de la mer, que peu de clichés, et l'adhérence qui s'établissait entre le papier et le collodium me faisant redouter d'enlever ce dernier, j'ai renonce à continuer les essais, dans la crainte d'être obligé de cesser mes expériences. Mais, évidemment, le tour de main consisterait à imprégner le papier sans l'érailler ; or, je crois volontiers qu'on arriverait facilement à le trouver.
+
+A quel usage pourrait-on employer la pourpre ?
+
+Aujourd'hui que les manufactures de produits chimiques versent à torrent dans l'industrie des matières qui, avec la plus grande facilité et la plus grande perfection, peuvent servir aux teintures les plus délicates et les plus riches, comment pourrait-on espérer de voir ce peu de matière animale donnant du violet, quoique fort beau et fort tenace, être employé par l'industrie ? Il n'est guère probable que la pourpre revienne en honneur.
+
+Toutefois, il me paraît utile d'appeler l'attention sur un point : la photographie n'a pas encore tourné ses efforts vers l'application sur les étoffes délicates des dessins et des peintures d'un fini comme elle en fait. On a bien, il est vrai, sur certaines toiles cirées, appliqué la couche de collodium déposée sur une glace et portant une image ; mais on n'a pas, par exemple pour des éventails et tout autre objet de luxe très délicat, donné sur soie des reproductions des dessins, des tableaux, etc., que la photographie procure avec la plus grande facilité.
+
+On peut donc se demander si, en étudiant avec soin la matière purpurigène, si en arrivant à dissoudre la matière restée jaune quand on a fait la photographie, on ne pourrait utiliser ces reproductions sur soie ayant cette belle teinte violette dont il a été question. Il serait facile alors de pouvoir utiliser sous forme de médaillons, sur les pages et les cartons de tel ou tel de ces petits objets de luxe, un portrait ou une scène prise aux grands maîtres reproduits avec cette facilité et cette fidélité que chacun connaît au daguerréotype.
+
+C'est là sans doute une application fort restreinte ; mais cependant, quand on voit la douceur des tons et les nombreux détails, ainsi que leur finesse, des photographies obtenues avec la matière des espèces indiquées plus haut, on se demande si, dans ces industries de luxe et d'objets si délicats à la mode, on ne pourrait utiliser cette propriété photogénique, qui permettrait de trouver un usage à cette matière si recherchée des anciens et si délaissée aujourd'hui.
+
+La soie, d'ailleurs, conserve ce brillant et ces reflets qu'on lui connaît, et si l'on venait à employer ce moyen photographique, on obtiendrait de l'industrie des soies certainement avec un grain plus fin que celles qu'on trouve dans le commerce, et qui cependant donnent déjà de très-beaux résultats.
+
+Lés étoffes sont d'ailleurs fortement imprégnées de la matière colorante, et le dessin apparaît toujours également net et vif, quelle que soit la face du tissu que l'on examine. On a vu que la pourpre ne devait pas se faner ; on sait aussi que si elle perd d'abord un peu de son teint vif par le lavage, ensuite elle persiste ; on aurait donc des conditions de conservation très-bonnes, et qui donneraient peut-être plus d'importance qu'on ne le pense à cette branche de la photographie.
+
+# 4. Que se passe-t-il pendant l'action du soleil, et dans le changement de couleur ?
+
 ...
