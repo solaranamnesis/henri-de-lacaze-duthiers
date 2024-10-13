@@ -12,6 +12,8 @@
 
 # [4. Que se passe-t-il pendant l'action du soleil, et dans le changement de couleur ?](#4-que-se-passe-t-il-pendant-laction-du-soleil-et-dans-le-changement-de-couleur--1)
 
+# [5. Position de la glande ou partie produisant la matière à pourpre.]()
+
 ...
 
 ---
