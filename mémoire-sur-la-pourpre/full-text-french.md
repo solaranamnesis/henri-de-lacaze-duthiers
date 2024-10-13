@@ -4,6 +4,18 @@
 
 ---
 
+# [1\. Ce qui a conduit à s'occuper de la question.]()
+
+# [2\. Historique de la question.]()
+
+# [3\. Des propriétés de la matière.]()
+
+# [4. Que se passe-t-il pendant l'action du soleil, et dans le changement de couleur ?]()
+
+...
+
+---
+
 # 1\. Ce qui a conduit à s'occuper de la question.
 
 Dès longtemps la question de savoir comment les anciens se procuraient la belle couleur qui fut dans l'antiquité l'apanage des grands et des rois a préoccupé les naturalistes ; ce n'est donc pas une question nouvelle dont il s'agit ici. Bien souvent la solution des problèmes dont l'intérêt, au point de vue de l'application, a complètement disparu, est due à une simple curiosité. J'avoue que c'est poussé par la seule curiosité de savoir avec quoi on produisait cette belle couleur que j'ai fait quelques recherches ; d'ailleurs, au point de vue anatomique, il faut reconnaître que ce que l'on trouve dans les ouvrages est bien vague, si même on trouve des renseignements exacts.
