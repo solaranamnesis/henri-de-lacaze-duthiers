@@ -14,7 +14,7 @@
 
 # [5\. Position de la glande ou partie produisant la matière à pourpre.](#5-position-de-la-glande-ou-partie-produisant-la-matière-à-pourpre-1)
 
-# [6\. Quelle est la structure intime de la partie purpurigène.]()
+# [6\. Quelle est la structure intime de la partie purpurigène.](#6-quelle-est-la-structure-intime-de-la-partie-purpurigène-1)
 
 ...
 
