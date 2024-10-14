@@ -24,6 +24,8 @@
 
 # [10\. La glande purpurigène est-elle particulière aux espèces qui fournissent de la couleur ?](#10-la-glande-purpurigène-est-elle-particulière-aux-espèces-qui-fournissent-de-la-couleur--1)
 
+# [11\. Quelle est la couleur réelle de la pourpre, et quelle était cette couleur chez les anciens ?]()
+
 ...
 
 ---
@@ -655,5 +657,49 @@ Dans les embryons des Gastéropodes, on voit, la plupart du temps (Bulle, Bullé
 Or il semblerait assez naturel de regarder, comme origine de la glande dont on vient de suivre la description, le point coloré auquel il est maintenant fait allusion ; ce point est, en effet, tout près de l'anus chez les embryons. Il serait intéressant de suivre attentivement son développement dans les Gastéropodes, et de voir ce qu'il devient : s'il donne, chez les uns, naissance à une glande véritable ; si, chez les autres, il disparaît sans être suivi de la formation d'un organe particulier ; s'il s'atrophie, en un mot, dans les espèces qui ne paraissent pas avoir de glande anale.
 
 # 10\. La glande purpurigène est-elle particulière aux espèces qui fournissent de la couleur ?
+
+La structure du manteau dans le point fournissant la matière pourprée semblerait au premier abord particulière aux animaux donnant de la couleur, et cependant l'analogie devait conduire à généraliser et à faire admettre que chez la plupart, si ce n'est tous les Gastéropodes, une même chose existait.
+
+Quand on prend un Limaçon des plus communs dans nos campagnes, et qu'on l'irrite, on le voit rentrer dans sa coquille, et les bords de son manteau dans lequel il s'enferme se couvrent d'une matière jaunâtre visqueuse qui, étendue sur un linge blanc, le teint d'une très belle couleur jaune légèrement verdâtre.
+
+Quand on tracasse une Aplysie, on a les mains tachées d'une très belle couleur violette qui se communique aussi à l'eau. La matière colorante coule entre les replis du pied, elle est tout à fait liquide et soluble, ou mieux miscible à l'eau. Si l'on écarte les bords si large du pied, et qui remontent sur le dos, dans l'Aplysie dépilante (_Aplysia depilans_), l'Aplysie fasciée (_A. fasciata_), ou bien l'Aplysie ponctuée (_A. punctata_), on voit sur le rebord charnu du repli qui renferme la coquille, ou sur les parois latérales du corps, à côté et en arrière de l'orifice génital, exsuder une substance plastique blanche qui s'échappe de différents points isolément, et qui, dans l'Aplysie fasciée, est versée par un orifice particulier placé en arrière des organes génitaux. C'est même, dans ce dernier cas, un caractère particulier à l'_Aplysia fasciata_, que d'avoir l'orifice dont il est ici question ; il y aura lieu d'insister ailleurs sur ce point.
+
+Cette matière (à part l'Aplysie fasciée, qui, même pour le bord de son manteau vers la coquille, ne fait pas exception) semble donc s'échapper ici, comme chez les Pourpres, des points qui la contiennent, et cela directement.
+
+On ne peut davantage appeler ici glande ces parties logées si isolément dans l'épaisseur du manteau : car on croirait voir se rompre de petites poches qui rejettent au dehors leur contenu sous l'influence des contractions des muscles ; il y a, sans contredit, une analogie des plus grandes avec ce que l'on observe dans le manteau des Pourpres et des Murex.
+
+Porte-t-on cette matière sous le microscope, l'analogie devient encore plus grande, pour les Limaçons en particulier ; l'aspect des masses allongées de granulation rappelle les cellules des Pourpres ; seulement, quand on prend une parcelle de tissu tout entier, on observe que les cellules chromatogènes sont plus isolées que dans les Pourpres, et surtout plus profondément placées au milieu des fibres des tissus. C'est du côté droit vers l'anus que, dans le Limaçon, transsude cette matière jaune verdâtre ; cependant le reste du manteau en fournit aussi, et par fois on ne voit sortir du pied.
+
+Dans l'une de ces petites espèces que l'on recueille sur les rivages de l'Océan et que l'on nomme Vigneaux, dans le _Turbo littoralis_ par exemple, on trouve la matière tout à fait semblable de structure et d'apparence, et surtout on trouve les cellules accumulées dans un point, dans le même point que chez les Pourpres. Le manteau, vu en dessous,* présente exactement entre la branchie et le rectum l'apparence qui a été décrite chez les Pourpres, et l'on reconnaît la glande purpurigène, seulement transparente, et n'ayant pas, soit cette légère teinte jaunâtre ; soit cette opacité blanchâtre.
+
+*) Voy. _Ann. des sc. nat._, Zool., 4e série, t. 12, pl. 1, fig. 5.
+
+Examinée au microscope, au même grossissement que pour les Pourpres,* l'analogie est frappante, et la différence se trouve simplement dans un peu plus de transparence ; rien autre chose ne pourrait la différencier.
+
+*) _Ibid._, fig. 10.
+
+Dans les Aplysies, enfin, on trouve une certaine ressemblance entre les granulations de cette substance blanche qui vient d'être indiquée ; cependant elles sont plus volumineuses et semblent sortir de cavités plus grandes que dans les espèces précédentes.
+
+Le manteau, sur son bord antérieur droit, paraît aussi, dans le _Bulla lignaria_, tout pointillé. Un fort bel individu que j'ai conservé dans la glycérine permet de reconnaître dans celte apparence quelque chose d'analogue à ce qui a été indiqué plus haut.
+
+De tout ceci il paraît devoir résulter que la production d'une matière semblable à celle produisant la couleur pourpre n'est pas particulière uniquement au manteau des Pourpres. On peut admettre qu'avec des modifications sans doute bien nombreuses, la plupart des Gastéropodes à coquille sécrètent dans leur manteau ces matières visqueuses à texture particulière qui ont été décrites ; mais que tantôt ces matières sont colorées et ne changent plus de couleur, comme dans le Colimaçon et l'Aplysie ; que tantôt, tout en présentant la plus grande analogie avec les mêmes matières des Pourpres, comme dans les _Turbo littoralis_, _Trochus cinereus_, et autres espèces de notre littoral, les Cassidaires (_Cassidaria echinophora_) et les Buccins (_Buccinum undatum_), la lumière ne lui fait éprouver aucune espèce de changement.
+
+La propriété de virer au violet sous l'influence des rayons lumineux semble rester l'apanage de quelques genres, dont la plupart, si ce n'est toutes les espèces observées, présentent la même particularité.
+
+Ainsi ce ne serait peut être pas trop se hâter de généraliser que de dire : Chez tous les Mollusques, cette matière est produite dans des points plus ou moins semblables, et tout en ayant une même origine, elle jouit de propriétés diverses chez différentes espèces.
+
+Dans cette différence de propriétés on ne doit trouver, du reste, rien d'étrange. Qui n'a reçu, en chassant les Insectes, quelque coup d'aiguillon d'un Hyménoptère, et qui n'a été frappé de là différence dans la douleur que produisait le venin introduit dans la plaie ? Au fond, anatomiquement parlant, c'est même chose ; mais le résultat semble très différent à celui qui reçoit le venin.
+
+Voici un serpent venimeux qui fera à peine souffrir ou qui ne mettra pas en danger la vie de l'homme, et tel autre le foudroiera en quelques instants.
+
+Dans les Insectes, on trouve encore des choses plus étranges en apparence, et qui se rapportent à des variétés de propriétés d'un produit identiquement le même au fond.
+
+Les effets que produisent les Cynips, les Mouches à scie, les Ichneu mons, etc., sont bien variés. Les uns piquent un arbre, et une galle, grosse tumeur, se développe avec une forme spéciale ; les autres piquent de même, et la tumeur, véritable maladie du végétal et conséquence de l'inoculation du virus, est toute différente. Faites l'anatomie, et vous trouverez toujours que le liquide qui produit tant d'effets divers est sécrété par la même glande et versé par la même poche. De même les Ichneumons qui déposent leurs œufs dans le corps d'autres animaux, et dont le virus ne fait souvent qu'engourdir la victime sans la tuer complétement.
+
+La propriété qu'a la matière fournie par le manteau de changer de couleur, n'a donc rien qui puisse étonner, et qui permette de la considérer comme différente anatomiquement de celle qui prend naissance dans les parties analogues sur d'autres individus, mais qui reste toujours la même, bien que le rayon lumineux la frappe dans les mêmes conditions que la première.
+
+La spécificité du produit, la qualité peuvent donc être très différentes, mais l'origine, organiquement, anatomiquement parlant, est semblable.
+
+# 11\. Quelle est la couleur réelle de la pourpre, et quelle était cette couleur chez les anciens ?
 
 ...
