@@ -16,7 +16,7 @@
 
 # [6\. Quelle est la structure intime de la partie purpurigène.](#6-quelle-est-la-structure-intime-de-la-partie-purpurigène-1)
 
-# [7\. Circulation dans la partie du manteau correspondant à la couche productrice de la matière à pourpre.]()
+# [7\. Circulation dans la partie du manteau correspondant à la couche productrice de la matière à pourpre.](#7-circulation-dans-la-partie-du-manteau-correspondant-à-la-couche-productrice-de-la-matière-à-pourpre-1)
 
 ...
 
