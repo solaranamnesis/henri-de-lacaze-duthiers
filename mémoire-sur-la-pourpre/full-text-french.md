@@ -20,7 +20,7 @@
 
 # [8\. La matière colorante pourprée n'est pas fournie par le rein, et elle n'est et ne peut être l'urine de l'animal.](#8-la-matière-colorante-pourprée-nest-pas-fournie-par-le-rein-et-elle-nest-et-ne-peut-être-lurine-de-lanimal-1)
 
-# [9\. D'une nouvelle glande que l'on peut nommer _glande anale_.]()
+# [9\. D'une nouvelle glande que l'on peut nommer _glande anale_.](#9-dune-nouvelle-glande-que-lon-peut-nommer-glande-anale-1)
 
 ...
 
