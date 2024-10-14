@@ -18,6 +18,8 @@
 
 # [7\. Circulation dans la partie du manteau correspondant à la couche productrice de la matière à pourpre.](#7-circulation-dans-la-partie-du-manteau-correspondant-à-la-couche-productrice-de-la-matière-à-pourpre-1)
 
+# [8\. La matière colorante pourprée n'est pas fournie par le rein, et elle n'est et ne peut être l'urine de l'animal.]()
+
 ...
 
 ---
@@ -493,5 +495,37 @@ _Remarque._ --- Et maintenant que cette structure est connue, posons cette quest
 L'expression _glande à pourpre_ serait convenable, si le mot _glande_ n'indiquait presque toujours les dispositions qui viennent d'être caractérisées.
 
 # 7\. Circulation dans la partie du manteau correspondant à la couche productrice de la matière à pourpre.
+
+La partie purpurigène se trouve ainsi limitée, et sa texture, comme sa position, ne permet plus de doute relativement à quelques opinions nées de considérations _à priori_ et par induction. Nous reviendrons sur ces opinions, quand le tissu riche en vaisseaux qui la supporte aura fixé un instant notre attention.
+
+On sait que généralement, dans les Mollusques, il y a une sorte de veine porte, relative non pas au foie, mais au sac que Bojanus décrivit dans les Acéphales comme un poumon, et dont l'existence est générale dans les Gastéropodes. Aujourd'hui toutes les analyses tendent à montrer que cet organe est bien un rein ; on y a trouvé l'acide urique en nature, cristallisé,* ou bien l'analyse chimique y a fait reconnaître de l'urée.*
+
+*) Voy. _Ann. des sc. nat._, Zool., 4e série, t. 4, pl. 4, fig. 14, mes observations personnelles et les dessins des cristaux d'acide urique.
+
+*) _Ibid._ Les analyses de M. Riche, professeur agrégé à l'École de pharmacie de Paris. --- Voy. aussi le travail sur le Pleurobranche (_Ann. des sc. nat._, Zool., 4e série, t. 11, art. _Corps de Bojanus_).
+
+La structure, la position, relativement au cours du sang, tout fait trouver une analogie extrême et certaine entre le corps de Bojanus dans les Acéphales et le sac rénal des Gastéropodes.
+
+Dans le cas actuel, le sang qui revient du corps rénal par un ou plusieurs troncs* se dirige vers la branchie. Une veine assez volumineuse* monte dans l'épaisseur du manteau parallèlement à la branchie et à l'intestin, et porte le sang dans le réseau qui le distribue à l'organe de la respiration ; elle reçoit aussi le sang des parties voisines du rectum et de la partie ou marge antérieure du manteau. C'est dans cet espace, qui est limité à gauche par la branchie, à droite par le rectum, et qui présente ce réseau sanguin fort riche, que se développe la matière purpurigène.
+
+*) Voy. _Ann. des sc. ant._, Zool., 4e série, t. 12, pl. 1, fig. 6.
+
+*) Voy. _Ann. des sc. nat._, Zool., 4e série, t. 12, pl. 1, fig 6.
+
+Un regard jeté sur la figure montrera, mieux que ne pourrait le faire une description détaillée, la disposition des vaisseaux. En arrière, on voit l'origine du tronc venant du corps de Bojanus* se dirigeant parallèlement à la branchie* et au rectum,* et donnant à la droite de la figure, des rameaux afférents à la branchie ; on remarquera sans doute de la différence entre les capillaires à droite et à gauche de ce tronc principal.
+
+*) _Ibid._, _r'_.
+
+*) _Ibid._, _b_.
+
+*) _Ibid._, _i_.
+
+Les injections poussées par une simple piqûre du bord libre du manteau remplissent ce réseau, en sorte que le sang qui sert à la sécrétion purpurigène est à la fois simplement veineux, et veineux après avoir été épuré dans le corps rénal ou dépurateur.
+
+La couche purpurigène semble en certains points un peu plus épaisse, en raison des dépressions qui paraissent exister sur cette surface vasculaire, et qui n'ont pas pu être rendues d'une manière bien satisfaisante, pour ne pas charger trop la figure.
+
+Tels sont les rapports de la partie purpurigène avec l'organe de la respiration, l'appareil de la circulation et le tube digestif.
+
+# 8\. La matière colorante pourprée n'est pas fournie par le rein, et elle n'est et ne peut être l'urine de l'animal.
 
 ...
