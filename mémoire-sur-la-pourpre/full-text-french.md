@@ -20,6 +20,8 @@
 
 # [8\. La matière colorante pourprée n'est pas fournie par le rein, et elle n'est et ne peut être l'urine de l'animal.](#8-la-matière-colorante-pourprée-nest-pas-fournie-par-le-rein-et-elle-nest-et-ne-peut-être-lurine-de-lanimal-1)
 
+# [9\. D'une nouvelle glande que l'on peut nommer _glande anale_.]()
+
 ...
 
 ---
@@ -527,5 +529,43 @@ La couche purpurigène semble en certains points un peu plus épaisse, en raison
 Tels sont les rapports de la partie purpurigène avec l'organe de la respiration, l'appareil de la circulation et le tube digestif.
 
 # 8\. La matière colorante pourprée n'est pas fournie par le rein, et elle n'est et ne peut être l'urine de l'animal.
+
+Telle est la conclusion qui va faire l'objet de ce paragraphe, et la conséquence à laquelle conduisent forcément les détails anatomiques.
+
+Cette conclusion est, comme on peut en juger, complétement opposée à la manière de voir mise en avant, d'après des considérations purement chimiques, par M. Sacc.
+
+« ... C'est, dit cet auteur, évidemment un liquide éventé, et non pas une sécrétion utile à l'animal, puisque la poche dans laquelle il se développe s'ouvre au dehors : or que peut être ce liquide, sinon l'urine du Mollusque, urine toujours chargée, dans ces animaux, d'acide urique ou de ses dérivés oxydés.* »
+
+*) Voy. Sacc, _loc. cit._, p. 305.
+
+De quelle poche entend parler M. Sacc ? Évidemment, si c'est du corps de Bojanus, il y a erreur. Ce n'est pas l'organe de Bojanus qui fournit la matière colorante, ce doit être la partie qui vient d'être décrite, puisque le savant chimiste ajoute : « La matière colorante est un fluide épais et si visqueux, qui ressemble à une espèce de gelée, qu'on peut enlever avec un pinceau à poils un peu raides.* » Cette description se rapporte certainement à ce qui vient d'être dit.
+
+*) _Ibid._, p. 305.
+
+Or il n'y a aucune analogie entre la glande dont on vient de lire la description et le sac de Bojanus ; sans aucun doute, ce sont des considérations chimiques qui ont conduit à cette conclusion : car la murexide, qui prend naissance quand on met l'acide urique en rapport avec l'acide azotique, est fournie par l'urine, et rappelle par sa couleur pourpre celle que donnent les coquillages. Il reste donc complétement à vérifier les conclusions du travail fort intéressant de M.Sacc, mais qui ne paraît pas basé sur des observations directes, puisqu'on y trouve ceci : « Qu'il serait bien utile de chercher le mordant (qui sert à fixer la couleur) organique, et qu'on le trouverait à coup sûr, si l'on pouvait avoir quelques-uns des _Buccinum lapillus_,* si communs sur les côtes du Poitou.* »
+
+*) Sans doute M. Sacc a voulu dire la Pourpre. Dans un mémoire de si fraîche date, voilà encore un nom qui jette du doute sur l'espèce.
+
+*) Page 308.
+
+Dans ce mémoire si intéressant d'ailleurs, et qui paraît tout à fait bibliographique, sans données expérimentales positives, on trouve les conclusions suivantes :
+
+« 1° Que la pourpre des anciens doit être un produit analogue ou identique avec celui qu'on obtient avec l'alloxane.* » Et en note :
+
+*) _Ibid._
+
+« Cette idée vient de passer à l'état de conviction bien arrêtée, après que M. de Saulcy, président de l'Académie de Metz, nous eut fait la communication suivante : »
+
+« Étant à la Martinique, en 1836, en rade de Saint-Pierre, je prenais, sur les rochers couverts par la lame, la Pourpre bicostale ; dès que les Mollusques étaient dans ma main, ils suintaient un liquide épais, onctueux et opalin, ce qui me les fit mettre dans les poches de mon caleçon de bain, qui peu à peu se colora en pourpre magnifique, identique avec celle de la murexide. Cette belle couleur s'effaçait bientôt sous l'influence simultanée de l'eau salée et d'une température élevée, en passant au brun, que rien ne put enlever. »
+
+On ne voit là rien autre chose que le rapprochement fait entre la couleur de l'alloxane et celle de la pourpre. Il n'y a point, anatomiquement parlant, analogie aucune entre le rein et la partie qui fournit la matière.
+
+« 2° Que si elle était aussi solide sur le lin que sur le laine, cela tient à ce que l'alloxane est combinée (dans l'urine des Mollusques employés) à une liqueur animale jouant vis-à-vis d'elle le rôle de mordant. »
+
+On a vu plus haut la troisième conclusion, à laquelle je m'associe, car je crois, en effet, que, pour ne point présenter d'hypothèse et faire connaître exactement, non _à priori_, mais après des expériences, la composition des substances de la matière colorante, il serait imprudent de dire qu'il n'y pas d'alloxane dans la matière purpurigène, puisque les analyses ne sont point faites encore ; mais ce qui devait être établi ici, c'est que ce n'est point le rein qui fournit la matière pourpre, puisqu'on trouve les deux organes parfaitement distincts. Rien n'empêche d'ailleurs d'admettre que l'acide urique qui se trouve dans l'urine, dans le sac de Bojanus, donne naissance à la couleur bien connue ; mais encore une fois si l'on est arrivé par des considérations purement chimiques, et _à priori_, à admettre que c'est l'urine du Mollusque qui fournit la pourpre, et par suite que la couleur est due à l'alloxane, comme anatomiquement il est impossible de voir le rein dans la bandelette jaunâtre, les conclusions précédentes se trouvent singulièrement compromises.
+
+On peut donc revenir à ces questions, qu'il est bon de poser encore avant de se prononcer. Il faut savoir ce qu'est la matière avant l'action de la lumière, ce qu'elle est après ; alors seulement il sera possible d'émettre une opinion, et de dire : C'est à tel produit qu'est due la couleur pourpre des anciens.
+
+# 9\. D'une nouvelle glande que l'on peut nommer _glande anale_.
 
 ...
