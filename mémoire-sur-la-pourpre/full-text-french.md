@@ -22,7 +22,7 @@
 
 # [9\. D'une nouvelle glande que l'on peut nommer _glande anale_.](#9-dune-nouvelle-glande-que-lon-peut-nommer-glande-anale-1)
 
-# [10\. La glande purpurigène est-elle particulière aux espèces qui fournissent de la couleur ?]()
+# [10\. La glande purpurigène est-elle particulière aux espèces qui fournissent de la couleur ?](#10-la-glande-purpurigène-est-elle-particulière-aux-espèces-qui-fournissent-de-la-couleur--1)
 
 ...
 
