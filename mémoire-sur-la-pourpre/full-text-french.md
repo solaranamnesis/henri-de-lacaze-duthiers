@@ -22,6 +22,8 @@
 
 # [9\. D'une nouvelle glande que l'on peut nommer _glande anale_.](#9-dune-nouvelle-glande-que-lon-peut-nommer-glande-anale-1)
 
+# [10\. La glande purpurigène est-elle particulière aux espèces qui fournissent de la couleur ?]()
+
 ...
 
 ---
@@ -567,5 +569,91 @@ On a vu plus haut la troisième conclusion, à laquelle je m'associe, car je cro
 On peut donc revenir à ces questions, qu'il est bon de poser encore avant de se prononcer. Il faut savoir ce qu'est la matière avant l'action de la lumière, ce qu'elle est après ; alors seulement il sera possible d'émettre une opinion, et de dire : C'est à tel produit qu'est due la couleur pourpre des anciens.
 
 # 9\. D'une nouvelle glande que l'on peut nommer _glande anale_.
+
+Les recherches d'anatomie ayant pour but la connaissance exacte de la partie productrice de la matière purpurigène ont conduit à reconnaître une autre glande qui, vivement colorée en brun violâtre, pourrait, au premier abord, être prise pour de la substance pourprée introduite dans les tissus. En y regardant de près, on voit que la matière est différente, et que la partie qui la contient a surtout une organisation toute spéciale.
+
+Cette glande est logée sur le côté du rectum, qu'elle accompagne jusqu'à l'anus, où elle s'ouvre par un pore très-petit. Le nom de _glande anale_ semble par cela même lui convenir.
+
+Il ne paraît pas que son existence ait été connue ; on n'en trouve pas l'indication dans les ouvrages de malacologie.
+
+Sans avoir fait un grand nombre de recherches comparatives, il est aussi permis de supposer par quelques faits que son existence n'est pas générale dans les Gastéropodes. Les Gastéropodes nus ne paraissent pas la posséder, de même que beaucoup des Pectinibranches de Cuvier. Dans beaucoup do ces derniers, l'absence n'est pas douteuse, à moins toutefois qu'un examen trop superficiel, basé en grande partie sur la coloration de la glande, n'ait fait porter un jugement trop précipité.
+
+Quoi qu'il en soit, les genres Pourpre et Rocher l'ont montrée fort caractérisée. Dans les _Purpura lapillus_, _Murex trunculus_, _M. brandaris_, _M. erinaceus_, on la voit au travers du manteau, dès que l'on a enlevé la coquille. La couleur brunâtre de ses arborisations l'a fait toujours reconnaître au travers des tissus et des mucosités.*
+
+*) Voy. _Ann. des sc. nat._, Zool., 4e série, t. 12, pl. 1., fig. 6 et fig. 1, 2.
+
+On sera sûr de son isolement quand, après avoir brossé avec un pinceau la partie purpurigène, on aura enlevé toute la matière jaunâtre ; alors les arborisations de la glande paraîtront très-bien entre les lames du manteau.
+
+Avec l'aide d'une loupe, on reconnaîtra aisément la disposition suivante, caractéristique d'une glande. Un long canal* central, parallèle à la direction du rectum, paraît au milieu des arborisations latérales : c'est évidemment le canal excréteur qui conduit au pore ou ouverture extérieure.* A droite et à gauche de ce canal sont mais dans un même plan, les ramifications brunâtres de la partie qui sécrète. Quand on dit un même plan, ce n'est pas horizontalement qu'il faut entendre ; les ramifications secondaires ne se dirigent pas dans toutes les directions, mais seulement à la surface de l'intestin.
+
+*) Dessin de la glande dans le _Purpura lapillus_ un peu grossi.
+
+*) _Ibid._, fig. 6 _f_.
+
+On ne saurait mieux comparer l'aspect général de cette glande qu'à ces arborescences noirâtres que l'on rencontre parfois entre les lames de pierre. On distingue très-nettement cette disposition, surtout à l'extérieur du manteau, après avoir enlevé la coquille dans le _Purpura lapillus_, le _Murex erinaceus_ et le _Murex brandaris_.*
+
+*) Voy. _Ann. des sc. nat._, Zool., 4e série, t. 12, pl. 1. fig. 1 _c_.
+
+On éprouve assez de difficulté à voir l'orifice du canal excréteur, et ce n'est qu'avec beaucoup de soin que l'on arrive à le découvrir. Il faut étendre les lambeaux du manteau, ainsi qu'il a été dit ; alors on voit la face interne de la voûte palléale, et l'on peut enlever sous l'eau, pour agir plus facilement, toute la matière purpurigène. Le meilleur moyen pour reconnaître l'orifice excréteur est, après avoir fendu un peu l'anus et l'intestin du côté intérieur, de presser doucement sur la glande et son canal, et de se servir de la matière brune qu'elle sécrète comme matière à injection : en agissant ainsi, on voit la matière sécrétée s'échapper par l'anus ; et si l'on a fendu ainsi qu'il a été dit,* on distingue très bien que l'anus n'est pas régulièrement circulaire, mais que, en avant et contre le manteau, il semble se prolonger en une petite pointe ou papille.* C'est vers le sommet de cette papille que l'on trouve un petit pore par où s'échappent les produits de la sécrétion.
+
+*) _Ibid._, fig. 6.
+
+*) _Ibid._, fig. 4 et 6 _f_.
+
+C'est avec la plus grande attention que j'ai répété cette exploration, et toujours avec les mêmes résultats. Du reste, où aurait pu s'ouvrir cette glande ? Plus profondément dans l'intestin ? Si cela était, la matière sécrétée, en poussant d'avant en arrière, se serait échappée postérieurement : or cela n'a jamais eu lieu. Plus tard, après m'être bien assuré de cette position de l'orifice, un jet d'eau chargée de matière colorante, poussé directement sur la papille, sur des individus frais, faisait découvrir, par l'introduction de la matière, l'existence du pore excréteur avec la dernière évidence.
+
+Il ne saurait donc y avoir de doute relativement à la position de cette glande, qui peut, à bon droit, porter le nom de _glande anale_, comme on le voit maintenant.
+
+Reste à voir quelle est la structure ; ce sera chose plus facile que d'assigner le rôle, les usages et les fonctions.
+
+Si l'on prend sur les côtés du canal médian longitudinal quelques ramifications ou arborisations, et qu'on les examine à un faible grossissement,* on aperçoit la matière brunâtre formant autant de ramifications et de troncs que la glande elle-même, et occupant le centre des canaux principaux et des culs-de-sac secondaires.
+
+*) Voy. _Ann. des sc. nat._, Zool., 4e série, t. 12, pl. 1, fig. 11, grossissement de 20 à 25.
+
+Considérée à un autre point de vue, la glande paraît formée de canaux ramifiés et terminés en fin de compte par des culs-de-sac. Les bords des canaux paraissent transparents, tandis que le centre est brun et opaque. La figure qui accompagne ce travail rend très exactement l'apparence.*
+
+*) _Ibid._, fig. 12.
+
+Mais en soumettant à un fort grossissement l'extrémité de l'un de ces culs-de-sac, la structure intime devient facile à observer.
+
+On voit ici bien nettement cette structure si simple que présentent toutes les glandes, et qui a permis de généraliser si heureusement la théorie des sécrétions.*
+
+*) _Ibid._
+
+Les cæcums, ou culs-de-sac borgnes, sont formés d'une membrane mince, dans laquelle il est difficile de démêler une texture.*
+
+*) _Ibid._
+
+Puis enfermé par cette membrane, se trouve le parenchyme cellulaire véritablement glandulaire. Cette partie est facile a étudier : elle est composée de cellules dont les dimensions sont beaucoup plus considérables en largeur qu'en hauteur, ce qui donne au tissu de la glande une apparence toute différente, suivant que l'on examine ses parois de champ sur le côté, ou bien de face sur le milieu.
+
+Les cellules sont ou paraissent, dans un sens, assez grandes ; elles sont remplies de granulations fines auxquelles est due la couleur.
+
+Ces granulations se trouvent souvent en grand nombre, libres dans la cavité du cul-de-sac,* et constituent la sécrétion de la glande.
+
+*) Voy. _Ann. des sc. nat._, Zool., 4e série, t. 12, pl. 1, fig. 12.
+
+Les cellules renferment aussi un corpuscule plus ou moins gros, plus ou moins noyé au milieu des granulations, et qu'on peut regarder comme un noyau ; on le voit surtout très bien quand on regarde la surface de la glande* ; on le distingue aussi nettement quand c'est le côté qu'on observe. Ce noyau est irrégulier, et souvent anguleux à la surface ; il est relativement très gros.
+
+*) _Ibid._
+
+Mais, chose qui m'a paru constante dans la plupart des cellules vues de face,* en plaçant le foyer à un certain point, on aperçoit dans leur intérieur, à côté du noyau, comme un espace clair, qu'il n'est pas facile d'expliquer. C'est un point d'une certaine étendue, qui semble sinon dépourvu de granulations, du moins en présenter beaucoup moins.
+
+*) _Ibid._
+
+Chaque cul-de-sac renferme dans son intérieur une assez grande quantité de matière sécrétée, et il est facile, quand on vient de l'en lever sur des animaux vivants, de voir, si l'on ne comprime que très légèrement, que cette matière est entraînée par des courants que déterminent les nombreux et puissants cils vibratiles qui tapissent la paroi interne : granulations fines, noyaux, quelques petites gouttelettes à apparence huileuse, tout est entraîné par le courant qui pousse vers le canal excréteur.*
+
+*) Voy. _Ann. des sc. nat._, Zool., 4e série, t. 12, pl. 1, fig. 12. Le mouvement est indiqué par la flèche.
+
+Le parenchyme ou tissu sécréteur paraît former une couche fort peu épaisse ; une ou deux rangées de cellules semblent mesurer cette épaisseur dans le plus grand nombre de cas.
+
+Quelles sont les fonctions de cette glande ? Il me paraît impossible de les préciser ; c'est évidemment une glande, dans toute la force du terme, mais son rôle est difficile à dévoiler d'une manière positive.
+
+Il est un rapprochement qu'il est nécessaire d'établir.
+
+Dans les embryons des Gastéropodes, on voit, la plupart du temps (Bulle, Bullée, Aplysie, Doris, Cérite, etc., etc.), un point rougeâtre qui est placé au côté droit, dans le point où commence la cavité du manteau. Ce point, coloré d'une teinte un peu variable avec les espèces, fixe facilement le côté droit de l'embryon, et sert, sous le microscope qui renverse, à déterminer exactement les rapports naturels des parties.
+
+Or il semblerait assez naturel de regarder, comme origine de la glande dont on vient de suivre la description, le point coloré auquel il est maintenant fait allusion ; ce point est, en effet, tout près de l'anus chez les embryons. Il serait intéressant de suivre attentivement son développement dans les Gastéropodes, et de voir ce qu'il devient : s'il donne, chez les uns, naissance à une glande véritable ; si, chez les autres, il disparaît sans être suivi de la formation d'un organe particulier ; s'il s'atrophie, en un mot, dans les espèces qui ne paraissent pas avoir de glande anale.
+
+# 10\. La glande purpurigène est-elle particulière aux espèces qui fournissent de la couleur ?
 
 ...
