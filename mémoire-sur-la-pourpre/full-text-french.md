@@ -16,6 +16,8 @@
 
 # [6\. Quelle est la structure intime de la partie purpurigène.](#6-quelle-est-la-structure-intime-de-la-partie-purpurigène-1)
 
+# [7\. Circulation dans la partie du manteau correspondant à la couche productrice de la matière à pourpre.]()
+
 ...
 
 ---
@@ -437,5 +439,59 @@ Ainsi donc on peut fixer la position de la partie purpurigène de la manière su
 C'est en cherchant à délimiter nettement cette partie, que j'ai trouvé la glande anale dont, à ce que je crois du moins, il n'est pas question dans les ouvrages.
 
 # 6\. Quelle est la structure intime de la partie purpurigène.
+
+Quand on examine sous l'eau l'une des préparations précédemment indiquées, malgré les contractions de l'animal, on distingue très vite que ce n'est pas à une glande proprement dite que l'on a affaire ; mais pour bien reconnaître toutes les dispositions, il faut, à l'aide d'un jet d'eau, laver et entraîner les mucosités que sécrète la surface tout entière du manteau à la suite de l'irritation qu'a produite l'incision. On voit très bien aussi la matière purpurigène, comme blanc jaunâtre, mêlée ou comme suspendue dans la mucosité transparente du reste de la surface.
+
+L'apparence est un peu différente dans le _Murex brandaris_ et la _Purpura lapillus_ : dans l'un et l'autre cas, sous une loupe ordinaire, la bandelette paraît comme piquetée de points plus blancs et plus jaunâtres, quelquefois un peu grisâtres.
+
+Dans la Pourpre, la surface de la bandelette est onduleuse.* Cela tient-il aux contractions transversales du manteau, ou bien à une plus grande épaisseur de la matière ? Dans le _Murex brandaris_, la bandelette est comme veloutée ; il m'aurait même semblé que chaque point était le résultat d'une élévation comme une villosité. J'avoue cependant que les Murex arrivant de Marseille étaient depuis trop longtemps hors de la mer pour oser affirmer, et que cette apparence ne s'est pas présentée dans le _Murex erinaceus_ tout frais, observé sur les côtes du Poitou et de la Bretagne, à Pornic, à l'île de Ré, à la Rochelle (pointe des Minimes).
+
+*) Voy. _Ann. des sc. nat._, Zool., 4e série, t. 12, pl. 1, fig. 2.
+
+La résistance de cette bandelette est très faible ; sous la plus légère pression, sous l'attouchement le plus léger, la matière blanchâtre semble exsuder à sa surface, comme une mucosité ; les contractions seules de l'animal, quand on l'irrite, produisent, pour ainsi dire, une sueur qu'il est toujours facile de distinguer, par suite de la couleur blanchâtre opaque. C'est sous un jet d'eau qui lave la surface en déterminant un courant, que l'on voit bien cette particularité.
+
+Ces caractères prouvent assez que la partie blanche qui fournit la matière n'a pas par elle-même la disposition générale que l'on trouve dans les glandes proprement dites. Nous reviendrons encore sur cette distinction, quand la texture intime qui va nous occuper sera connue.
+
+La texture est assez simple.
+
+Quand on soumet à un grossissement un peu fort la matière exsudée à la surface par suite des contractions de l'animal, on la trouve composée de petits grains opaques, liés entre eux par la mucosité,* et le plus souvent on voit au milieu de ces granulations des vésicules plus ou moins volumineuses, plus ou moins sphériques ou allongées et remplies elles-mêmes de granulations analogues à celles qui sont libres.
+
+*) _Ann. des sc. nat._, Zool., 4e série, t. 12, pl. 1, fig. 7 et 9. _Pourpres hémastome_ et _lapillienne_.
+
+Si l'on enlève avec des ciseaux bien tranchants une petite portion de ce tissu, sa composition se présente avec les mêmes caractères. On trouve qu'il se compose de cellules longues placées parallèlement les unes aux autres, et perpendiculaires par leur plus long axe à la surface du manteau.* Les plus superficielles forment par l'une de leurs extrémités un plan, une surface qui est celle-la même que l'on aperçoit dans les préparations indiquées précédemment en renversant le manteau,* et qui, ainsi qu'on peut le prévoir, est couverte d'un épithélium vibratile, comme tout le reste de la surface du corps.
+
+*) _Ann. des sc. nat._, Zool., 4e série, t. 12, pl. 1, fig. 7, 8, 9 _Pourpres hémastome_ et _lapillienne_.
+
+*) _Ibid._, fig. 7 et 8.
+
+Ces cellules renferment la matière granuleuse qui doit se dissoudre et produire la couleur. Elles sont, du reste, très grandes ; le plus souvent elles crèvent dans l'eau. Leur contenu empêche de reconnaître le noyau, si elles en ont un.
+
+Leur grandeur varie cependant sur un même individu, ainsi qu'on peut le voir dans l'une des planches où deux figures prises au même grossissement, et représentant le tissu de la glande d'une même _Purpura lapillus_, sont très différentes.* La différence entre les grandeurs est très considérable. Dans le cas où les cellules sont plus grandes, il semble que leur extrémité libre se dégage un peu, et par cela même se renfle davantage, tandis que l'autre semble pressée et comme effilée.* Évidemment ces apparences diverses dépendent de la différence du développement. La grosseur est sans doute en rapport avec le plus ou moins d'avancement ou de maturité de la sécrétion.
+
+*) _Ibid._, fig. 8.
+
+*) _Ibid._
+
+Lorsque l'animal se contracte, ou lorsqu'on exerce une pression sur la bandelette, ce sont ces cellules qui s'échappent et deviennent libres ; presque toujours baignées par un liquide, elles s'endosmosent et crèvent, alors leur contenu granuleux se mélange au mucus et aux autres cellules non déchirées.
+
+Ce sont donc ces cellules que l'on détache, isole et déchire, quand, à l'aide d'une brosse de peintre, on passe successivement à différentes reprises sur la partie qui les produit.
+
+Enfin, c'est leur contenu qu'il faut étendre uniformément sur les tissus pour obtenir la couleur.
+
+Le contenu paraît, par la lumière transmise sous le microscope, avec sa teinte jaunâtre, mais il est facile de voir aussi mêlées avec les cellules jaunes d'autres cellules qui présentent une certaine transparence ; celles-ci sont sans doute de formation plus récente, et leur contenu n'est pas aussi près de la maturité ou d'une élaboration parfaite que dans les autres.
+
+Ces cellules forment une couche d'une certaine épaisseur et dont on voit mieux la constitution quand elles sont moins volumineuses. C'est ce qui paraît dans l'une des figures.*
+
+Quand on pénètre plus bas, au-dessous de la couche qui vient d'être décrite, on trouve des cellules transparentes plus ou moins irrégulièrement ovales, d'une autre nature, plus petites, formant une couche qui paraît être le tissu même du manteau sur lequel repose la bandelette dont il vient d'être question.
+
+_Remarque._ --- Et maintenant que cette structure est connue, posons cette question : Est-ce une glande qui fournit la matière à pourpre ?
+
+Évidemment ici point de canal excréteur, point de cul-de-sac sécréteur ; si donc il y a glande, la partie sécrétante est à nu et étendue sur la face inférieure du manteau. A ce point de vue, l'opinion peut être soutenue ; mais habituellement on réserve ce nom à une cavité plus ou moins profonde, plus ou moins ramifiée, plus ou moins simple ou composée, et tapissée par le parenchyme cellulaire producteur de la matière à sécréter. Il suffirait ici de reployer cette couche et de l'enfoncer, pour ainsi dire, en un cul-de-sac, pour avoir dans ces nouvelles conditions une glande dans la véritable acception du terme. On comprend maintenant que les expressions qui, en commençant, étaient condamnées, ne peuvent plus être employées. Il n'y a pas plus de _réservoir_ que de _sac_ et que de _veine_, que de _poche à pourpre_.
+
+*) Voy. _Ann. des sc. nat._, Zool., 4e série, t. 12, pl. 1, fig. 7.
+
+L'expression _glande à pourpre_ serait convenable, si le mot _glande_ n'indiquait presque toujours les dispositions qui viennent d'être caractérisées.
+
+# 7\. Circulation dans la partie du manteau correspondant à la couche productrice de la matière à pourpre.
 
 ...
