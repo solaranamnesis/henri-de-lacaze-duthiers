@@ -24,7 +24,7 @@
 
 # [10\. La glande purpurigène est-elle particulière aux espèces qui fournissent de la couleur ?](#10-la-glande-purpurigène-est-elle-particulière-aux-espèces-qui-fournissent-de-la-couleur--1)
 
-# [11\. Quelle est la couleur réelle de la pourpre, et quelle était cette couleur chez les anciens ?]()
+# [11\. Quelle est la couleur réelle de la pourpre, et quelle était cette couleur chez les anciens ?](#11-quelle-est-la-couleur-réelle-de-la-pourpre-et-quelle-était-cette-couleur-chez-les-anciens--1)
 
 ...
 
