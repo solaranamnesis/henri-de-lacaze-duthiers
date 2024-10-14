@@ -18,7 +18,7 @@
 
 # [7\. Circulation dans la partie du manteau correspondant à la couche productrice de la matière à pourpre.](#7-circulation-dans-la-partie-du-manteau-correspondant-à-la-couche-productrice-de-la-matière-à-pourpre-1)
 
-# [8\. La matière colorante pourprée n'est pas fournie par le rein, et elle n'est et ne peut être l'urine de l'animal.]()
+# [8\. La matière colorante pourprée n'est pas fournie par le rein, et elle n'est et ne peut être l'urine de l'animal.](#8-la-matière-colorante-pourprée-nest-pas-fournie-par-le-rein-et-elle-nest-et-ne-peut-être-lurine-de-lanimal-1)
 
 ...
 
