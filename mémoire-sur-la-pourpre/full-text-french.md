@@ -26,7 +26,7 @@
 
 # [11\. Quelle est la couleur réelle de la pourpre, et quelle était cette couleur chez les anciens ?](#11-quelle-est-la-couleur-réelle-de-la-pourpre-et-quelle-était-cette-couleur-chez-les-anciens--1)
 
-# [12\. De l'espèce de coquillage fournissant la couleur pourpre.]()
+# [12\. De l'espèce de coquillage fournissant la couleur pourpre.](#12-de-lespèce-de-coquillage-fournissant-la-couleur-pourpre-1)
 
 ...
 
