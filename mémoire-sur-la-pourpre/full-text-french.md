@@ -26,6 +26,8 @@
 
 # [11\. Quelle est la couleur réelle de la pourpre, et quelle était cette couleur chez les anciens ?](#11-quelle-est-la-couleur-réelle-de-la-pourpre-et-quelle-était-cette-couleur-chez-les-anciens--1)
 
+# [12\. De l'espèce de coquillage fournissant la couleur pourpre.]()
+
 ...
 
 ---
@@ -701,5 +703,217 @@ La propriété qu'a la matière fournie par le manteau de changer de couleur, n'
 La spécificité du produit, la qualité peuvent donc être très différentes, mais l'origine, organiquement, anatomiquement parlant, est semblable.
 
 # 11\. Quelle est la couleur réelle de la pourpre, et quelle était cette couleur chez les anciens ?
+
+Il semble, si ce n'est inutile, du moins bien facile de répondre à cette question ; car chacun a l'idée de la couleur qu'il veut désigner, lorsqu'il dit : telle chose est pourpre.
+
+Or, il est certain que la plupart du temps on a, de la couleur qui nous occupe, une idée qui n'est pas celle que fait naître la vue de la nuance dont il vient d'être question.
+
+Lorsque j'ai montré les dessins et les photographies, il m'a été dit immédiatement par beaucoup de personnes : « Mais cela est violet, et la pourpre des anciens était rouge. » On ajoutait même : « et la plus belle pourpre, celle de Tyr, était rouge de sang. »
+
+Quand on désigne la pourpre romaine de nos jours, c'est d'un rouge vif dont on entend parler : un rouge qui serait représenté, par exemple, par un fond de rouge vermillon sur lequel on passerait un glacis de carmin.
+
+Piqué de curiosité, j'ai prié plusieurs peintres de faire devant moi une teinte semblable à celle qu'ils placeraient sur une toile où ils représenteraient un vêtement de pourpre au temps des Romains, et toujours j'ai vu des teintes complétement différentes.
+
+Cependant, aujourd'hui, dans les expériences, la couleur obtenue avec des coquillages a constamment été violette, seulement avec des nuances un peu différentes, suivant les conditions que l'on a étudiées plus haut, et dont il sera encore question plus loin.
+
+Pour le moment, la question qu'il faut résoudre est celle-ci : _Quelle est et quelle devait être la couleur primitive et naturelle de la pourpre ?_
+
+En rapprochant les faits fournis par l'expérience de l'interprétation des auteurs anciens, on peut arriver à avoir des notions positives sur le sens des mots ; établissons donc tout d'abord ce qu'il s'agit de prouver, afin que la discussion un peu scolastique qui va suivre soit lue avec plus de facilité.
+
+D'après les expériences faites avec les espèces désignées dans ce travail (et ce sont très probablement quelques-unes de celles qu'employaient les anciens), il ne peut être douteux, en ce qui concerne la matière colorante qu'elles fournissent, que la _couleur primitive et naturelle de la pourpre ne fût un violet plus ou moins foncé_.
+
+Or, l'idée que l'on s'est faite, ou que beaucoup de personnes se font encore de la pourpre, se rapporte bien plus souvent au rouge ; il s'agit donc de trouver, clans les textes anciens, si les expressions qui désignaient la couleur doivent faire comprendre plutôt le rouge que le violet, ou réciproquement.
+
+Voilà toute la question. Elle semble simple au premier abord, mais elle se complique ; car de synonyme en synonyme le sens des mots s'étant étendu et modifié, il est devenu très difficile de le fixer exactement.
+
+Naturellement, il faut consulter les auteurs les plus anciens, et principalement ceux qui vivaient aux époques où la pourpre (s'entend la couleur tirée des coquillages) était un objet de luxe et de grand prix. Si l'on ne s'en tenait qu'aux auteurs modernes sans remonter aux originaux, on s'exposerait à avoir les sens dérivés donnés par les compilateurs, qui très souvent se sont copiés les uns les autres.
+
+Aristote ayant fait un livre tout entier sur les couleurs, on devait espérer trouver dans ses écrits une définition exacte et précise de la couleur pourpre. On va voir quels renseignements il est possible de tirer de l'interprétation de son texte.
+
+Il désigne la couleur pourpre par le mot _alourgès_ ([GREEK])* ; on est donc conduit à rechercher la signification de ce mot, et ce n'est pas sans beaucoup étudier et comparer les textes que l'on peut arriver à quelque chose de positif.
+
+*) Voy. _Œuvres d'Aristote_, t. 3 (édit. Firmin Didot, Paris, 1854) : **Des couleurs**, [GREEK], cap. 4, p. 647, lib. 28 : [GREEK] : « Quin etiam animalium succis, quemadmodum violaceus color purpura » (traduction latine du même ouvrage).
+
+Quand on consulte les dictionnaires, on voit qu'ils assignent le sens de _pourpre_ à l'adjectif _alourgès_, ou bien qu'ils lui donnent des synonymes tout aussi difficiles à traduire ; car relativement à la question qui nous occupe, ils sont tout aussi vagues, et il est impossible d'avoir d'après eux une idée précise et certaine à la fois.
+
+On en est donc réduit à chercher le sens dans le texte même, et si l'on éprouve un peu d'embarras, c'est qu'_alourgès_ avait plusieurs nuances, Aristote le dit de la manière la plus positive* ; et d'un autre côté, cela est certain aussi, deux mots servaient à désigner les couleurs plus ou moins pourprées, c'étaient _alourgès_ et _phoinicoun_ ([GREEK]). Ces deux adjectifs avaient un sens spécial et distinct, ainsi qu'on peut s'en assurer en lisant le traité même _Des couleurs_ d'Aristote.
+
+*) Voy. _Œuvres d'Aristote_, cap. 3, p. 645, lib. 41 : [GREEK] : « multas enim et violaceus color habet differentias » (traduction latine du même ouvrage).
+
+Mais, bien que ces deux mots se rapportassent évidemment à des nuances d'une même couleur générale, on acquiert la conviction, après un examen attentif des textes, que _alourgès_ était plus partilièrement employé pour désigner la couleur pourpre proprement dite.*
+
+*) Voy. aussi les différents dictionnaires et le _Thesaurus_ de H. Étienne.
+
+En ce qui regarde la valeur de chacun de ces deux mots, on peut observer que Platon se sert de _phoinicoun_ lorsque le rouge domine, tandis qu'il emploie _alourgès_ lorsqu'il s'agit de quelque chose de plus sombre. Cela est clairement la conséquence de la composition assignée par lui à la couleur _alourgès_ qui était un mélange de noir, de rouge et de blanc.* Évidemment une couleur où entre le noir devient plus sombre, et c'est le cas de l'_alourgès_. Ainsi donc _phoinicoun_ devait se rapporter à quelque chose de plus rouge, de plus clair, de plus éclatant, et par cela même _alourgès_ devait être considéré comme une chose plus obscure.
+
+*) Platon, édit. Bipont., t. 9, p. 383 : [GREEK] : « esse rubrum cum albo nigroque permixtum. »
+
+Dans un passage du livre d'Aristote, en trouve le rapport des deux couleurs assez clairement exprimé par l'image de la succession des tons et des nuances que suit le raisin lorsqu'il mûrit. « Dans les raisins, dit-il, la couleur vineuse se développe quand ils mûrissent, et lorsqu'ils noircissent, la teinte _phoinicoun_ se change en _alourgès_. » Or, quand on a suivi jusqu'à leur maturité les raisins que, dans les pays vinicoles, on appelle _noirs_ ou _rouges_, on voit très-bien qu'ils sont plus rouges au commencement, et d'un rouge plus foncé, ou mieux d'un violet sombre à la fin.*
+
+*) Voy. _loc. cit._, cap. 2, p. 645, lib. 7 : [GREEK] : « Horum enim apparet color vinosus, dum maturantur, quippe quum nigrescentibus puniceum mutatur in violaceum. »
+
+Ainsi se caractérise le sens respectif de ces deux mots. Il ressort évidemment de ce passage, comme de l'interprétation précédente des textes, que _alourgès_ correspondait à une nuance de violet, et c'est ainsi que l'a entendu aussi le traducteur des ouvrages d'Aristote ; il rend toujours le mot _alourgès_ par violet (_violaceus_), tandis qu'il emploie toujours le mot _rouge_ (_puniceus_) pour traduire _phoinicoun_. Si donc on voulait s'appuyer sur l'opinion d'autrui, indépendamment de l'interprétation directe des textes, on trouverait là une preuve à l'appui du sens qu'il convient d'attribuer au mot _alourgès_.*
+
+*) On peut remarquer que, dans les citations précédentes, la traduction latine emploie toujours _puniceus_ et _violaceus_ pour rendre [GREEK] et [GREEK].
+
+Gœthe, comme chacun le sait, a lui aussi traité des couleurs. En sa qualité de philosophe, et surtout de naturaliste ou d'homme de science, à laquelle il tenait tant, il ne pouvait laisser de côté les ouvrages d'Aristote. Il a traduit en allemand le [GREEK] (_De coloribus_), qu'il semble rapporter, d'après le titre, indifféremment à Théophraste* ; mais il n'emploie pas le mot allemand _violet_ pour traduire _alourgès_, il se sert du mot _blaurothe_ (rougebleu). Or quiconque a manié une couleur voit la couleur violette dans le mélange du bleu et du rouge.*
+
+*) Voy. _Œuvres de Gœthe_, édit. Tetot (Paris 1837), t. 5, p. 494, _Theophrast oder Aristoteles von den Farben_.
+
+*) Voy. _Œuvres de Gœthe_, _loc. cit._, p. 496, chap. 4, relatif aux différentes couleurs. Il traduit ainsi le passage qu'on a déjà vu, mais qu'il est utile de mettre ici en regard du texte allemand : « Auch mit tierischen Saften wie das Blaurote durch die Purpurschnecke. »  
+Voy. Aristote, _loc. cit._, p. 647 : [GREEK]. Traduction latine : « Quin etiam alia animalium succis, quemadmodum violaceus color purpura. »
+
+Voyons enfin comment ont entendu _alourgès_ les compilateurs et commentateurs. Parmi eux, H. Étienne nous conduit exactement, dans son _Thesaurus_, aux mêmes conclusions. D'abord le sens d'_alourgès_ signifia pourpre (_purpureus_) ; peu à peu sa signification s'étant étendue, il servit pour quelques-uns à désigner le violet (_violaceus_), mais qu'on le remarque toutefois, après avoir indiqué une teinte spéciale, la couleur pourpre.*
+
+*) Voy. H. Étienne, _Thesaurus græcæ linguæ_, ab H. Stephano, editio nova, vol. 2 (Londres, 1819, 1825, col. 1885). « [GREEK]. Purpureus vel, ut quidam loquuntur, purpurisseus ; à nonnullis et violaceus. Sed non dubium est quin [GREEK] a purpuræ colore ductum, longius significationem suam extenderit. »
+
+On trouve aussi dans H. Étienne une distinction relative au sens des deux mots _alourgès_ et _phoinicoun_, qui est en tout semblable à celle qui vient d'être établie ; on en voit la preuve dans la citation suivante : « Le premier arc-en ciel est _phoinicoun_, le second est _alourgès_ et pourpre.* »
+
+*) _Ibid._ « Arcus cœlestis primus color est [GREEK], secundus autem [GREEK] et [GREEK]. »
+
+Si, comme c'est incontestable, d'après ce qui vient d'être dit, _phoinicoun_ répond plutôt au rouge qu'au violet, en ayant présent à l'esprit le spectre solaire développé dans l'arc-en-ciel, il ne peut être question pour les deux autres couleurs que du violet, et cela que l'on entende les deux arcs-en-ciel qui se présentent souvent, ou bien les différentes zones d'un même arc.
+
+Ainsi, par tous ces détails, peut-être un peu longs, mais nécessaires cependant, on arrive à conclure qu'Aristote et les Grecs, ainsi que leurs commentateurs, en désignant la couleur pourpre par le mot _alourgès_, entendaient parler d'une couleur plutôt violette que rouge, et qu'ils réservaient le mot _phoinicoun_ pour les cas où la nuance, plus voisine du rouge, était aussi plus claire et plus éclatante.
+
+Voilà donc un premier pas de fait dans la détermination exacte de la couleur de la pourpre ; mais évidemment il existait, comme il a a été dit, plusieurs nuances, les unes plus foncées que les autres.
+
+Or, c'est précisément au dernier des tons obtenu à la fin de la préparation de la matière tinctoriale que se rapportait l'_alourgès_, comme on peut en juger par le passage d'Aristote, où, après avoir parlé du changement des couleurs dans les plantes, il passe à celui qu'éprouve la matière de la pourpre pendant ses préparations. « Dès le commencement, lorsque les teinturiers en pourpre ont abandonné les veines chargées de sang dans la chaudière, elles deviennent sombres et noires ; mais lorsque la fleur* a été cuite convenablement, elle devient d'un _alourgès_ beau et brillant.* »
+
+*) On entendait par _fleur_ (Aristote et Pline), la matière animale fournissant la couleur même.
+
+*) _Loc. cit._, cap. 5, p. 651, lib. 7 : [GREEK]. Traduction latine : « Initio enim, quum purpurarii venas sanguinarias (in cortinam) demiserint, caliginosæ fiunt et nigræ et aereæ ; pigmento autem salis concocto, colorem violaceum floridum et splendidum assumunt. »
+
+Ce qui a contribué à jeter sur la couleur qui nous occupe le vague que nous cherchons a écarter, c'est qu'elle présentait une foule de tons et de nuances ; et ce devait être absolument comme cela se voit aujourd'hui ; surtout pour les couleurs composées.
+
+« C'est une idée complétement fausse que de se représenter sous le nom de _pourpre_ une seule couleur, » dit Heeren.*
+
+*) Voy. _Ideen über die Politik, den Verkehr und den Hondel der vornehmsten Volker der alten Welt_, von H. Heeren, 1824, Bd. 2, vierte Auflage, 88 : « Es ist eine ganslich falsche Vorstellung, wen man sich unter Purpur eine einzelne Farbe denkt. »
+
+« Cette expression, ajoute-t-il, désigne bien plutôt, dans l'antiquité, tout un genre de teinture pour lequel on se servait de couleurs animales tirées surtout des coquillages de mer.* »
+
+*) _Ibid._ : « Vielmehr bezeichnet dieser Ansdruck im Altertum eine ganze Hauptgattung der Farberei, zu der man sich animalischer Farben, namlich des Saftes der Seemuscheln, bediente. »
+
+Il est certain que le mot _pourpre_, désignant à la fois une étoffe ; une couleur, une matière colorante et un animal, a dû donner parfois lieu à des confusions résultant de cette multiplicité de sens appliqués à un seul mot ; de plus, les épithète différentes employées pour désigner des tons ou des nuances diverses d'une même couleur sont venues ajouter à la confusion, et augmenter la difficulté qu'il y a à reconnaître la valeur réelle du mot.
+
+Quant à la multiplicité dès nuances, doit-on en juger par un passage de Heeren, qui n'avance lui-même que des faits empruntés à Amati et à Rosa ? Voici ce qu'il dit dans une note : « Amati compte neuf couleurs de pourpre simple, depuis le blanc jusqu'au noir. Les neuf premières sont le noir, le gris, le violet, le rouge, le bleu foncé, le bleu clair, le jaune, le rougeâtre, le blanc.* » Pour peu que les couleurs composées soient différentes des précédentes, toute l'échelle chromatique se trouvera représentée par ce seul mot de _pourpre_. Il y a là sans doute de l'exagération, à moins que quelques-unes des teintes indiquées ne soient des passages produits par la lumière solaire ; mais cela ne paraît guère probable.
+
+*) Voy. Heeren, paragraphe 1°, p. 89, vol. 2 : « Amati, 1, c, Zahit 9 einfache Purpurfarben, von weiss bis zu schwarz, und 5 gemischte auf Jene erste sind, Schwarz, graun (lividus), violet, rot, dunkelblau, hellblau, gelb, rotlich, weiss. »
+
+Quand on remonte aux ouvrages originaux, on est frappé des répétitions que l'on rencontre ; le plus souvent, les auteurs se copient les uns les autres, et bien souvent sans le dire. Pline lui-même ne paraît pas être exempt du reproche : c'est ainsi qu'il pourrait bien se faire qu'il eût emprunté à Aristote les histoires relatives à la formation des alvéoles par les Pourpres avec une matière analogue à la cire, et cela sans dire à quelle source il a puisé.
+
+Puis c'est lui qui à son tour, pendant bien longtemps, sert à ses successeurs qui oublient aussi de dire qu'ils lui empruntent, ou qui le citent en interprétant simplement le sens des mots, sans rapprocher de ces interprétations les faits positifs fournis par l'observation directe de la nature.
+
+Heeren indique les differentes espèces de coquillages fournissant la pourpre, et l'on reconnaît facilement (c'est, du reste, d'après Amati) les distinctions du Buccin et de la Pourpre, telles qu'elles ont été données par Pline. La veine blanche placée près du cou et fournissant la fleur, rien ne manque pour reconnaître le naturaliste latin.*
+
+*) Voy. _loc. cit._, Heeren, Bd. 2, p. 89. (Man sehe Amati, p. 27. Die Hauptstelle bei Pline, 9, 36, cf. Amati, p. 30.)
+
+Il n'oublie pas d'établir la différence entre les étoffes teintes une ou plusieurs fois : « La teinture était répétée ordinairement, et par ce moyen on obtenait, ou le rouge vif, ou le violet, selon que l'on se servait de différentes espèces de Pourpres, ou que l'on disposait les procédés.* »
+
+*) Voy. Heeren, vol. 2, p. 91. « Die Farbung geschad bei ihnen durchgehends in der Wolle ; und ward gewohnlich wiederholt (Purpuræ dibaphæ) ; wodurch man teils das hohe Rot, teils aber auch das Violet erhielt, je nachdem man verschiedener Arten des Purpurs sich bediente, und die Verfahrungsarten einrichtete. » (Mad sieht leicht, dass sowohl die grossere Schonheit als auch die Mannigfaltigkeit der Farben nicht bloss durch die natürliche Verschiedenheit, sondern noch mehr durch die künstliche Bereitung und Mischung hervorgebracht ward. So erhielt man Z. B. den dunkelroten Purpur, indem die Wolle zuerst in den Saft der Purpura, unt dann, wenn die gekammt war, in den vod den Buccinis gelegt wurde ; den violetten aber durch die umgekehrte Procedur. Es gab dabei aber eine menge Handgriffe, besonders um den Grad zu bestimmen, bis zu welchen die Farbe gekocht werden musste. Man sehe Amati, p. 35. etc.)
+
+On voit que ces différences tenaient, ou bien à l'espèce, ou bien aux procédés, et cela est important à remarquer, car on n'a pas perdu de vue la question qu'il s'agit d'éclairer : _Quelle était la teinte naturelle et primitive de la pourpre ?_
+
+Mais à côté de ces variétés de nuances, il faut encore ranger ces reflets que savaient donner les teinturiers aux étoffes, qui, par cela même devenaient brillantes avec les jeux de la lumière.
+
+Les anciens trouvaient à ces qualités des charmes tout particuliers : Sénèque en parle dans plus d'un endroit, et Pline les indique d'une manière toute spéciale.
+
+Revenons maintenant un peu en arrière, et cherchons dans Pline d'autres preuves en faveur de l'opinion qui a servi de point de départ à la discussion.
+
+Pline a dit, et après lui chacun a répété, que « la plus belle pourpre tyrienne est celle qui a la couleur du sang figé, et qui paraît noirâtre quand on la voit de face, et brillante dans ses reflets : aussi Homère donne-t-il au sang l'épithète de pourpré.* »
+
+*) Voy. _Histoire naturelle_ de Pline, bibliothèque latine, édit. Panckoucke, trad. de M. Ajasson de Grandsagne, t. 7, liv. 9, p. 109 : « Laus ei summa, in colore sanguinis concreti nigricans aspectu, idemque suspectu refulgens. Unde et Homero purpureus dicitur sanguis. »
+
+Cette couleur du sang fait naître naturellement l'idée du rouge ; et d'ailleurs on trouve encore dans Pline : « Le rouge vif vaut mieux que le rouge foncé.* »
+
+*) Voy. _loc. cit._, liv. 9, § 62. « Rubens color nigrante deterior. »
+
+Ainsi c'est du rouge que l'on croit généralement qu'il est question, quand il s'agit de la pourpre.
+
+A ces interprétations des textes opposons des faits positifs tirés de l'observation directe.
+
+Dans tous les essais, faits avec cinq espèces différentes prises dans des localités très diverses et fort éloignées, c'est toujours le violet qui s'est présenté (ou le bleu pour une espèce de _Murex trunculus_, mais qui a donné aussi le violet).
+
+Il est donc indubitable que la couleur _primitive non modifiée_, la _couleur réelle_ de la Pourpre, qui dut se présenter la première fois à celui qui en fit la découverte, absolument comme cela est arrivé à tous ceux qui, sans artifice, ont essayé la matière sur les grèves des bords de la mer, que cette couleur, dis-je, a dû être pour les anciens, comme elle est pour nous, _violette_, à moins que l'on ne veuille admettre un changement dans l'organisation des animaux, supposition qu'il est inutile de réfuter, tant elle serait gratuite.
+
+Au surplus, voici sur quelles raisons repose cette opinion, indépendamment des considérations précédentes et de celles qui suivront encore relativement aux textes.
+
+Toutes les fois que les rayons du soleil ou la lumière diffuse ont frappé la matière purpurigène dans l'air, avec l'humidité, comme sous l'eau, dans une liqueur à la fois saline, alumineuse, et renfermant du sublimé, dans une solution de cyanure de mercure, dans l'alcool, l'eau douce, la couleur violette s'est développée.
+
+Les animaux que j'ai rapportés des bords de l'Océan, et que j'ai conservés morts plus de huit jours, ont fourni avec les débris de leur manteau déjà en putréfaction des épreuves photographiques, et toujours le violet se développait, mais un peu plus sombre, et par conséquent un peu moins rouge.
+
+La couleur présentait souvent des différences de tons et de nuances dont la cause m'échappait, mais toujours constamment, sans exception, elle était violette au fond.
+
+On n'a pas oublié aussi que l'action du soleil se faisait remarquer encore par le développement de l'odeur infecte particulière dont il a été question. Il y a dans le développement de cette odeur quelque chose de caractéristique indiquant certainement une réaction chimique très nette, très précise. Or, il est important de remarquer que ce changement de couleur, comme la fétidité de la matière, était connu des anciens ; on en jugera par le passage suivant : « Mais où est le mérite des couleurs conchyliennes ? L'odeur en est infecte à la teinture, et la nuance en est d'un vert attristant et semblable à celui de la mer en courroux.* »
+
+*) Pline, _loc. cit._, 9, § 60, p. 380. « Sed unde conchyliis prætia ; queis virus grave in fuco, color austereus in glauco, et irascenti similis mari ? » On peut remarquer que Pline fait connaître la première couleur verte, et par conséquent, ainsi qu'on a pu l'observer dans les citations d'Aristote, que la teinte violette arrivait plus tard.
+
+On voit certainement là les changements de couleur et l'odeur qui arrivent, quand va se produire la couleur violette.
+
+Il est impossible, d'après cela, que la couleur naturelle ne fût pas connue des anciens. D'ailleurs on va trouver encore un autre ordre de preuves. Si tant est qu'on veuille admettre un changement de condition physique dans la formation du violet, cela paraît tout-à-fait inadmissible, car les animaux d'autrefois ne peuvent pas avoir changé de manière d'être ; d'ailleurs, on vient de le voir, les conditions capitales, odeur et changement de couleur, démontrant la similitude, étaient connues.
+
+En recherchant dans les auteurs anciens, on y trouve la preuve de la première nuance de la pourpre, celle que l'on peut appeler naturelle. Bien que Pline ait rapporté souvent des histoires qui ressemblent à des contes faits à plaisir, on peut cependant démêler au milieu de tout cela les choses qui sont exactes. Pour ce qui est de la pourpre, par exemple, il est facile de croire qu'il n'a pu écrire que ce qu'il devait voir chaque jour dans les rues de Rome. Or, en s'occupant de la manière dont en teignait les tissus, il nous fait connaître que l'on mêlait les Pourpres et les Buccins : « De ce mélange, dit-il, on obtient une teinture que l'on recherche, et qui est le résultat du sombre de la pourpre et du brillant de l'écarlate. Les deux couleurs ainsi combinées se prêtent réciproquement du sombre ou de l'éclat. Pour avoir une excellente teinture, il faut, pour cinquante livres de laine, mêler deux cents livres de Buccin à cent onze livres de Pourpre : c'est ainsi que s'obtient cette superbe couleur d'améthyste.* » Ainsi les couleurs rouge de sang figé, rouge vif, la pourpre sombre et la couleur améthyste, voilà des teintes diverses qui toutes se rapportaient à ce que l'on nommait d'une manière générale la pourpre.
+
+*) Pline, _loc. cit._, t. 7, p. 109, liv. 9, § 62. « Pelagio admodum alligatur, nimiæque ejus nigritiæ dat austeritateru illam nitoremque qui quæritur ; ita permixtis viribus alterum altero excitatur, aut adstringitur summa medicaminum in 50 libras vellerum, buccini ducenæ, pelagii 111. Ita fit amethysti color eximius ille. » --- En s'en rapportant à la valeur de la livre telle qu'elle a été indiquée par Savot de la Nauze, Romé de Lisle, et enfin, et surtout, par Letronne (voyez le mémoire intitulé _Considérations générales sur des monnaies grecques et romaines_, 1817, p. 4-7) :  
+50 livres romaines équivalaient à 16k,359 de nos poids.  
+300 livres romaines équivalaient à 65k,436 de nos poids.  
+111 livres romaines équivalaient à 36k,316 de nos poids.
+
+On vient de voir la remarque de Heeren, qui dit : « Ce serait une erreur que de croire que le mot _pourpre_ désigne une seule couleur. »
+
+Il n'est donc pas douteux qu'au temps des Romains comme aujourd'hui, le goût du public n'eût une influence sur la nuance, et que les teinturiers ne cherchassent à obtenir celle qui avait le plus de faveur. Or, sans rapporter ici tout ce que dit Pline sur les préparations de la matière tinctoriale, il est certain que les manipulations, comme le mélange d'autres produits ou des espèces, devaient avoir une influence sur la nuance,* et qu'en définitive la couleur des étoffes pouvait être différente du violet qu'on obtient dans les expériences naturelles faites par tous ceux qui ont observé les coquillages purpurifères. Mais certainement la teinte primitive, la couleur naturelle de la pourpre, celle produite par l'exposition de la matière à l'influencé de la lumière du soleil, était et ne pouvait être autre que le violet, au moins pour quelques espèces, probablement pour la plupart de celles qui fournissaient jadis aux anciens la couleur des vêtements des grands de Rome. Il paraît donc probable que les modifications du violet qui le rapprochaient plus ou moins du rouge étaient toutes artificielles et dues à des manipulations, à des changements ayant pour but d'ajuster au goût de l'époque la couleur primitive, qui se présente toujours la même quand les choses marchent naturellement.
+
+*) On l'a déjà vu dans les citations de Heeren et Amati, _loc. cit._ (voyez la note dans les _Ann. des sc. nat._, Zool., 4e série, t. 12).
+
+Sans contredit, aussi les manipulations que les teinturiers faisaient éprouver aux matières pour obtenir les reflets si estimés dont parlent Sénèque et tous les anciens durent conduire à des modifications de couleur, et en cherchant les étoffes changeantes, on dut modifier la nuance. Mais on ne perd pas de vue qu'il ne s'agit pas de nier ici que la pourpre pût se rapprocher plus ou moins du rouge ; non, il s'agit de prouver que la couleur primitive a été le violet, et que, sans aucun doute, tant que l'on se servit de la matière tinctoriale des mollusques, elle fut au fond un violet plus ou moins voisin du rouge.
+
+Sans contredit encore, le mot _pourpre_ s'appliquant aux vêtements des grands,* lorsque les découvertes firent trouver des couleurs minérales plus éclatantes, plus rouges et plus faciles à avoir, lorsque la teinture avec des coquillages fut abandonnée, il dut arriver que le mot _pourpre_, continuant à désigner des étoffes dont la couleur changeait peu à peu, on l'appliqua à des étoffes qui n'étaient plus violettes et qui déjà arrivaient à l'écarlate. De là, sans aucun doute, une cause d'incertitude sur le sens à attacher de nos jours à ce mot _pourpre_ ; de là aussi la nécessité de revenir, ainsi que cela vient d'être fait, aux textes anciens, en les mettant en regard des expériences faites avec les espèces d'animaux qui, suivant toute apparence, ont servi, quelques-unes du moins, à la teinture primitive de la pourpre.
+
+*) Puisqu'on les nommait _purpurati_, les grands.
+
+Du reste, quelques citations montreront encore que la pourpre ne fut pas toujours rouge, comme on le pense trop souvent. Pline emprunte à Cornelius Nepos un passage plein d'intérêt pour la solution de la question : « Pendant ma jeunesse, dit Cornelius, la pourpre violette était en vogue et se vendait cent deniers la livre* ; bientôt après on préféra la pourpre rouge de Tarente, et ensuite la double pourpre de Tyr, dont la livre coûtait plus de mille deniers.* » Ce passage me paraît montrer d'une manière non dou. teuse ce qui vient d'être avancé plus haut, à savoir, que la véritable teinte pourpre, la couleur naturelle, était le violet. En effet, on voit tout d'abord la pourpre violette estimée, c'est la première obtenue ; puis par un raffinement, par une exigence du goût, elle fut demandée plus rouge, plus éclatante, ce qui s'obtint par des manipulations, par des perfectionnements de l'art du teinturier : de là probablement une modification de la couleur. Enfin on arriva à la _purpura dibapha_, ou aux étoffes qui avaient été teintes deux fois, afin d'avoir une couleur plus belle, plus vive à la fois, plus riche, plus chère et plus rare. « On appelait _dibapha_ la pourpre qui, par une dépense magnifique alors, avait été teinte deux fois, comme le sont aujourd'hui presque toutes les pourpres les plus recherchées.* »
+
+*) Pour comparer avec les valeurs modernes, voyez l'estimation de la livre et du denier par Letronne, et avant lui Romé de Lisle.  
+La valeur varia souvent pour les monnaies, et le tableau des variations nous permet d'estimer ainsi, la valeur des pourpres indiquées par Cornelius Nepos :  
+Sous Auguste :  
+Une livre correspondait à 327gr,18 de nos poids modernes, les 100 deniers valaient 79 francs.  
+Ce qui fait à peu près 237 francs le kilogramme.  
+La livre payée 1000 deniers valait 790 fr., et le kilogr. 2,370 fr. à peu près.  
+Aujourd'hui cette somme nous paraît énorme. Si l'on calcule que probablement, chez les Romains l'argent avait encore plus de valeur que chez nous, on comprendra bien vite que la pourpre fut d'abord l'insigne des chefs, des rois, des empereurs, et put être si recherchée. Longtemps elle ne fut abordable que pour les grands et les patriciens romains.
+
+*) _Loc. cit._, liv. 9, 63, p. 111, Pline, trad. édit. Panckoucke, t. 7 : « Me, inquit, juvene, violacea purpura vigebat, cujus libra denariis centum venibat : nec multo post rubra Tarentina. Huic successit dibapha Tyria, quæ in libras denariis mille non poterat emi. »
+
+*) _Loc. cit._, p. 110. « Dibapha tunc dicebatur, quæ bis tincta esset veluti magnifico impendio, qualiter nunc omnes pene commodiores purpuræ tinguntur. »
+
+Pline indique une différence entre la couleur conchylienne et la pourpre ; on retrouve à chaque instant ces deux mois, ce qui évidemment leur donne une signification un peu différente ; du reste, il s'applique lui-même à définir ces couleurs : « Deux sortes de coquillages nous donnent la pourpre et la couleur conchylienne ; car, pour l'une et pour l'autre ; la matière est la même : toute la différence est dans la combinaison.* »
+
+*) _Loc. cit._, Pline, t. 7, édit. Panckoucke, p. 105, liv. 9, 61, et p. 104, texte latin id. « Concharum ad purpuras et conchylia (eadem enim est materia, sed distat temperamento), duo sunt genera. »
+
+Plus loin, il s'attache à faire connaître cette différence : « On suit le même procédé pour la couleur conchylienne, si ce n'est qu'on n'emploie pas de buccin ; en outre, on verse dans le suc de pourpre de l'eau et de l'urine à parties égales, et l'on y ajoute une moitié de plus en pourpre. C'est ainsi qu'au moyen d'une saturation incomplète, on obtient cette couleur tendre si vantée, et d'autant plus claire, que la laine a pris moins de teinture.* »
+
+*) _Loc cit._, t. 7, p. 110, liv. 9, 64 : « In conchyliata veste cetera eadem, sine buccino : præterque, jus temperatur aqua, et pro indiviso, humano potus excremento, dimidia et medicamenta adduntur. Sic gignitur laudatus ille pallor saturitate fraudata, tantoque dilutior, quanto magis vellera esuriunt. »
+
+Ainsi la couleur conchylienne ne paraissait être autre chose que la pourpre (probablement violette) très légère, et elle se rapporterait sans doute à ces dessins et à ces effets si légers, si doux, que j'ai obtenus sur batiste et sur soie, en employant fort peu de matière purpurigène du _Purpura hæmastoma_ à Mahon, ou du _Murex brandaris_ de Marseille à Lille.
+
+Enfin pour en finir avec ce que devait être la couleur pourpre, un dernier mot sur la teinte dont Pline s'occupe spécialement, et qu'on nommait _améthyste_. C'est la couleur de la pierre de ce nom, et autrefois, comme aujourd'hui, l'améthyste était une pierre violette ; il ne peut donc y avoir de doute à cet égard.
+
+Je crois que c'en est assez pour prouver que, primitivement, la couleur pourpre était non pas rouge, mais violette ; qu'elle avait dû être celle-là même que la lumière solaire fait naître en agissant sur le suc purpurigène ; enfin, que peu à peu la teinte a été modifiée par les caprices de la mode et les exigences du luxe : « La couleur conchylienne n'est plus ainsi qu'une bonne préparation pour la teinte tyrienne.* » C'était le premier état de cette pourpre dite _dibapha_ qui plus tard fut si estimée.* On voit là évidemment les progrès et les modifications apportés à la préparation de la pourpre par suite des exigences du luxe.
+
+*) _Loc. cit._, t. 7 de Pline, édit. Panckoucke, p. 113, texte p. 112, liv. 9, 65 : « Et quum confecere conchylia, transire melius in Tyrium putant. »
+
+*) Elle valut 2,417 fr. 40 c. au moins le kilogramme.
+
+Pour toutes les recherches bibliographiques qui précèdent, je dois mille remerciements à mon cousin le premier avocat-général H Drême. Sa riche bibliothèque et les précieuses éditions qu'elle renferme, mises à ma disposition, ont été pour moi d'une grande ressource. Que sa modestie me pardonne si je le nomme ici, mais sa complaisance sans bornes, sa connaissance si parfaite des textes anciens et son érudition si vaste, m'ont rendu de tels services pour l'étude de la question, que la reconnaissance et l'amitié m'imposent de lui adresser les remerciements les plus sincères.
+
+En résumé, quel enseignement pratique est-il possible de tirer de cette longue discussion ? Curieux de bien déterminer le sens du mot _pourpre_ en tant que couleur, je me suis adressé à la peinture ; j'ai vu les tableaux des maîtres ; j'ai prié des peintres, aussi habiles qu'érudits, de me montrer le ton, la teinte qu'ils emploieraient pour représenter des draperies pourprées. A cette question, comme à l'observation des tableaux, j'ai toujours trouvé beaucoup d'embarras. Mais j'ai toujours vu le rouge dominer. Je consulte les ouvrages de peinture, et j'y trouve, relativement à la pourpre, toujours le même vague.
+
+Si donc ou se rapporte aux expériences et aux explications données plus haut, il est évident que les peintres devront faire varier leur nuance avec l'époque : car plus on remonte haut, plus la teinte dominante est le violet ; plus, au contraire, on se rapproche du temps où écrivait Pline, plus le rouge domine ; et jusqu'au moment où la pourpre tirée des coquilles fut abandonnée, ce qui dut être assez tard, toujours certainement le fond de la couleur dut être plus ou moins violet.
+
+Si l'on ne perd pas de vue que, dans quelques dessins obtenus avec la matière des différentes espèces, j'ai obtenu des tons et des reflets bleuâtres et rougeâtres ; si l'on n'oublie pas non plus que les anciens estimaient beaucoup les vêtements de pourpre à reflet, on devra toujours, dans les draperies, sur le fond du violet plus ou moins varié comme il vient d'être indiqué, placer habilement des glacis de rouge et de bleu, qui répondront bien certainement à ces tons si vifs et si changeants dont parlent Pline et Sénèque.
+
+Il est bien difficile de décrire une couleur ; cependant je dirai que dans tous les essais obtenus, la teinte était non pas un violet bleuâtre, mais bien un violet plus rosé que bleu. En faisant des essais pour imiter la couleur obtenue naturellement, le carmin, le bleu de cobalt et un peu d'encre de Chine me donnaient les tons sombres très beaux ; pour les nuances claires, j'obtenais des teintes avec de la garance cerise et un peu de bleu d'outre mer ; mais toujours les violets doivent être plus voisins du rose que du bleu.
+
+Il faut enfin ajouter que la couleur pourpre de Cassius, et les couleurs ou précipités que les chimistes appellent _pourpres_, se rapportent à ces teintes foncées, sombres, mais violettes, dont il vient d'être parlé, et qu'on obtient surtout avec les Pourpres bouche de sang, en employant beaucoup de matière.
+
+# 12\. De l'espèce de coquillage fournissant la couleur pourpre.
 
 ...
