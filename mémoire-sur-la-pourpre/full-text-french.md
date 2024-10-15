@@ -28,8 +28,6 @@
 
 # [12\. De l'espèce de coquillage fournissant la couleur pourpre.](#12-de-lespèce-de-coquillage-fournissant-la-couleur-pourpre-1)
 
-...
-
 ---
 
 # 1\. Ce qui a conduit à s'occuper de la question.
@@ -916,4 +914,124 @@ Il faut enfin ajouter que la couleur pourpre de Cassius, et les couleurs ou pré
 
 # 12\. De l'espèce de coquillage fournissant la couleur pourpre.
 
-...
+C'est après bien des auteurs que cette question va être traitée ici ; elle est facile à résoudre, quand on a fait, non pas des recherches purement bibliographiques on donné autre chose qu'une interprétation des textes des anciens, mais bien quand on a exécuté des expériences directes.
+
+Il est, d'après les observations qui ont servi de base à ce travail, d'après les renseignements obtenus, il est incontestable que deux des genres des conchyliogistes modernes, observés dans les mers qui baignent les côtes de France, fournissent de la matière à pourpre. Les genres Rocher (_Murex_) et Pourpre (_Purpura_) donnent incontestablement la matière purpurigène.
+
+Les _Murex brandaris_, _M. trunculus_, _M. erinaceus_, ont servi aux expériences : les deux premiers à Mahon et à Marseille : le troisième à Pornic (Vendée), la Rochelle et l'île de Ré.
+
+Dans ces trois espèces prises sur des points bien différents, l'organisation des parties productrices est tout à fait identique. La glande anale surtout se fait remarquer par sa teinte très foncée, d'une manière très nette, sur les côtés de la bandelette purpurigène.
+
+Il faut remarquer toutefois que le _Murex brandaris_ donne un violet parfois plus rose et extrêmement délicat, et beaucoup plus clair ; du moins c'est ce qui s'est présenté dans les expériences faites a Lille, avec les animaux que M. Alfred Lejourdand avait bien voulu m'adresser de Marseille. Le ciel des Flandres est loin d'avoir ce jour éblouissant du Midi, et l'on peut se demander si l'action de la lumière un peu différente n'aurait pas une part dans la variation de la teinte ?
+
+Quant au _Murex trunculus_, voici ce qui m'a frappé : à Mahon, il est connu des pêcheurs pour donner une teinte bleuâtre, et surtout pour ne pas fournir des marques fixes résistant au lavage. Or j'ai fait à Mahon des dessins que j'ai et que je puis montrer ; ils sont d'un violet bleuâtre avec des parties tout à fait bleues.
+
+Plus tard, la même espèce m'est arrivée de Marseille à Lille, et j'ai fait des dessins d'un violet très foncé, qui rappellent le sombre de la Pourpre dont parle Pline.
+
+Voilà donc avec une même espèce, non-seulement des nuances bien différentes, mais des couleurs tout à fait distinctes ; du reste, le violet n'est au fond qu'un mélange de rouge et de bleu, et suivant que telle ou telle de ces deux couleurs prédomine, la pourpre peu être plus sombre ou plus rouge.
+
+En suivant le développement de la couleur, soit du _Murex trunculus_, soit des autres espèces, surtout par un ciel nuageux, on voit, chose curieuse, le développement successif des couleurs simples qui, par leur mélange, forment les couleurs composées.
+
+Ainsi de blanche, la matière devient jaune : voilà une première couleur simple ; puis c'est le bleu qui se développe, et alors, avec le jaune qui existe déjà, il apparaît évidemment du vert. Le bleu va toujours augmentant, tandis que le jaune semble disparaître, aussi se fonce-t-il ; et ceci est très marqué pour la matière du _Murex trunculus_. A ce moment donc, la matière après avoir été jaune clair, jaune verdâtre, puis verte, vert bleuâtre, devient bleuâtre sombre.
+
+Le rouge se produit en dernier lieu, et forme avec la couleur bleue le violet, qui, on le comprend, sera d'autant plus voisin du bleu ou du rouge, que celui-ci se sera moins ou plus développé.
+
+Ainsi, quand on suit à l'œil le développement successif des couleurs, et que l'on s'arrête au moment où commence à paraître le violet, les étoffes semblent avoir été tachées par ce vin bleuâtre de mauvaise qualité, qui laisse sur les tissus blancs une teinte que l'on trouve tout aussi bleue que violette. Dans quelques cas, les reflets bleus, qui paraissent mêlés au violet ou au rose déjà développé, sont extrêmement beaux ; et certainement c'est à ces reflets que doit faire allusion Pline, quand il dit : « Les deux couleurs combinées ainsi se prêtent réciproquement du sombre ou de l'éclat.* » Seulement les deux couleurs dont il est question sont la pourpre et l'écarlate ; ce qui correspond sans doute au rouge et au violet foncé et ce dernier probablement très chargé de bleu.
+
+*) _Loc. cit._, p. 108 : « Ita permixtis viribus alterum altero excitatur, aut adstringitur. »
+
+Pour le _Murex erinaceus_, que l'on trouve sur les côtes de Pornic et de La Rochelle, la teinte constante qu'il donne est le violet ; toutefois, sans savoir encore pourquoi, il s'est présenté des teintes plus vineuses, plus bleuâtres ou plus rosées, en opérant dans des conditions qui paraissaient exactement les mêmes.
+
+Quant aux Pourpres qu'il m'a été possible de soumettre à l'expérience, elles appartiennent aux espèces _P. hæmastoma_ et _lapillus_.
+
+Les dessins obtenus avec la matière de la première espèce ont été faits à Mahon, sous le soleil et le ciel éblouissant des îles Baléares. La teinte varie évidemment avec la quantité de matière déposée à la surface des tissus ; elle est du violet le plus délicat sur le fil, la batiste, mais elle est aussi du pourpre le plus foncé, le plus obscur, quand la quantité de matière est considérable.
+
+C'est la Pourpre bouche de sang que les Mahonais appellent _Cor de fel_, et qui a la réputation bien méritée de fournir une couleur inaltérable. Nous reviendrons sur ce caractère, et il ne sera pas sans intérêt de le rapprocher de quelques passages du texte de Pline.
+
+Enfin, de nombreux essais ont été tentés à l'aide du _Purpura lapillus_ de Boulogne-sur-Mer (Pas-de-Calais), ou bien de Pornic (Vendée). Il faut remarquer que, dans la première localité, les individus sont de bien plus grande taille que dans la seconde, ce qui facilite les recherches.
+
+Quelques individus ont donné un violet des plus beaux ; d'autres des reflets bleuâtres des plus remarquables, et qui impriment quelque chose de très doux et de très agréable à la teinte et au coloris des dessins.
+
+Ainsi, voilà cinq espèces, appartenant à deux genres, qui fournissent une couleur identique, seulement la teinte paraît plus tenace pour quelques-unes d'elles.
+
+Faut-il généraliser et dire : Tous les Rochers (_Murex_), toutes les Pourpres (_Purpura_), fournissent de la matière purpurigène. Ces généralisations sont souvent imprudentes ; cependant ici elles seraient légitimées. Les Pourpres dans l'alcool sont souvent colorées ; voici, d'une autre part, d'autres espèces de Pourpres (la _Pourpre biscotale_) qui ont coloré les caleçons de bain de M. de Saulcy* ; enfin un Rocher (_Murex_) qui n'avait pas été observé au point de vue qui nous occupe, bien entendu, m'a fourni de la matière tout comme les autres espèces étudiées du même genre.
+
+*) Voy. _Bulletins de la Société industrielle de Mulhouse_, n° 130, 1854, note 2 du travail de M. Sacc, p. 308.
+
+Il est donc probable que dans ces deux genres, tels qu'ils sont caractérisés aujourd'hui,* la matière purpurigène est sécrétée par les espèces diverses. J'ajoute encore que j'ai observé de nombreuses espèces de Pourpres dans l'alcool, au Jardin des Plantes : elles présentaient une partie du manteau d'un violet foncé ; elles s'étaient évidemment empourprées après la mort.
+
+*) Voyez les principaux ouvrages Georges Cuvier, Lamarck, Kienner, Deshayes, Wodwards, etc., etc.
+
+Et maintenant cherchons, après tant d'autres, à savoir quelles espèces Pline a voulu désigner, et par conséquent quelles espèces servaient à la production de la pourpre des anciens.
+
+Il suffit de lire attentivement Pline, et de rapprocher ce qu'il dit dos faits positifs qui viennent d'être présentés il n'y a qu'un instant, pour voir que les deux genres Pourpre et Rocher sont par lui désignés, mais avec des noms différents : « Ainsi, dit-il, deux sortes de coquillages nous donnent la pourpre ... Le plus petit est le Buccin ; il doit son nom à la ressemblance avec cet autre coquillage, duquel on tire un son de trompette (_buccinum_), et a son ouverture arrondie en bouche (_bucca_).* » Il est évident qu'il est question du genre Pourpre. Ainsi que le fait remarquer M. de Saulcy, le « _rotunditate oris in margine incisa_ » a une très grande valeur, et l'on peut voir que, dans la traduction de la collection Panckoucke, _incisa_ est négligé : or c'est un caractère du genre _Pourpre_ que cette échancrure de l'ouverture de la coquille, et par cela même la traduction du mot _incisa_ a une très-grande importance quand il s'agit de l'interprétation du texte.
+
+*) _Loc. cit._, Pline, t. 7, liv. 9, 61, p. 104, de l'édition citée : « Concharum ad purpuras et conchylia ... duo sunt genera. Buccinum minor concha ad similitudinem ejus qua buccini sonus editur : unde et causa nomini, rotunditate oris in margine incisa. »
+
+Toutes les difficultés viennent de ce que l'on s'en est tenu le plus souvent à des commentaires, à des recherches bibliographiques, à des interprétations de textes. Le plus souvent les traductions ont été faites par des littérateurs à qui les détails d'histoire naturelle n'étaient point familiers, ou bien les interprétations venaient de naturalistes qui s'en tenaient aux traductions ; et c'est pour montrer quel inconvénient il y a à ne consulter qu'une traduction souvent faite par un linguiste, sans doute habile, mais non familier avec les sujets, que j'ai tenu à mettre ici en regard la traduction d'une collection célèbre et son texte original. Plus d'une fois on a pu remarquer qu'au point de vue de l'histoire naturelle, l'expression française ne répondait pas au texte latin. Mais M. Littré, dont le travail porte le double cachet du linguiste savant et du naturaliste habile, a fait une excellente traduction de Pline ; aussi a-t-il rendu le caractère « son ouverture est ronde à pourtour incisé.* »
+
+*) Pline, trad. Littré, liv. 9, 61, p. 380.
+
+Ce que l'on appelait d'un nom autrefois est appelé d'un autre aujourd'hui, et sans remonter jusqu'aux Romains, le même coquillage est désigné sur les côtes de France par des noms tout à fait différents. Réaumur appelle _Buccin_ le _Purpura lapillus_ ; cela n'est pas douteux, car il en donne un dessin. Quelle serait, d'ailleurs, sur les côtes du Poitou, la coquille qui donnerait la couleur pourpre et à laquelle se rapporteraient les descriptions de Réaumur ? C'est sans doute d'après Réaumur et Pline que M. Sacc, un peu en retard à ce point de vue en conchyliologie, appelle aussi le _Purpura lapillus_ un _Buccin_. Ainsi donc le Buccin de Pline, comme celui de Réaumur, est une Pourpre des catalogues modernes. Quant à l'autre espèce, il est impossible de n'y pas voir désigné sous le nom de Pourpre ce que nous appelons aujourd'hui les Rochers. « L'autre se nomme Pourpre ; son bec se prolonge contourné en volute et creusé en canal pour donner passage à la langue. De plus, la coquille est couverte de pointes jusqu'au sommet : ces pointes, disposées en rond, sont ordinairement au nombre de sept ; le Buccin n'en a point.* »
+
+*) _Loc. cit._, p. 104, liv. 9, 61, coll. Panckoucke. « Alterum Purpura vocatur, cuniculatim procurrente rostro, et cuniculi latere introrsus tubulato, qua proferatur lingua. Præterea clavatum est ad turbinem usque, aculeis in orbem septenis fere, qui non sint Buccino ... »
+
+Non seulement la description du canal pour le passage de ce qu'il appelle à tort la langue est un caractère des _Murex_ en général, mais encore les pointes qu'il décrit prouvent que Pline avait certainement en vue le _Murex brandaris_. La découverte que l'on a faîte, à Pompéï,* de tas de coquilles du _Murex brandaris_ près des boutiques des teinturiers, prouve assez que c'est de cette espèce qu'il s'agit.
+
+*) Je cite ce fait sous toute réserve : j'ai souvenance de l'avoir vu indiqué ; mais quand j'ai voulu remettre la main dessus pour fixer exactement la source de la citation, je n'ai pu y réussir.
+
+Ainsi transportons au genre Rocher le nom de Pourpre donné par Pline à l'une de ses espèces, celui de Buccin aux Pourpres donné aux autres, et nous aurons une idée exacte relativement aux genres employés par les anciens pour avoir la couleur pourpre.
+
+Quant à l'espèce même, il est très probable que le _Purpura hæmastoma_, qui a la réputation de donner une couleur indélébile, devait jouer un grand rôle dans la teinture. On peut encore remarquer, et cela avec plus de connaissance de cause maintenant, ce passage où Pline dit : « Le Buccin ne s'emploie pas seul, la couleur ne tiendrait pas ; on le mêle à la Pourpre* ... » Ne serait-il pas permis de croire (et ici ce n'est qu'une remarque relative à l'interprétation des textes, et qui montre combien, avant d'avoir bien étudié les espèces dont il doit être question, on peut faire erreur) que le _Murex trunculus_, dont le bec n'est que peu prolongé et dont la surface n'est point couverte d'épines, a été aussi compris par Pline dans son premier genre qu'il nomme _Buccin_. Le _Murex trunculus_ donne une couleur plus bleuâtre et qui n'est pas solide ; de là peut-être cette opinion de la nécessité de mélanger ces deux genres, ainsi qu'il vient d'être dit.
+
+*) _Loc. cit._, p. 109, liv. 9, 62 : « Buccinum per se damnatur, quoniam fucum remittit. Pelagio admodum alligatur ... »
+
+Il faut ajouter, c'est de toute justice, que M. de Saulcy a indiqué très nettement, dans une note adressée à M. Sacc, que l'expression de Pline _oris in margine incisa_, devait faire rapporter évidemment au genre _Purpura_ des auteurs modernes* ce que le naturaliste ancien appelait _Buccinum_, et que le _Murex brandaris_ devait être reconnu sous le nom de _Purpura_ employé par Pline.
+
+*) Voy. _Bulletins de la Société industrielle de Mulhouse_, n° 130, année 1854, p. 309, trad du passage de Pline par M. de Saulcy.
+
+Du reste, dans les notes qui accompagnent la traduction de Pline, dans la collection Panckoucke, notes qui, pour la plupart, sont dues à Cuvier,* la distinction des genres _Purpura_ et _Murex_, et l'indication du _Murex brandaris_, se trouvent parfaitement établies, et cela à la date de 1830.
+
+*) Les notes du livre 9 ne sont pas signées ; mais dans une note, p. 190, 60, lig. 22, il y est dit : « Voyez notre _Mémoire sur l'anatomie du Buccin_. » Ce doit être évidemment G. Cuvier qui a écrit cela.
+
+Cependant il y est dit encore : « On ne connaît pas aujourd'hui très bien les espèces. » Il s'agit de celles qui étaient employées pour la teinture.* Dans cette note on trouve encore l'indication du _rotunditate oris in margine incisa_. « Les Buccins proprement dits ont au bas de l'orifice de la coquille une échancrure qui fait le caractère de leur genre. » Aujourd'hui, dans la famille des Buccins, on place à la fois le genre Buccin et le genre Pourpre avec beaucoup d'autres ; or, les Buccins proprement dits ne fournissent pas de matière colorante : c'est ce dont j'ai pu m'assurer, du moins sur le _Buccinum undatum_, à la Rochelle. Enfin il n'est guère probable qu'à l'époque où écrivait Pline, les distinctions entre les genres eussent la précision qu'elles ont aujourd'hui, et dès lors il n'est pas étonnant que sous un même caractère fussent réunis des genres très distincts dans les ouvrages modernes.
+
+*) Voy. édit. Panckoucke, Pline, t. 7, note, p. 190.
+
+Pour ce qui est d'admettre les distinctions d'espèces établies par le naturaliste latin, il faut une certaine réserve. Ainsi, quand il reconnaît cinq variétés de Pourpres (entendre _Murex_ dans le langage scientifique moderne) dont il apprécie les valeurs relatives, il est impossible de les rapporter à des espèces bien déterminées. Je n'esssaierai donc pas de fixer à quelles espèces des classifications modernes se rapportent celles qu'il nomme _limoneuse_, _algensis_, _calculensis_, _dialutensis_, etc.* Il est très probable que les espèces employées étaient plus nombreuses que celles dont il a été question dans ce mémoire ; mais ce ne serait que par des recherches sur la faune des côtes de Tyr que l'on pourrait peut-être arriver à quelques données plus précises.
+
+*) Voy. _Loc. cit._, p. 106 et 107.
+
+L'occasion se présente encore de produire ici un fait qui montre bien que les _Purpura_ de Pline correspondent aux _Murex_ des modernes ; on le trouve dans l'exposé qu'il fait de la pêche de ces coquillages. Sa narration, empreinte d'exagération, offre cependant quelque chose de vrai.
+
+On peut remarquer une certaine analogie entre ses récits et ceux que les pêcheurs, gens observateurs s'il en fut, que les praticiens purs, en un mot, font lorsqu'on les interroge.
+
+Pline raconte ainsi la pêche des Pourpres (entendez _Murex_) : « On prend les Pourpres en jetant dans la mer de petites nasses à larges mailles, dans lesquelles on met pour appât des coquillages qui s'ouvrent et se ferment comme les moules. Ces coquillages à demi morts se raniment et s'ouvrent lorsqu'ils ont été rendus à la mer. Les Pourpres les attaquent et avancent la langue pour les percer ; ceux-ci, excités par la douleur, se referment : les Pourpres se trouvent prises, et, victimes de leur avidité, on les enlève suspendues par la langue.* »
+
+*) _Loc. cit._, t. 7, p. 106 et 107, 61 : « Capiuntur autem Purpuræ parvulis rarisque textu veluti nassis in alto jactis. Inest iis esca, clusiles mordacesque conchæ, ceu mitulos videmus : has semineces, sed edditas mari, avido hiatu reviviscentes, appetunt Purpuræ, porrectisque linguis infestant : at illæ aculo exstimulatæ claudunt se, comprimuntque mordentia : ita pendentes aviditate sua Purpuræ tolluntur. »
+
+Cette façon de prendre les Pourpres a quelque chose de singulier et qui étonne tout d'abord.
+
+Je n'ai jamais pêché à Mahon un individu de l'espèce _Murex trunculus_, sans que le pêcheur qui m'accompagnait, et qui était _mariscador_ (pêcheur de coquillages), me répétât : « Ces _cors_ détruisent mes coquillages ; ils viennent autour des _mariscos_ (coquillages) surtout des Prères (_Scupinas gravadas_ en mahonais, _Corbula striata_ Deshayes), qui sont estimées, et par cela même parquées dans certains points du port où on les trouve au besoin, ils les sucent et les font mourir, puis ils les dévorent. » Je taxais mon pêcheur d'exagération ; et je crois encore que si les _Murex_ sont très carnassiers, ils doivent cependant y regarder à deux fois avant d'introduire leur trompe (ce qu'on appelle à tort langue) entre les valves si puissantes d'une _Venus verrucosa_ ou d'une _Corbula striata_, car elle serait sans aucun doute plus que blessée par la pression. Ce qui est plus probable, c'est que les _Murex_ font pénétrer en effet leur trompe dans les coquilles bivalves, mourantes ou mortes, pour s'en repaître, et il ne serait d'ailleurs nullement nécessaire de les voir pincés par leur _langue_ pour qu'ils pussent être pris. Ces animaux, au lieu de fuir quand ils sentent des mouvements auprès d'eux, s'enferment ou restent fixés et assez fortement adhérents aux corps sur lesquels ils sont : aussi pourrait-on voir relever les nasses et monter les Rochers avec elles, sans qu'il fût nécessaire de croire que ceux-ci sont suspendus par la langue. Dans le récit de Pline il y a de l'exagération ; mais à coup sûr, il peut et il doit y avoir du vrai dans le mode de pêche qu'il indique. En descendant ainsi au fond de la mer des coquillages en moitié morts, c'était un appât qui devait sans aucun doute attirer les animaux carnassiers, et en retirant les nasses, on devait remonter tous les _Murex_ venus sur l'appât.
+
+C'est, du reste, une croyance généralement répandue, que les _Murex_ font périr les bivalves. Sur les plages de la Rochelle, où j'ai recueilli tant de _Murex erinaceus_, les personnes qui aux grandes marées sont très nombreuses sur les plages, et qui, me voyant ramasser ce qu'elles ne cherchaient pas, me demandaient ce que j'en voulais faire, ajoutaient toujours que ces animaux faisaient mourir les Huîtres en les suçant.
+
+Cette opinion me semble être le résultat d'une observation incomplète, mais aussi d'un fait incontestable, fait que j'ai pu observer sur les individus que je détachais des rochers, derrière la pointe des Minimes, près de la Rochelle ; le plus souvent les _Murex_ étaient fixés aux roches, non-seulement par le pied, mais encore par leur trompe introduite à quelques centimètres (2-3) dans un trou, et quand j'avais arraché les animaux, je pouvais très facilement voir la trompe et observer sa rentrée assez lente. Or, dans ces trous souvent il y a de petites Pholades. On comprend parfaitement que les _Murex_ puissent impunément diriger leurs attaques sur ces bivalves, car il n'en est pas de leur coquille comme de celles des Vénus. Chez les Pholades, le corps est toujours à découvert dans quelques points, au contraire dans les Vénus il est parfaitement à l'abri.
+
+Ainsi dans les récits de Pline comme dans ceux des pêcheurs, souvent de l'exagération, souvent une mauvaise interprétation d'un fait, mais au fond il y a de la vérité ; il faut la chercher, il faut la dépouiller de ses fausses interprétations, et l'on peut utiliser et mettre à profit très avantageusement les renseignements que les uns et les autres fournissent toujours.
+
+On voit enfin ici que les habitudes de faire saillir au loin la langue (entendre la trompe) pour attaquer leur proie peut se rapporter aux Rochers, ce qui permet de reconnaître dans les Pourpres de Pline les Rochers des modernes, puisque les pêcheurs, les gens de mer, racontent encore aujourd'hui, et cela dans des points bien éloignés, Mahon et La Rochelle, des traits relatifs aux mœurs tout à fait semblables à ceux que le naturaliste ancien rapporte à ses Pourpres. Il faut ajouter cependant que les Pourpres proprement dites, des catalogues modernes ont, elles aussi, une trompe qui peut devenir saillante.
+
+---
+
+**Nota**. --- Une omission involontaire me fait placer ici ce qui suit ; c'est dans la partie historique qu'on aurait dû citer ce mémoire.
+
+MM. Grimaux de Caux et Gruby ont fait une communication à l'Académie des sciences en 1842* sur l'organe et la liqueur purpurifère du _Murex brandaris_. Ce travail se rapporte aux recherches de M. le docteur Bizio, dont il a été question ; on y trouve la description suivante ;
+
+« Cette poche (celle qui contient la liqueur purpurigène) a 2 centimètres de long, 1 1/2 de large à sa base ; elle forme un culde-sac et a par conséquent la forme d'un entonnoir ; elle est située à la partie supérieure du corps de l'animal, entre les organes de la tête et le foie. C'est proprement la cavité pulmonaire. Elle s'ouvre par une grande solution de continuité entre le bord du manteau et le corps de l'animal, et elle fournit un prolongement qui se loge dans un canal, au moyen duquel la cavité pulmonaire communique à l'extérieur, quand l'ouverture de la coquille est complètement fermée par l'opercule. »
+
+*) _Comptes rendus_, 1842, t. 15, p. 1007, _Description anatomique de l'organe qui fournit la liqueur purpurigène dans le_ Murex brandaris, _et une analyse microscopique de cette liqueur_, par MM. Grimaux de Caux et Gruby.
+
+C'est évidemment de la cavité tout entière du manteau qu'il est question. On ne peut admettre une telle description ; sans aucun doute, dans la cavité palléable se trouve de la matière purpurigène mêlée aux mucosités, mais ce n'est pas pour cela une poche particulière à la Pourpre.
+
+(_Extrait des Mémoires de la Société des Sciences, de l'Agriculture et des Arts de Lille._)
