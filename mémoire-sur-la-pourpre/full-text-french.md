@@ -62,7 +62,7 @@ La Pourpre a disparu comme matière tinctoriale depuis longtemps ; ce n'est que 
 
 Son histoire doit donc être et se trouve en effet dans les ouvrages anciens. On sait que sa valeur était grande, et que son nom était employé pour désigner tantôt la royauté, tantôt la puissance : en latin, les _Purpurati_, expression tirée de la possibilité de porter un habit de pourpre, servait à désigner les grands. C'était l'adjectif _purpuratus_ (qui porte un habit, des ornements couleur de pourpre), pris au pluriel substantivement. La valeur en était si grande que, s'il faut s'en rapporter à Théopompe, dont Athénée cite un passage dans son douzième livre, la Pourpre se vendait en Asie au poids de l'argent.*
 
-*) V. Athénée : [GREEK]. (Athen. _Deipnos._, 12, c. 31, édit. Bipont., vol. 4, p. 455). --- Voyez aussi plus loin la note accompagnant un passage de Pline, où les prix sont indiqués en valeur de notre monnaie.
+*) V. Athénée : ἰσοστάσιος γὰρ ἧν ἡ πορφύρα πρὸς ἀργυρὰν ἐξεταζομένη. (Athen. _Deipnos._, 12, c. 31, édit. Bipont., vol. 4, p. 455). --- Voyez aussi plus loin la note accompagnant un passage de Pline, où les prix sont indiqués en valeur de notre monnaie.
 
 Mais, de nos jours, les progrès de l'industrie ont fait perdre presque entièrement la valeur à cette matière tinctoriale. Aujourd'hui, dans de rares pays, tout au plus est-elle restée le secret de quelques personnes qui s'en servent pour marquer le linge, car elle est à peu près indélébile. Les choses sont donc bien changées depuis les temps anciens ; aussi ne trouvons-nous relativement à elle que des recherches de pure curiosité dans les temps modernes.
 
@@ -728,15 +728,15 @@ Naturellement, il faut consulter les auteurs les plus anciens, et principalement
 
 Aristote ayant fait un livre tout entier sur les couleurs, on devait espérer trouver dans ses écrits une définition exacte et précise de la couleur pourpre. On va voir quels renseignements il est possible de tirer de l'interprétation de son texte.
 
-Il désigne la couleur pourpre par le mot _alourgès_ ([GREEK])* ; on est donc conduit à rechercher la signification de ce mot, et ce n'est pas sans beaucoup étudier et comparer les textes que l'on peut arriver à quelque chose de positif.
+Il désigne la couleur pourpre par le mot _alourgès_ (ἁλουργὲς)* ; on est donc conduit à rechercher la signification de ce mot, et ce n'est pas sans beaucoup étudier et comparer les textes que l'on peut arriver à quelque chose de positif.
 
-*) Voy. _Œuvres d'Aristote_, t. 3 (édit. Firmin Didot, Paris, 1854) : **Des couleurs**, [GREEK], cap. 4, p. 647, lib. 28 : [GREEK] : « Quin etiam animalium succis, quemadmodum violaceus color purpura » (traduction latine du même ouvrage).
+*) Voy. _Œuvres d'Aristote_, t. 3 (édit. Firmin Didot, Paris, 1854) : **Des couleurs**, Περὶ χρωματῶν, cap. 4, p. 647, lib. 28 : τά δὲ καὶ τοῖς τῶν ζῴων χυλοῖς, καθάπερ καὶ τὸ ἁλουργὲς τῇ πορφύρᾳ : « Quin etiam animalium succis, quemadmodum violaceus color purpura » (traduction latine du même ouvrage).
 
 Quand on consulte les dictionnaires, on voit qu'ils assignent le sens de _pourpre_ à l'adjectif _alourgès_, ou bien qu'ils lui donnent des synonymes tout aussi difficiles à traduire ; car relativement à la question qui nous occupe, ils sont tout aussi vagues, et il est impossible d'avoir d'après eux une idée précise et certaine à la fois.
 
-On en est donc réduit à chercher le sens dans le texte même, et si l'on éprouve un peu d'embarras, c'est qu'_alourgès_ avait plusieurs nuances, Aristote le dit de la manière la plus positive* ; et d'un autre côté, cela est certain aussi, deux mots servaient à désigner les couleurs plus ou moins pourprées, c'étaient _alourgès_ et _phoinicoun_ ([GREEK]). Ces deux adjectifs avaient un sens spécial et distinct, ainsi qu'on peut s'en assurer en lisant le traité même _Des couleurs_ d'Aristote.
+On en est donc réduit à chercher le sens dans le texte même, et si l'on éprouve un peu d'embarras, c'est qu'_alourgès_ avait plusieurs nuances, Aristote le dit de la manière la plus positive* ; et d'un autre côté, cela est certain aussi, deux mots servaient à désigner les couleurs plus ou moins pourprées, c'étaient _alourgès_ et _phoinicoun_ (φοινικοῦν). Ces deux adjectifs avaient un sens spécial et distinct, ainsi qu'on peut s'en assurer en lisant le traité même _Des couleurs_ d'Aristote.
 
-*) Voy. _Œuvres d'Aristote_, cap. 3, p. 645, lib. 41 : [GREEK] : « multas enim et violaceus color habet differentias » (traduction latine du même ouvrage).
+*) Voy. _Œuvres d'Aristote_, cap. 3, p. 645, lib. 41 : πολλὰς γὰρ καὶ τὸ ἁλουργὲς ἓχει διαφοράς : « multas enim et violaceus color habet differentias » (traduction latine du même ouvrage).
 
 Mais, bien que ces deux mots se rapportassent évidemment à des nuances d'une même couleur générale, on acquiert la conviction, après un examen attentif des textes, que _alourgès_ était plus partilièrement employé pour désigner la couleur pourpre proprement dite.*
 
@@ -744,30 +744,30 @@ Mais, bien que ces deux mots se rapportassent évidemment à des nuances d'une m
 
 En ce qui regarde la valeur de chacun de ces deux mots, on peut observer que Platon se sert de _phoinicoun_ lorsque le rouge domine, tandis qu'il emploie _alourgès_ lorsqu'il s'agit de quelque chose de plus sombre. Cela est clairement la conséquence de la composition assignée par lui à la couleur _alourgès_ qui était un mélange de noir, de rouge et de blanc.* Évidemment une couleur où entre le noir devient plus sombre, et c'est le cas de l'_alourgès_. Ainsi donc _phoinicoun_ devait se rapporter à quelque chose de plus rouge, de plus clair, de plus éclatant, et par cela même _alourgès_ devait être considéré comme une chose plus obscure.
 
-*) Platon, édit. Bipont., t. 9, p. 383 : [GREEK] : « esse rubrum cum albo nigroque permixtum. »
+*) Platon, édit. Bipont., t. 9, p. 383 : ἐρυθρὸν δέ δὴ μέλανι λευκῷ τε κραθὲν, ἁλουργοῦν : « esse rubrum cum albo nigroque permixtum. »
 
 Dans un passage du livre d'Aristote, en trouve le rapport des deux couleurs assez clairement exprimé par l'image de la succession des tons et des nuances que suit le raisin lorsqu'il mûrit. « Dans les raisins, dit-il, la couleur vineuse se développe quand ils mûrissent, et lorsqu'ils noircissent, la teinte _phoinicoun_ se change en _alourgès_. » Or, quand on a suivi jusqu'à leur maturité les raisins que, dans les pays vinicoles, on appelle _noirs_ ou _rouges_, on voit très-bien qu'ils sont plus rouges au commencement, et d'un rouge plus foncé, ou mieux d'un violet sombre à la fin.*
 
-*) Voy. _loc. cit._, cap. 2, p. 645, lib. 7 : [GREEK] : « Horum enim apparet color vinosus, dum maturantur, quippe quum nigrescentibus puniceum mutatur in violaceum. »
+*) Voy. _loc. cit._, cap. 2, p. 645, lib. 7 : καὶ γὰρ τούτων οἰνωπὸν φαίνεται τὸ χρῶμα ἐν τῷ πεπαίνεσθαί μελαινομένων γὰρ τὸ φοινικοῦν εῖς τὸ ἁλουργὲς μεταβαλλει : « Horum enim apparet color vinosus, dum maturantur, quippe quum nigrescentibus puniceum mutatur in violaceum. »
 
 Ainsi se caractérise le sens respectif de ces deux mots. Il ressort évidemment de ce passage, comme de l'interprétation précédente des textes, que _alourgès_ correspondait à une nuance de violet, et c'est ainsi que l'a entendu aussi le traducteur des ouvrages d'Aristote ; il rend toujours le mot _alourgès_ par violet (_violaceus_), tandis qu'il emploie toujours le mot _rouge_ (_puniceus_) pour traduire _phoinicoun_. Si donc on voulait s'appuyer sur l'opinion d'autrui, indépendamment de l'interprétation directe des textes, on trouverait là une preuve à l'appui du sens qu'il convient d'attribuer au mot _alourgès_.*
 
-*) On peut remarquer que, dans les citations précédentes, la traduction latine emploie toujours _puniceus_ et _violaceus_ pour rendre [GREEK] et [GREEK].
+*) On peut remarquer que, dans les citations précédentes, la traduction latine emploie toujours _puniceus_ et _violaceus_ pour rendre φοινικοῦν et ἁλουργὲς.
 
-Gœthe, comme chacun le sait, a lui aussi traité des couleurs. En sa qualité de philosophe, et surtout de naturaliste ou d'homme de science, à laquelle il tenait tant, il ne pouvait laisser de côté les ouvrages d'Aristote. Il a traduit en allemand le [GREEK] (_De coloribus_), qu'il semble rapporter, d'après le titre, indifféremment à Théophraste* ; mais il n'emploie pas le mot allemand _violet_ pour traduire _alourgès_, il se sert du mot _blaurothe_ (rougebleu). Or quiconque a manié une couleur voit la couleur violette dans le mélange du bleu et du rouge.*
+Gœthe, comme chacun le sait, a lui aussi traité des couleurs. En sa qualité de philosophe, et surtout de naturaliste ou d'homme de science, à laquelle il tenait tant, il ne pouvait laisser de côté les ouvrages d'Aristote. Il a traduit en allemand le Περὶ χρωματων (_De coloribus_), qu'il semble rapporter, d'après le titre, indifféremment à Théophraste* ; mais il n'emploie pas le mot allemand _violet_ pour traduire _alourgès_, il se sert du mot _blaurothe_ (rougebleu). Or quiconque a manié une couleur voit la couleur violette dans le mélange du bleu et du rouge.*
 
 *) Voy. _Œuvres de Gœthe_, édit. Tetot (Paris 1837), t. 5, p. 494, _Theophrast oder Aristoteles von den Farben_.
 
 *) Voy. _Œuvres de Gœthe_, _loc. cit._, p. 496, chap. 4, relatif aux différentes couleurs. Il traduit ainsi le passage qu'on a déjà vu, mais qu'il est utile de mettre ici en regard du texte allemand : « Auch mit tierischen Saften wie das Blaurote durch die Purpurschnecke. »  
-Voy. Aristote, _loc. cit._, p. 647 : [GREEK]. Traduction latine : « Quin etiam alia animalium succis, quemadmodum violaceus color purpura. »
+Voy. Aristote, _loc. cit._, p. 647 : τὰ δὲ καὶ τοῖς τῶν ζῴων χυλοῖς καθάπερ καὶ τὸ ἁλουργὲς τᾖ πορφύρᾳ. Traduction latine : « Quin etiam alia animalium succis, quemadmodum violaceus color purpura. »
 
 Voyons enfin comment ont entendu _alourgès_ les compilateurs et commentateurs. Parmi eux, H. Étienne nous conduit exactement, dans son _Thesaurus_, aux mêmes conclusions. D'abord le sens d'_alourgès_ signifia pourpre (_purpureus_) ; peu à peu sa signification s'étant étendue, il servit pour quelques-uns à désigner le violet (_violaceus_), mais qu'on le remarque toutefois, après avoir indiqué une teinte spéciale, la couleur pourpre.*
 
-*) Voy. H. Étienne, _Thesaurus græcæ linguæ_, ab H. Stephano, editio nova, vol. 2 (Londres, 1819, 1825, col. 1885). « [GREEK]. Purpureus vel, ut quidam loquuntur, purpurisseus ; à nonnullis et violaceus. Sed non dubium est quin [GREEK] a purpuræ colore ductum, longius significationem suam extenderit. »
+*) Voy. H. Étienne, _Thesaurus græcæ linguæ_, ab H. Stephano, editio nova, vol. 2 (Londres, 1819, 1825, col. 1885). « Αλουργος. Purpureus vel, ut quidam loquuntur, purpurisseus ; à nonnullis et violaceus. Sed non dubium est quin ἁλουργὸς a purpuræ colore ductum, longius significationem suam extenderit. »
 
 On trouve aussi dans H. Étienne une distinction relative au sens des deux mots _alourgès_ et _phoinicoun_, qui est en tout semblable à celle qui vient d'être établie ; on en voit la preuve dans la citation suivante : « Le premier arc-en ciel est _phoinicoun_, le second est _alourgès_ et pourpre.* »
 
-*) _Ibid._ « Arcus cœlestis primus color est [GREEK], secundus autem [GREEK] et [GREEK]. »
+*) _Ibid._ « Arcus cœlestis primus color est φοινικοῦς, secundus autem ἁλουργὴς et πορφυροῦν. »
 
 Si, comme c'est incontestable, d'après ce qui vient d'être dit, _phoinicoun_ répond plutôt au rouge qu'au violet, en ayant présent à l'esprit le spectre solaire développé dans l'arc-en-ciel, il ne peut être question pour les deux autres couleurs que du violet, et cela que l'on entende les deux arcs-en-ciel qui se présentent souvent, ou bien les différentes zones d'un même arc.
 
@@ -779,7 +779,7 @@ Or, c'est précisément au dernier des tons obtenu à la fin de la préparation 
 
 *) On entendait par _fleur_ (Aristote et Pline), la matière animale fournissant la couleur même.
 
-*) _Loc. cit._, cap. 5, p. 651, lib. 7 : [GREEK]. Traduction latine : « Initio enim, quum purpurarii venas sanguinarias (in cortinam) demiserint, caliginosæ fiunt et nigræ et aereæ ; pigmento autem salis concocto, colorem violaceum floridum et splendidum assumunt. »
+*) _Loc. cit._, cap. 5, p. 651, lib. 7 : τὰ μὲν γὰρ ἑξ ἀρχῆς, ὅταν βαπτοντες τήν πορφύραν καθιῶσι τάς αἱματίδας, ορφνιαι γίνονται καὶ μέλαιναι καὶ ἀεροειδεῖς τοῦ δ ᾽ ἅνθους συνεψηθέντος ἱκανῶς, ἁλουργὲς, γίνεται εὐανθὲς καὶ λαμπρόν. Traduction latine : « Initio enim, quum purpurarii venas sanguinarias (in cortinam) demiserint, caliginosæ fiunt et nigræ et aereæ ; pigmento autem salis concocto, colorem violaceum floridum et splendidum assumunt. »
 
 Ce qui a contribué à jeter sur la couleur qui nous occupe le vague que nous cherchons a écarter, c'est qu'elle présentait une foule de tons et de nuances ; et ce devait être absolument comme cela se voit aujourd'hui ; surtout pour les couleurs composées.
 
