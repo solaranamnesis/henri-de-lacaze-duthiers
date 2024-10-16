@@ -146,7 +146,7 @@ Ainsi se trouve démontrée l'action de la lumière aussi clairement que possibl
 
 « Il me paraît que cette action du soleil sur cette liqueur est assez singulière, et mérite d'être examinée avec plus d'attention et de loisir que je ne l'ai pu faire, quoiqu'il paraisse qu'elle tienne assez à l'effet que cet astre produit sur les pêches, les pommes d'api, et quantité d'autres fruits qui ne prennent une belle couleur rouge que dans les endroits qui y sont exposés.* »
 
-(2) Voy. _loc. cit._, p. 59.
+*) Voy. _loc. cit._, p. 59.
 
 On trouve ici comparées deux choses qui ne sont guère comparables : dans un cas, c'est l'action des rayons solaires sur la matière soumise à la vie : dans l'autre, c'est cette même action sur des produits qui ont cessé d'être sous l'influence de la force vitale. Jamais le manteau des Pourpres ne se colore pendant la vie de l'animal : les mucosités seules prennent la teinte rouge violacé.
 
