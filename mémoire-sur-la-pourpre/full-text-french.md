@@ -34,7 +34,7 @@
 
 Dès longtemps la question de savoir comment les anciens se procuraient la belle couleur qui fut dans l'antiquité l'apanage des grands et des rois a préoccupé les naturalistes ; ce n'est donc pas une question nouvelle dont il s'agit ici. Bien souvent la solution des problèmes dont l'intérêt, au point de vue de l'application, a complètement disparu, est due à une simple curiosité. J'avoue que c'est poussé par la seule curiosité de savoir avec quoi on produisait cette belle couleur que j'ai fait quelques recherches ; d'ailleurs, au point de vue anatomique, il faut reconnaître que ce que l'on trouve dans les ouvrages est bien vague, si même on trouve des renseignements exacts.
 
-Tantôt, en effet, on rencontre dans les traités de malacologie les expressions _poche à poupre_, la _veine à matière pourprée_, le _réservoir_, etc. ; on va même jusqu'à dire que c'est la _bile de l'animal_* ou _suc pris de l'estomac_ ; la coquille elle-même a été considérée comme fournissant la couleur.
+Tantôt, en effet, on rencontre dans les traités de malacologie les expressions _poche à pourpre_, la _veine à matière pourprée_, le _réservoir_, etc. ; on va même jusqu'à dire que c'est la _bile de l'animal_* ou _suc pris de l'estomac_ ; la coquille elle-même a été considérée comme fournissant la couleur.
 
 *) Voyez Mémoire de M. Sacc, _Bulletin de la Société industrielle de Mulhouse_, n° 130, 1856, p. 306. « Il est positif qu'à Tyr en préparait la laine en l'imprégnant d'abord du suc verdâtre d'un coquillage, et qui semble en avoir été la bile. »
 
@@ -52,7 +52,7 @@ Intrigué, je le priai de faire sur le tissu de mes vêtements, et sous mes yeux
 
 La pratique, en m'instruisant, me fournissait l'occasion de faire quelques études, et j'appris bientôt que, dans le port de Mahon, on trouvait le _Cor de fel_, la Pourpre bouche de sang, en assez grande quantité. Il arrive rarement, lorsqu'on se trouve en rapport avec les pêcheurs, et si l'on peut parvenir à les faire converser, de ne pas apprendre quelque chose au milieu des erreurs, dont il faut savoir faire la part. On apprend toujours des choses justes, exactes, qu'il faut, il est vrai, interpréter et rapporter à leur véritable cause, ou bien dégager de ces exagérations que perpétuent, soit l'ignorance, soit la tradition de cette pratique qui sait tant et qui ignore bien davantage ; de cette pratique qui ne veut pas de la théorie, sans doute parce qu'elle redoute de savoir moins qu'elle, et qui cependant, si elle la consultait plus fréquemment, éviterait bien des erreurs, et ferait souvent de bien plus rapides progrès ; car l'une et l'autre se fournissent réciproquement des renseignements précieux, renseignements qui, certainement, les conduiraient toutes les deux plus vite à la vérité. Mais malheureusement il y a entre elles une répulsion bien difficile à vaincre, et cela non seulement quand il s'agit de la nature, mais encore pour toutes les autres branches de la science.
 
-Les premières observations sujets de ce mémoire ont donc été faites à Mahon ; je les ai continuées à Lille avec des animaux que je devais à l'obligeance de M. Alfred Lejourdand, sous-directeur du jardin de zoologie de Marseille ; ses soins, aussi habiles qu'empressés, m'ont permis de recevoir une bourriche d'animaux venant de la Méditerranée en très-bon état ; je lui en dois mille remerciments, et j'ai terminé mon travail à Pornic, dans la haute Bretagne, à la Rochelle et à Saint-Martin-en-Ré, après avoir encore étudié dans mon laboratoire de la Faculté des animaux que j'avais recueillis à Boulogne-sur-Mer.
+Les premières observations sujets de ce mémoire ont donc été faites à Mahon ; je les ai continuées à Lille avec des animaux que je devais à l'obligeance de M. Alfred Lejourdand, sous-directeur du jardin de zoologie de Marseille ; ses soins, aussi habiles qu'empressés, m'ont permis de recevoir une bourriche d'animaux venant de la Méditerranée en très-bon état ; je lui en dois mille remercîments, et j'ai terminé mon travail à Pornic, dans la haute Bretagne, à la Rochelle et à Saint-Martin-en-Ré, après avoir encore étudié dans mon laboratoire de la Faculté des animaux que j'avais recueillis à Boulogne-sur-Mer.
 
 # 2\. Historique de la question.
 
@@ -66,7 +66,7 @@ Son histoire doit donc être et se trouve en effet dans les ouvrages anciens. On
 
 Mais, de nos jours, les progrès de l'industrie ont fait perdre presque entièrement la valeur à cette matière tinctoriale. Aujourd'hui, dans de rares pays, tout au plus est-elle restée le secret de quelques personnes qui s'en servent pour marquer le linge, car elle est à peu près indélébile. Les choses sont donc bien changées depuis les temps anciens ; aussi ne trouvons-nous relativement à elle que des recherches de pure curiosité dans les temps modernes.
 
-Dans les temps anciens, Aristote et Pline s'en occupent, comme on le pense bien ; l'un et l'autre font connaître comment on préparait la couleur. Il y aura lieu de revenir sur les faits que rapporte Pline, car on sait que cet auteur semble faire recueil des particularités les plus étranges : on croirait parfois qu'il s'impose de rapporter toutes les traditions, quelle qu'en soit la valeur ; il semble les accumuler a plaisir.
+Dans les temps anciens, Aristote et Pline s'en occupent, comme on le pense bien ; l'un et l'autre font connaître comment on préparait la couleur. Il y aura lieu de revenir sur les faits que rapporte Pline, car on sait que cet auteur semble faire recueil des particularités les plus étranges : on croirait parfois qu'il s'impose de rapporter toutes les traditions, quelle qu'en soit la valeur ; il semble les accumuler à plaisir.
 
 Il paraît préférable de juger les opinions diverses au fur et à mesure que les faits se présenteront. Pline et Aristote nous serviront beaucoup pour résoudre certaines questions ; on peut donc laisser de côté, pour le moment, leur texte et leurs opinions, dont l'interprétation se trouvera singulièrement simplifiée par l'exposé des faits que fournit l'expérience.
 
@@ -100,7 +100,7 @@ La conclusion qui lui paraît forcée d'après cela est celle qu'il indique dans
 
 Ainsi, parce que le jour où il fit les taches sur ses manchettes en étant à la plage, il vit la couleur, bien que le soleil fût caché, il arrive à admettre que c'est le mouvement de l'air, et il est si convaincu de cette influence, qu'il ajoute :
 
-« Il arrivait même, lorsque j'exposais les linges au grand air dans le milieu de la cour, et que, pour empêcher le vent de les emporter, je posais quelques petites pierres sur les coins, que tous les coins sur lesquels ces pierres portaient ne changeaient point dutout de couleur, quoique le reste prît une fort belle couleur pourpre.* »
+« Il arrivait même, lorsque j'exposais les linges au grand air dans le milieu de la cour, et que, pour empêcher le vent de les emporter, je posais quelques petites pierres sur les coins, que tous les coins sur lesquels ces pierres portaient ne changeaient point du tout de couleur, quoique le reste prît une fort belle couleur pourpre.* »
 
 *) _Loc. cit._, p. 176.
 
@@ -268,7 +268,7 @@ Sans aucun doute, avec des espèces donnant une grande quantité de matière pur
 
 Sur papier, on aurait des épreuves ayant infiniment plus de détails et de vigueur ; mais la difficulté se trouve dans l'impossibilité où l'on est de pouvoir agir avec une brosse ou un pinceau dur pour étendre la matière impressionnable. Quelques essais n'ont pu être faits qu'à la condition d'étendre la substance avec le doigt sans trop frotter afin de ne point enlever le poli de la feuille de papier.
 
-Je ne doute pas que l'on n'obtienne de très-bons résultats sur papier ; mais n'ayant, dans mon dernier voyage au bord de la mer, que peu de clichés, et l'adhérence qui s'établissait entre le papier et le collodium me faisant redouter d'enlever ce dernier, j'ai renonce à continuer les essais, dans la crainte d'être obligé de cesser mes expériences. Mais, évidemment, le tour de main consisterait à imprégner le papier sans l'érailler ; or, je crois volontiers qu'on arriverait facilement à le trouver.
+Je ne doute pas que l'on n'obtienne de très-bons résultats sur papier ; mais n'ayant, dans mon dernier voyage au bord de la mer, que peu de clichés, et l'adhérence qui s'établissait entre le papier et le collodium me faisant redouter d'enlever ce dernier, j'ai renoncé à continuer les essais, dans la crainte d'être obligé de cesser mes expériences. Mais, évidemment, le tour de main consisterait à imprégner le papier sans l'érailler ; or, je crois volontiers qu'on arriverait facilement à le trouver.
 
 A quel usage pourrait-on employer la pourpre ?
 
@@ -282,7 +282,7 @@ C'est là sans doute une application fort restreinte ; mais cependant, quand on 
 
 La soie, d'ailleurs, conserve ce brillant et ces reflets qu'on lui connaît, et si l'on venait à employer ce moyen photographique, on obtiendrait de l'industrie des soies certainement avec un grain plus fin que celles qu'on trouve dans le commerce, et qui cependant donnent déjà de très-beaux résultats.
 
-Lés étoffes sont d'ailleurs fortement imprégnées de la matière colorante, et le dessin apparaît toujours également net et vif, quelle que soit la face du tissu que l'on examine. On a vu que la pourpre ne devait pas se faner ; on sait aussi que si elle perd d'abord un peu de son teint vif par le lavage, ensuite elle persiste ; on aurait donc des conditions de conservation très-bonnes, et qui donneraient peut-être plus d'importance qu'on ne le pense à cette branche de la photographie.
+Les étoffes sont d'ailleurs fortement imprégnées de la matière colorante, et le dessin apparaît toujours également net et vif, quelle que soit la face du tissu que l'on examine. On a vu que la pourpre ne devait pas se faner ; on sait aussi que si elle perd d'abord un peu de son teint vif par le lavage, ensuite elle persiste ; on aurait donc des conditions de conservation très-bonnes, et qui donneraient peut-être plus d'importance qu'on ne le pense à cette branche de la photographie.
 
 # 4\. Que se passe-t-il pendant l'action du soleil, et dans le changement de couleur ?
 
@@ -326,9 +326,9 @@ Quand on connaît ces faits, on ne peut se refuser d'admettre qu'il a dû se for
 
 M. Sacc a dit dans son rapport : « Il est évident que la matière à pourpre est accompagnée par une autre matière qui joue le rôle de mordant, et c'est à ce mordant qu'est due la fixation de la couleur. »
 
-Est-il absolument nécessaire, pour qu'une matière se fixe, qu'elle soit accompagnée d'un mordant ? Il y a bien des cas en teinture où l'on n'a pas besoin de mordancer les étoffes ; et ici je crois, sans m'être livré pour cela à des recherches particulières, qu'il y a pas de mordant. La substance est soluble, elle imprégne les tissus ; elle devient insoluble, se précipite, et reste par cela même fixée.
+Est-il absolument nécessaire, pour qu'une matière se fixe, qu'elle soit accompagnée d'un mordant ? Il y a bien des cas en teinture où l'on n'a pas besoin de mordancer les étoffes ; et ici je crois, sans m'être livré pour cela à des recherches particulières, qu'il y a pas de mordant. La substance est soluble, elle imprégné les tissus ; elle devient insoluble, se précipite, et reste par cela même fixée.
 
-Il faut dire cependant que les parties environnantes du manteau sécrètent une mucosité assez épaisse qui se mêle toujours, et quoi qu'on fasse, avec la matière à pourpre. Ce mucus aide beaucoup à rendre la couche de matière parfaitement égale dans le cas où l'on veut faire des photographies. Mais il faut aussi savoir que, si l'on a une trop grande quantité de mucus, celui-ci forme une sorte de vernis, de couche superficielle, qui se colore d'abord, et qui forme écran à la surface de la matière imprégnée dans le tissu. Si donc on a fait une photographie en laissant un trop grande quantité de mucus, on a l'image à la surface, en dehors dés tissus, ce qui fait que, pour peu qu'on humecte l'étoffe et qu'on la fasse adhérer à un autre tissu, on perd une grande partie de l'image.
+Il faut dire cependant que les parties environnantes du manteau sécrètent une mucosité assez épaisse qui se mêle toujours, et quoi qu'on fasse, avec la matière à pourpre. Ce mucus aide beaucoup à rendre la couche de matière parfaitement égale dans le cas où l'on veut faire des photographies. Mais il faut aussi savoir que, si l'on a une trop grande quantité de mucus, celui-ci forme une sorte de vernis, de couche superficielle, qui se colore d'abord, et qui forme écran à la surface de la matière imprégnée dans le tissu. Si donc on a fait une photographie en laissant un trop grande quantité de mucus, on a l'image à la surface, en dehors des tissus, ce qui fait que, pour peu qu'on humecte l'étoffe et qu'on la fasse adhérer à un autre tissu, on perd une grande partie de l'image.
 
 Maintenant quelle est l'action de la lumière sur cette matière ? Et d'abord c'est une action de la lumière, et non autre chose.
 
@@ -376,13 +376,13 @@ Un des auteurs qui ont cherché à donner le mieux l'idée du lieu où il faut p
 
 *) Voyez, à la fin de notre mémoire, la note relative au travail de MM. Grimaud et Gruby.
 
-*) _Loc cit._ : page 75, description de l'animal ; page 76, portion de la partie qui colore.  
+*) _Loc. cit._ : page 75, description de l'animal ; page 76, portion de la partie qui colore.  
 Paragraphe 6 de l'appendice. --- « Rompiendo la concha a poca distancia de sua abertura, o de la cabeza, y arrojando los pedazos rotos, se descubre el receptaculo lleno del licor proprio para la tintura de purpura. »  
 § 7. « Se puede facilmente comprehender la posicion de este receptaculo, que no es siempre de la misma capacitad, si le concidera como un Caracol de jardin. Y asi supongale denudo de una parte de su concha, y descubierto le collar, o la masa de carne que circuye su cuello. Se vera colocado en el paraje que corresponde al pescuezo el precioso receptaculo referido. Su origenesta a la distancia de algunas lineas del bordo de su collar, y se extiende en direccion conforme al cuerpo del animal, esto es desde la cabeza hasta la cola, es o en linea recta, sin o culebreando. »
 
 Cherchons à donner une description en rapport avec les connaissances actuelles de l'anatomie des Mollusques.
 
-Il faut de toute nécessité concasser la coquille et débarrasser l'animal de tous les débris. Quand on est arrivé à séparer le muscle rétracteur attaché a la columelle, sans rien déchirer, on a l'animal intact et l'on peut faire la préparation suivante. D'abord qu'on examine l'animal dénudé,* et l'on verra le bord de son manteau entourant la base de la tête et du pied ; son prolongement tubuleux paraîtra à gauche, puis, à droite sur le côté, le muscle de la columelle en avant des tours de spire du corps.
+Il faut de toute nécessité concasser la coquille et débarrasser l'animal de tous les débris. Quand on est arrivé à séparer le muscle rétracteur attaché à la columelle, sans rien déchirer, on a l'animal intact et l'on peut faire la préparation suivante. D'abord qu'on examine l'animal dénudé,* et l'on verra le bord de son manteau entourant la base de la tête et du pied ; son prolongement tubuleux paraîtra à gauche, puis, à droite sur le côté, le muscle de la columelle en avant des tours de spire du corps.
 
 *) Voy. _Ann. des sc. nat._, Zool., 4e série, t. 12, pl. 1, fig. 1, animal de la _Pourpre lapillienne_ vu par le dos.
 
@@ -466,7 +466,7 @@ Quand on soumet à un grossissement un peu fort la matière exsudée à la surfa
 
 *) _Ann. des sc. nat._, Zool., 4e série, t. 12, pl. 1, fig. 7 et 9. _Pourpres hémastome_ et _lapillienne_.
 
-Si l'on enlève avec des ciseaux bien tranchants une petite portion de ce tissu, sa composition se présente avec les mêmes caractères. On trouve qu'il se compose de cellules longues placées parallèlement les unes aux autres, et perpendiculaires par leur plus long axe à la surface du manteau.* Les plus superficielles forment par l'une de leurs extrémités un plan, une surface qui est celle-la même que l'on aperçoit dans les préparations indiquées précédemment en renversant le manteau,* et qui, ainsi qu'on peut le prévoir, est couverte d'un épithélium vibratile, comme tout le reste de la surface du corps.
+Si l'on enlève avec des ciseaux bien tranchants une petite portion de ce tissu, sa composition se présente avec les mêmes caractères. On trouve qu'il se compose de cellules longues placées parallèlement les unes aux autres, et perpendiculaires par leur plus long axe à la surface du manteau.* Les plus superficielles forment par l'une de leurs extrémités un plan, une surface qui est celle-là même que l'on aperçoit dans les préparations indiquées précédemment en renversant le manteau,* et qui, ainsi qu'on peut le prévoir, est couverte d'un épithélium vibratile, comme tout le reste de la surface du corps.
 
 *) _Ann. des sc. nat._, Zool., 4e série, t. 12, pl. 1, fig. 7, 8, 9 _Pourpres hémastome_ et _lapillienne_.
 
@@ -516,7 +516,7 @@ Dans le cas actuel, le sang qui revient du corps rénal par un ou plusieurs tron
 
 *) Voy. _Ann. des sc. ant._, Zool., 4e série, t. 12, pl. 1, fig. 6.
 
-*) Voy. _Ann. des sc. nat._, Zool., 4e série, t. 12, pl. 1, fig 6.
+*) Voy. _Ann. des sc. nat._, Zool., 4e série, t. 12, pl. 1, fig. 6.
 
 Un regard jeté sur la figure montrera, mieux que ne pourrait le faire une description détaillée, la disposition des vaisseaux. En arrière, on voit l'origine du tronc venant du corps de Bojanus* se dirigeant parallèlement à la branchie* et au rectum,* et donnant à la droite de la figure, des rameaux afférents à la branchie ; on remarquera sans doute de la différence entre les capillaires à droite et à gauche de ce tronc principal.
 
@@ -546,7 +546,7 @@ De quelle poche entend parler M. Sacc ? Évidemment, si c'est du corps de Bojanu
 
 *) _Ibid._, p. 305.
 
-Or il n'y a aucune analogie entre la glande dont on vient de lire la description et le sac de Bojanus ; sans aucun doute, ce sont des considérations chimiques qui ont conduit à cette conclusion : car la murexide, qui prend naissance quand on met l'acide urique en rapport avec l'acide azotique, est fournie par l'urine, et rappelle par sa couleur pourpre celle que donnent les coquillages. Il reste donc complétement à vérifier les conclusions du travail fort intéressant de M.Sacc, mais qui ne paraît pas basé sur des observations directes, puisqu'on y trouve ceci : « Qu'il serait bien utile de chercher le mordant (qui sert à fixer la couleur) organique, et qu'on le trouverait à coup sûr, si l'on pouvait avoir quelques-uns des _Buccinum lapillus_,* si communs sur les côtes du Poitou.* »
+Or il n'y a aucune analogie entre la glande dont on vient de lire la description et le sac de Bojanus ; sans aucun doute, ce sont des considérations chimiques qui ont conduit à cette conclusion : car la murexide, qui prend naissance quand on met l'acide urique en rapport avec l'acide azotique, est fournie par l'urine, et rappelle par sa couleur pourpre celle que donnent les coquillages. Il reste donc complétement à vérifier les conclusions du travail fort intéressant de M. Sacc, mais qui ne paraît pas basé sur des observations directes, puisqu'on y trouve ceci : « Qu'il serait bien utile de chercher le mordant (qui sert à fixer la couleur) organique, et qu'on le trouverait à coup sûr, si l'on pouvait avoir quelques-uns des _Buccinum lapillus_,* si communs sur les côtes du Poitou.* »
 
 *) Sans doute M. Sacc a voulu dire la Pourpre. Dans un mémoire de si fraîche date, voilà encore un nom qui jette du doute sur l'espèce.
 
@@ -578,7 +578,7 @@ Cette glande est logée sur le côté du rectum, qu'elle accompagne jusqu'à l'a
 
 Il ne paraît pas que son existence ait été connue ; on n'en trouve pas l'indication dans les ouvrages de malacologie.
 
-Sans avoir fait un grand nombre de recherches comparatives, il est aussi permis de supposer par quelques faits que son existence n'est pas générale dans les Gastéropodes. Les Gastéropodes nus ne paraissent pas la posséder, de même que beaucoup des Pectinibranches de Cuvier. Dans beaucoup do ces derniers, l'absence n'est pas douteuse, à moins toutefois qu'un examen trop superficiel, basé en grande partie sur la coloration de la glande, n'ait fait porter un jugement trop précipité.
+Sans avoir fait un grand nombre de recherches comparatives, il est aussi permis de supposer par quelques faits que son existence n'est pas générale dans les Gastéropodes. Les Gastéropodes nus ne paraissent pas la posséder, de même que beaucoup des Pectinibranches de Cuvier. Dans beaucoup de ces derniers, l'absence n'est pas douteuse, à moins toutefois qu'un examen trop superficiel, basé en grande partie sur la coloration de la glande, n'ait fait porter un jugement trop précipité.
 
 Quoi qu'il en soit, les genres Pourpre et Rocher l'ont montrée fort caractérisée. Dans les _Purpura lapillus_, _Murex trunculus_, _M. brandaris_, _M. erinaceus_, on la voit au travers du manteau, dès que l'on a enlevé la coquille. La couleur brunâtre de ses arborisations l'a fait toujours reconnaître au travers des tissus et des mucosités.*
 
@@ -626,7 +626,7 @@ Les cæcums, ou culs-de-sac borgnes, sont formés d'une membrane mince, dans laq
 
 *) _Ibid._
 
-Puis enfermé par cette membrane, se trouve le parenchyme cellulaire véritablement glandulaire. Cette partie est facile a étudier : elle est composée de cellules dont les dimensions sont beaucoup plus considérables en largeur qu'en hauteur, ce qui donne au tissu de la glande une apparence toute différente, suivant que l'on examine ses parois de champ sur le côté, ou bien de face sur le milieu.
+Puis enfermé par cette membrane, se trouve le parenchyme cellulaire véritablement glandulaire. Cette partie est facile à étudier : elle est composée de cellules dont les dimensions sont beaucoup plus considérables en largeur qu'en hauteur, ce qui donne au tissu de la glande une apparence toute différente, suivant que l'on examine ses parois de champ sur le côté, ou bien de face sur le milieu.
 
 Les cellules sont ou paraissent, dans un sens, assez grandes ; elles sont remplies de granulations fines auxquelles est due la couleur.
 
@@ -668,7 +668,7 @@ Cette matière (à part l'Aplysie fasciée, qui, même pour le bord de son mante
 
 On ne peut davantage appeler ici glande ces parties logées si isolément dans l'épaisseur du manteau : car on croirait voir se rompre de petites poches qui rejettent au dehors leur contenu sous l'influence des contractions des muscles ; il y a, sans contredit, une analogie des plus grandes avec ce que l'on observe dans le manteau des Pourpres et des Murex.
 
-Porte-t-on cette matière sous le microscope, l'analogie devient encore plus grande, pour les Limaçons en particulier ; l'aspect des masses allongées de granulation rappelle les cellules des Pourpres ; seulement, quand on prend une parcelle de tissu tout entier, on observe que les cellules chromatogènes sont plus isolées que dans les Pourpres, et surtout plus profondément placées au milieu des fibres des tissus. C'est du côté droit vers l'anus que, dans le Limaçon, transsude cette matière jaune verdâtre ; cependant le reste du manteau en fournit aussi, et par fois on ne voit sortir du pied.
+Porte-t-on cette matière sous le microscope, l'analogie devient encore plus grande, pour les Limaçons en particulier ; l'aspect des masses allongées de granulation rappelle les cellules des Pourpres ; seulement, quand on prend une parcelle de tissu tout entier, on observe que les cellules chromatogènes sont plus isolées que dans les Pourpres, et surtout plus profondément placées au milieu des fibres des tissus. C'est du côté droit vers l'anus que, dans le Limaçon, transsude cette matière jaune verdâtre ; cependant le reste du manteau en fournit aussi, et parfois on ne voit sortir du pied.
 
 Dans l'une de ces petites espèces que l'on recueille sur les rivages de l'Océan et que l'on nomme Vigneaux, dans le _Turbo littoralis_ par exemple, on trouve la matière tout à fait semblable de structure et d'apparence, et surtout on trouve les cellules accumulées dans un point, dans le même point que chez les Pourpres. Le manteau, vu en dessous,* présente exactement entre la branchie et le rectum l'apparence qui a été décrite chez les Pourpres, et l'on reconnaît la glande purpurigène, seulement transparente, et n'ayant pas, soit cette légère teinte jaunâtre ; soit cette opacité blanchâtre.
 
@@ -686,9 +686,9 @@ De tout ceci il paraît devoir résulter que la production d'une matière sembla
 
 La propriété de virer au violet sous l'influence des rayons lumineux semble rester l'apanage de quelques genres, dont la plupart, si ce n'est toutes les espèces observées, présentent la même particularité.
 
-Ainsi ce ne serait peut être pas trop se hâter de généraliser que de dire : Chez tous les Mollusques, cette matière est produite dans des points plus ou moins semblables, et tout en ayant une même origine, elle jouit de propriétés diverses chez différentes espèces.
+Ainsi ce ne serait peut-être pas trop se hâter de généraliser que de dire : Chez tous les Mollusques, cette matière est produite dans des points plus ou moins semblables, et tout en ayant une même origine, elle jouit de propriétés diverses chez différentes espèces.
 
-Dans cette différence de propriétés on ne doit trouver, du reste, rien d'étrange. Qui n'a reçu, en chassant les Insectes, quelque coup d'aiguillon d'un Hyménoptère, et qui n'a été frappé de là différence dans la douleur que produisait le venin introduit dans la plaie ? Au fond, anatomiquement parlant, c'est même chose ; mais le résultat semble très différent à celui qui reçoit le venin.
+Dans cette différence de propriétés on ne doit trouver, du reste, rien d'étrange. Qui n'a reçu, en chassant les Insectes, quelque coup d'aiguillon d'un Hyménoptère, et qui n'a été frappé de la différence dans la douleur que produisait le venin introduit dans la plaie ? Au fond, anatomiquement parlant, c'est même chose ; mais le résultat semble très différent à celui qui reçoit le venin.
 
 Voici un serpent venimeux qui fera à peine souffrir ou qui ne mettra pas en danger la vie de l'homme, et tel autre le foudroiera en quelques instants.
 
@@ -754,7 +754,7 @@ Ainsi se caractérise le sens respectif de ces deux mots. Il ressort évidemment
 
 *) On peut remarquer que, dans les citations précédentes, la traduction latine emploie toujours _puniceus_ et _violaceus_ pour rendre φοινικοῦν et ἁλουργὲς.
 
-Gœthe, comme chacun le sait, a lui aussi traité des couleurs. En sa qualité de philosophe, et surtout de naturaliste ou d'homme de science, à laquelle il tenait tant, il ne pouvait laisser de côté les ouvrages d'Aristote. Il a traduit en allemand le Περὶ χρωματων (_De coloribus_), qu'il semble rapporter, d'après le titre, indifféremment à Théophraste* ; mais il n'emploie pas le mot allemand _violet_ pour traduire _alourgès_, il se sert du mot _blaurothe_ (rougebleu). Or quiconque a manié une couleur voit la couleur violette dans le mélange du bleu et du rouge.*
+Gœthe, comme chacun le sait, a lui aussi traité des couleurs. En sa qualité de philosophe, et surtout de naturaliste ou d'homme de science, à laquelle il tenait tant, il ne pouvait laisser de côté les ouvrages d'Aristote. Il a traduit en allemand le Περὶ χρωματων (_De coloribus_), qu'il semble rapporter, d'après le titre, indifféremment à Théophraste* ; mais il n'emploie pas le mot allemand _violet_ pour traduire _alourgès_, il se sert du mot _blaurote_ (rougebleu). Or quiconque a manié une couleur voit la couleur violette dans le mélange du bleu et du rouge.*
 
 *) Voy. _Œuvres de Gœthe_, édit. Tetot (Paris 1837), t. 5, p. 494, _Theophrast oder Aristoteles von den Farben_.
 
@@ -773,7 +773,7 @@ Si, comme c'est incontestable, d'après ce qui vient d'être dit, _phoinicoun_ r
 
 Ainsi, par tous ces détails, peut-être un peu longs, mais nécessaires cependant, on arrive à conclure qu'Aristote et les Grecs, ainsi que leurs commentateurs, en désignant la couleur pourpre par le mot _alourgès_, entendaient parler d'une couleur plutôt violette que rouge, et qu'ils réservaient le mot _phoinicoun_ pour les cas où la nuance, plus voisine du rouge, était aussi plus claire et plus éclatante.
 
-Voilà donc un premier pas de fait dans la détermination exacte de la couleur de la pourpre ; mais évidemment il existait, comme il a a été dit, plusieurs nuances, les unes plus foncées que les autres.
+Voilà donc un premier pas de fait dans la détermination exacte de la couleur de la pourpre ; mais évidemment il existait, comme il a été dit, plusieurs nuances, les unes plus foncées que les autres.
 
 Or, c'est précisément au dernier des tons obtenu à la fin de la préparation de la matière tinctoriale que se rapportait l'_alourgès_, comme on peut en juger par le passage d'Aristote, où, après avoir parlé du changement des couleurs dans les plantes, il passe à celui qu'éprouve la matière de la pourpre pendant ses préparations. « Dès le commencement, lorsque les teinturiers en pourpre ont abandonné les veines chargées de sang dans la chaudière, elles deviennent sombres et noires ; mais lorsque la fleur* a été cuite convenablement, elle devient d'un _alourgès_ beau et brillant.* »
 
@@ -781,7 +781,7 @@ Or, c'est précisément au dernier des tons obtenu à la fin de la préparation 
 
 *) _Loc. cit._, cap. 5, p. 651, lib. 7 : τὰ μὲν γὰρ ἑξ ἀρχῆς, ὅταν βαπτοντες τήν πορφύραν καθιῶσι τάς αἱματίδας, ορφνιαι γίνονται καὶ μέλαιναι καὶ ἀεροειδεῖς τοῦ δ ᾽ ἅνθους συνεψηθέντος ἱκανῶς, ἁλουργὲς, γίνεται εὐανθὲς καὶ λαμπρόν. Traduction latine : « Initio enim, quum purpurarii venas sanguinarias (in cortinam) demiserint, caliginosæ fiunt et nigræ et aereæ ; pigmento autem salis concocto, colorem violaceum floridum et splendidum assumunt. »
 
-Ce qui a contribué à jeter sur la couleur qui nous occupe le vague que nous cherchons a écarter, c'est qu'elle présentait une foule de tons et de nuances ; et ce devait être absolument comme cela se voit aujourd'hui ; surtout pour les couleurs composées.
+Ce qui a contribué à jeter sur la couleur qui nous occupe le vague que nous cherchons à écarter, c'est qu'elle présentait une foule de tons et de nuances ; et ce devait être absolument comme cela se voit aujourd'hui ; surtout pour les couleurs composées.
 
 « C'est une idée complétement fausse que de se représenter sous le nom de _pourpre_ une seule couleur, » dit Heeren.*
 
@@ -793,7 +793,7 @@ Ce qui a contribué à jeter sur la couleur qui nous occupe le vague que nous ch
 
 Il est certain que le mot _pourpre_, désignant à la fois une étoffe ; une couleur, une matière colorante et un animal, a dû donner parfois lieu à des confusions résultant de cette multiplicité de sens appliqués à un seul mot ; de plus, les épithète différentes employées pour désigner des tons ou des nuances diverses d'une même couleur sont venues ajouter à la confusion, et augmenter la difficulté qu'il y a à reconnaître la valeur réelle du mot.
 
-Quant à la multiplicité dès nuances, doit-on en juger par un passage de Heeren, qui n'avance lui-même que des faits empruntés à Amati et à Rosa ? Voici ce qu'il dit dans une note : « Amati compte neuf couleurs de pourpre simple, depuis le blanc jusqu'au noir. Les neuf premières sont le noir, le gris, le violet, le rouge, le bleu foncé, le bleu clair, le jaune, le rougeâtre, le blanc.* » Pour peu que les couleurs composées soient différentes des précédentes, toute l'échelle chromatique se trouvera représentée par ce seul mot de _pourpre_. Il y a là sans doute de l'exagération, à moins que quelques-unes des teintes indiquées ne soient des passages produits par la lumière solaire ; mais cela ne paraît guère probable.
+Quant à la multiplicité des nuances, doit-on en juger par un passage de Heeren, qui n'avance lui-même que des faits empruntés à Amati et à Rosa ? Voici ce qu'il dit dans une note : « Amati compte neuf couleurs de pourpre simple, depuis le blanc jusqu'au noir. Les neuf premières sont le noir, le gris, le violet, le rouge, le bleu foncé, le bleu clair, le jaune, le rougeâtre, le blanc.* » Pour peu que les couleurs composées soient différentes des précédentes, toute l'échelle chromatique se trouvera représentée par ce seul mot de _pourpre_. Il y a là sans doute de l'exagération, à moins que quelques-unes des teintes indiquées ne soient des passages produits par la lumière solaire ; mais cela ne paraît guère probable.
 
 *) Voy. Heeren, paragraphe 1°, p. 89, vol. 2 : « Amati, 1, c, Zahit 9 einfache Purpurfarben, von weiss bis zu schwarz, und 5 gemischte auf Jene erste sind, Schwarz, graun (lividus), violet, rot, dunkelblau, hellblau, gelb, rotlich, weiss. »
 
@@ -801,7 +801,7 @@ Quand on remonte aux ouvrages originaux, on est frappé des répétitions que l'
 
 Puis c'est lui qui à son tour, pendant bien longtemps, sert à ses successeurs qui oublient aussi de dire qu'ils lui empruntent, ou qui le citent en interprétant simplement le sens des mots, sans rapprocher de ces interprétations les faits positifs fournis par l'observation directe de la nature.
 
-Heeren indique les differentes espèces de coquillages fournissant la pourpre, et l'on reconnaît facilement (c'est, du reste, d'après Amati) les distinctions du Buccin et de la Pourpre, telles qu'elles ont été données par Pline. La veine blanche placée près du cou et fournissant la fleur, rien ne manque pour reconnaître le naturaliste latin.*
+Heeren indique les différentes espèces de coquillages fournissant la pourpre, et l'on reconnaît facilement (c'est, du reste, d'après Amati) les distinctions du Buccin et de la Pourpre, telles qu'elles ont été données par Pline. La veine blanche placée près du cou et fournissant la fleur, rien ne manque pour reconnaître le naturaliste latin.*
 
 *) Voy. _loc. cit._, Heeren, Bd. 2, p. 89. (Man sehe Amati, p. 27. Die Hauptstelle bei Pline, 9, 36, cf. Amati, p. 30.)
 
@@ -868,7 +868,7 @@ Sans contredit encore, le mot _pourpre_ s'appliquant aux vêtements des grands,*
 
 *) Puisqu'on les nommait _purpurati_, les grands.
 
-Du reste, quelques citations montreront encore que la pourpre ne fut pas toujours rouge, comme on le pense trop souvent. Pline emprunte à Cornelius Nepos un passage plein d'intérêt pour la solution de la question : « Pendant ma jeunesse, dit Cornelius, la pourpre violette était en vogue et se vendait cent deniers la livre* ; bientôt après on préféra la pourpre rouge de Tarente, et ensuite la double pourpre de Tyr, dont la livre coûtait plus de mille deniers.* » Ce passage me paraît montrer d'une manière non dou. teuse ce qui vient d'être avancé plus haut, à savoir, que la véritable teinte pourpre, la couleur naturelle, était le violet. En effet, on voit tout d'abord la pourpre violette estimée, c'est la première obtenue ; puis par un raffinement, par une exigence du goût, elle fut demandée plus rouge, plus éclatante, ce qui s'obtint par des manipulations, par des perfectionnements de l'art du teinturier : de là probablement une modification de la couleur. Enfin on arriva à la _purpura dibapha_, ou aux étoffes qui avaient été teintes deux fois, afin d'avoir une couleur plus belle, plus vive à la fois, plus riche, plus chère et plus rare. « On appelait _dibapha_ la pourpre qui, par une dépense magnifique alors, avait été teinte deux fois, comme le sont aujourd'hui presque toutes les pourpres les plus recherchées.* »
+Du reste, quelques citations montreront encore que la pourpre ne fut pas toujours rouge, comme on le pense trop souvent. Pline emprunte à Cornelius Nepos un passage plein d'intérêt pour la solution de la question : « Pendant ma jeunesse, dit Cornelius, la pourpre violette était en vogue et se vendait cent deniers la livre* ; bientôt après on préféra la pourpre rouge de Tarente, et ensuite la double pourpre de Tyr, dont la livre coûtait plus de mille deniers.* » Ce passage me paraît montrer d'une manière non douteuse ce qui vient d'être avancé plus haut, à savoir, que la véritable teinte pourpre, la couleur naturelle, était le violet. En effet, on voit tout d'abord la pourpre violette estimée, c'est la première obtenue ; puis par un raffinement, par une exigence du goût, elle fut demandée plus rouge, plus éclatante, ce qui s'obtint par des manipulations, par des perfectionnements de l'art du teinturier : de là probablement une modification de la couleur. Enfin on arriva à la _purpura dibapha_, ou aux étoffes qui avaient été teintes deux fois, afin d'avoir une couleur plus belle, plus vive à la fois, plus riche, plus chère et plus rare. « On appelait _dibapha_ la pourpre qui, par une dépense magnifique alors, avait été teinte deux fois, comme le sont aujourd'hui presque toutes les pourpres les plus recherchées.* »
 
 *) Pour comparer avec les valeurs modernes, voyez l'estimation de la livre et du denier par Letronne, et avant lui Romé de Lisle.  
 La valeur varia souvent pour les monnaies, et le tableau des variations nous permet d'estimer ainsi, la valeur des pourpres indiquées par Cornelius Nepos :  
@@ -888,7 +888,7 @@ Pline indique une différence entre la couleur conchylienne et la pourpre ; on r
 
 Plus loin, il s'attache à faire connaître cette différence : « On suit le même procédé pour la couleur conchylienne, si ce n'est qu'on n'emploie pas de buccin ; en outre, on verse dans le suc de pourpre de l'eau et de l'urine à parties égales, et l'on y ajoute une moitié de plus en pourpre. C'est ainsi qu'au moyen d'une saturation incomplète, on obtient cette couleur tendre si vantée, et d'autant plus claire, que la laine a pris moins de teinture.* »
 
-*) _Loc cit._, t. 7, p. 110, liv. 9, 64 : « In conchyliata veste cetera eadem, sine buccino : præterque, jus temperatur aqua, et pro indiviso, humano potus excremento, dimidia et medicamenta adduntur. Sic gignitur laudatus ille pallor saturitate fraudata, tantoque dilutior, quanto magis vellera esuriunt. »
+*) _Loc. cit._, t. 7, p. 110, liv. 9, 64 : « In conchyliata veste cetera eadem, sine buccino : præterque, jus temperatur aqua, et pro indiviso, humano potus excremento, dimidia et medicamenta adduntur. Sic gignitur laudatus ille pallor saturitate fraudata, tantoque dilutior, quanto magis vellera esuriunt. »
 
 Ainsi la couleur conchylienne ne paraissait être autre chose que la pourpre (probablement violette) très légère, et elle se rapporterait sans doute à ces dessins et à ces effets si légers, si doux, que j'ai obtenus sur batiste et sur soie, en employant fort peu de matière purpurigène du _Purpura hæmastoma_ à Mahon, ou du _Murex brandaris_ de Marseille à Lille.
 
@@ -908,7 +908,7 @@ Si donc ou se rapporte aux expériences et aux explications données plus haut, 
 
 Si l'on ne perd pas de vue que, dans quelques dessins obtenus avec la matière des différentes espèces, j'ai obtenu des tons et des reflets bleuâtres et rougeâtres ; si l'on n'oublie pas non plus que les anciens estimaient beaucoup les vêtements de pourpre à reflet, on devra toujours, dans les draperies, sur le fond du violet plus ou moins varié comme il vient d'être indiqué, placer habilement des glacis de rouge et de bleu, qui répondront bien certainement à ces tons si vifs et si changeants dont parlent Pline et Sénèque.
 
-Il est bien difficile de décrire une couleur ; cependant je dirai que dans tous les essais obtenus, la teinte était non pas un violet bleuâtre, mais bien un violet plus rosé que bleu. En faisant des essais pour imiter la couleur obtenue naturellement, le carmin, le bleu de cobalt et un peu d'encre de Chine me donnaient les tons sombres très beaux ; pour les nuances claires, j'obtenais des teintes avec de la garance cerise et un peu de bleu d'outre mer ; mais toujours les violets doivent être plus voisins du rose que du bleu.
+Il est bien difficile de décrire une couleur ; cependant je dirai que dans tous les essais obtenus, la teinte était non pas un violet bleuâtre, mais bien un violet plus rosé que bleu. En faisant des essais pour imiter la couleur obtenue naturellement, le carmin, le bleu de cobalt et un peu d'encre de Chine me donnaient les tons sombres très beaux ; pour les nuances claires, j'obtenais des teintes avec de la garance cerise et un peu de bleu d'outre-mer ; mais toujours les violets doivent être plus voisins du rose que du bleu.
 
 Il faut enfin ajouter que la couleur pourpre de Cassius, et les couleurs ou précipités que les chimistes appellent _pourpres_, se rapportent à ces teintes foncées, sombres, mais violettes, dont il vient d'être parlé, et qu'on obtient surtout avec les Pourpres bouche de sang, en employant beaucoup de matière.
 
@@ -922,7 +922,7 @@ Les _Murex brandaris_, _M. trunculus_, _M. erinaceus_, ont servi aux expérience
 
 Dans ces trois espèces prises sur des points bien différents, l'organisation des parties productrices est tout à fait identique. La glande anale surtout se fait remarquer par sa teinte très foncée, d'une manière très nette, sur les côtés de la bandelette purpurigène.
 
-Il faut remarquer toutefois que le _Murex brandaris_ donne un violet parfois plus rose et extrêmement délicat, et beaucoup plus clair ; du moins c'est ce qui s'est présenté dans les expériences faites a Lille, avec les animaux que M. Alfred Lejourdand avait bien voulu m'adresser de Marseille. Le ciel des Flandres est loin d'avoir ce jour éblouissant du Midi, et l'on peut se demander si l'action de la lumière un peu différente n'aurait pas une part dans la variation de la teinte ?
+Il faut remarquer toutefois que le _Murex brandaris_ donne un violet parfois plus rose et extrêmement délicat, et beaucoup plus clair ; du moins c'est ce qui s'est présenté dans les expériences faites à Lille, avec les animaux que M. Alfred Lejourdand avait bien voulu m'adresser de Marseille. Le ciel des Flandres est loin d'avoir ce jour éblouissant du Midi, et l'on peut se demander si l'action de la lumière un peu différente n'aurait pas une part dans la variation de la teinte ?
 
 Quant au _Murex trunculus_, voici ce qui m'a frappé : à Mahon, il est connu des pêcheurs pour donner une teinte bleuâtre, et surtout pour ne pas fournir des marques fixes résistant au lavage. Or j'ai fait à Mahon des dessins que j'ai et que je puis montrer ; ils sont d'un violet bleuâtre avec des parties tout à fait bleues.
 
@@ -998,7 +998,7 @@ Cependant il y est dit encore : « On ne connaît pas aujourd'hui très bien les
 
 *) Voy. édit. Panckoucke, Pline, t. 7, note, p. 190.
 
-Pour ce qui est d'admettre les distinctions d'espèces établies par le naturaliste latin, il faut une certaine réserve. Ainsi, quand il reconnaît cinq variétés de Pourpres (entendre _Murex_ dans le langage scientifique moderne) dont il apprécie les valeurs relatives, il est impossible de les rapporter à des espèces bien déterminées. Je n'esssaierai donc pas de fixer à quelles espèces des classifications modernes se rapportent celles qu'il nomme _limoneuse_, _algensis_, _calculensis_, _dialutensis_, etc.* Il est très probable que les espèces employées étaient plus nombreuses que celles dont il a été question dans ce mémoire ; mais ce ne serait que par des recherches sur la faune des côtes de Tyr que l'on pourrait peut-être arriver à quelques données plus précises.
+Pour ce qui est d'admettre les distinctions d'espèces établies par le naturaliste latin, il faut une certaine réserve. Ainsi, quand il reconnaît cinq variétés de Pourpres (entendre _Murex_ dans le langage scientifique moderne) dont il apprécie les valeurs relatives, il est impossible de les rapporter à des espèces bien déterminées. Je n'essaierai donc pas de fixer à quelles espèces des classifications modernes se rapportent celles qu'il nomme _limoneuse_, _algensis_, _calculensis_, _dialutensis_, etc.* Il est très probable que les espèces employées étaient plus nombreuses que celles dont il a été question dans ce mémoire ; mais ce ne serait que par des recherches sur la faune des côtes de Tyr que l'on pourrait peut-être arriver à quelques données plus précises.
 
 *) Voy. _Loc. cit._, p. 106 et 107.
 
@@ -1010,7 +1010,7 @@ Pline raconte ainsi la pêche des Pourpres (entendez _Murex_) : « On prend les 
 
 *) _Loc. cit._, t. 7, p. 106 et 107, 61 : « Capiuntur autem Purpuræ parvulis rarisque textu veluti nassis in alto jactis. Inest iis esca, clusiles mordacesque conchæ, ceu mitulos videmus : has semineces, sed edditas mari, avido hiatu reviviscentes, appetunt Purpuræ, porrectisque linguis infestant : at illæ aculo exstimulatæ claudunt se, comprimuntque mordentia : ita pendentes aviditate sua Purpuræ tolluntur. »
 
-Cette façon de prendre les Pourpres a quelque chose de singulier et qui étonne tout d'abord.
+Cette façon de prendre les Pourpres à quelque chose de singulier et qui étonne tout d'abord.
 
 Je n'ai jamais pêché à Mahon un individu de l'espèce _Murex trunculus_, sans que le pêcheur qui m'accompagnait, et qui était _mariscador_ (pêcheur de coquillages), me répétât : « Ces _cors_ détruisent mes coquillages ; ils viennent autour des _mariscos_ (coquillages) surtout des Prères (_Scupinas gravadas_ en mahonais, _Corbula striata_ Deshayes), qui sont estimées, et par cela même parquées dans certains points du port où on les trouve au besoin, ils les sucent et les font mourir, puis ils les dévorent. » Je taxais mon pêcheur d'exagération ; et je crois encore que si les _Murex_ sont très carnassiers, ils doivent cependant y regarder à deux fois avant d'introduire leur trompe (ce qu'on appelle à tort langue) entre les valves si puissantes d'une _Venus verrucosa_ ou d'une _Corbula striata_, car elle serait sans aucun doute plus que blessée par la pression. Ce qui est plus probable, c'est que les _Murex_ font pénétrer en effet leur trompe dans les coquilles bivalves, mourantes ou mortes, pour s'en repaître, et il ne serait d'ailleurs nullement nécessaire de les voir pincés par leur _langue_ pour qu'ils pussent être pris. Ces animaux, au lieu de fuir quand ils sentent des mouvements auprès d'eux, s'enferment ou restent fixés et assez fortement adhérents aux corps sur lesquels ils sont : aussi pourrait-on voir relever les nasses et monter les Rochers avec elles, sans qu'il fût nécessaire de croire que ceux-ci sont suspendus par la langue. Dans le récit de Pline il y a de l'exagération ; mais à coup sûr, il peut et il doit y avoir du vrai dans le mode de pêche qu'il indique. En descendant ainsi au fond de la mer des coquillages en moitié morts, c'était un appât qui devait sans aucun doute attirer les animaux carnassiers, et en retirant les nasses, on devait remonter tous les _Murex_ venus sur l'appât.
 
@@ -1028,7 +1028,7 @@ On voit enfin ici que les habitudes de faire saillir au loin la langue (entendre
 
 MM. Grimaux de Caux et Gruby ont fait une communication à l'Académie des sciences en 1842* sur l'organe et la liqueur purpurifère du _Murex brandaris_. Ce travail se rapporte aux recherches de M. le docteur Bizio, dont il a été question ; on y trouve la description suivante ;
 
-« Cette poche (celle qui contient la liqueur purpurigène) a 2 centimètres de long, 1 1/2 de large à sa base ; elle forme un culde-sac et a par conséquent la forme d'un entonnoir ; elle est située à la partie supérieure du corps de l'animal, entre les organes de la tête et le foie. C'est proprement la cavité pulmonaire. Elle s'ouvre par une grande solution de continuité entre le bord du manteau et le corps de l'animal, et elle fournit un prolongement qui se loge dans un canal, au moyen duquel la cavité pulmonaire communique à l'extérieur, quand l'ouverture de la coquille est complètement fermée par l'opercule. »
+« Cette poche (celle qui contient la liqueur purpurigène) a 2 centimètres de long, 1 1/2 de large à sa base ; elle forme un cul-de-sac et a par conséquent la forme d'un entonnoir ; elle est située à la partie supérieure du corps de l'animal, entre les organes de la tête et le foie. C'est proprement la cavité pulmonaire. Elle s'ouvre par une grande solution de continuité entre le bord du manteau et le corps de l'animal, et elle fournit un prolongement qui se loge dans un canal, au moyen duquel la cavité pulmonaire communique à l'extérieur, quand l'ouverture de la coquille est complètement fermée par l'opercule. »
 
 *) _Comptes rendus_, 1842, t. 15, p. 1007, _Description anatomique de l'organe qui fournit la liqueur purpurigène dans le_ Murex brandaris, _et une analyse microscopique de cette liqueur_, par MM. Grimaux de Caux et Gruby.
 
